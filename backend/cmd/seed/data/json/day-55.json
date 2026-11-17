@@ -1,0 +1,312 @@
+[
+  {
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "meaning": "secara langsung"
+  },
+  {
+    "kanji": "直線",
+    "hiragana": "ちょくせん",
+    "meaning": "garis lurus"
+  },
+  {
+    "kanji": "正直",
+    "hiragana": "しょうじき",
+    "meaning": "jujur"
+  },
+  {
+    "kanji": "直す",
+    "hiragana": "なおす",
+    "meaning": "memperbaiki"
+  },
+  {
+    "kanji": "直る",
+    "hiragana": "なおる",
+    "meaning": "menjadi tidak rusak lagi"
+  },
+  {
+    "kanji": "追加",
+    "hiragana": "ついか",
+    "meaning": "tambahan, menambah"
+  },
+  {
+    "kanji": "追う",
+    "hiragana": "おう",
+    "meaning": "mengejar"
+  },
+  {
+    "kanji": "痛み",
+    "hiragana": "いたみ",
+    "meaning": "rasa sakit"
+  },
+  {
+    "kanji": "痛い",
+    "hiragana": "いたい",
+    "meaning": "sakit"
+  },
+  {
+    "kanji": "定期券",
+    "hiragana": "ていきけん",
+    "meaning": "tiket langganan (kereta, gym, dll)"
+  },
+  {
+    "kanji": "指定する",
+    "hiragana": "していする",
+    "meaning": "menunjuk atau menentukan"
+  },
+  {
+    "kanji": "定食",
+    "hiragana": "ていしょく",
+    "meaning": "makanan satu set"
+  },
+  {
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "meaning": "halaman rumah"
+  },
+  {
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "meaning": "rumah tangga"
+  },
+  {
+    "kanji": "停電",
+    "hiragana": "ていでん",
+    "meaning": "pemadaman listrik"
+  },
+  {
+    "kanji": "停留所",
+    "hiragana": "ていりゅうじょ",
+    "meaning": "halte"
+  },
+  {
+    "kanji": "目的",
+    "hiragana": "もくてき",
+    "meaning": "tujuan"
+  },
+  {
+    "kanji": "女性的な",
+    "hiragana": "じょせいてきな",
+    "meaning": "feminin"
+  },
+  {
+    "kanji": "世界的な",
+    "hiragana": "せかいてきな",
+    "meaning": "berskala dunia"
+  },
+  {
+    "kanji": "適当な",
+    "hiragana": "てきとうな",
+    "meaning": "sesuai, asal asalan"
+  },
+  {
+    "kanji": "鉄",
+    "hiragana": "てつ",
+    "meaning": "besi"
+  },
+  {
+    "kanji": "鉄路",
+    "hiragana": "てつろ",
+    "meaning": "rel kereta"
+  },
+  {
+    "kanji": "注意点",
+    "hiragana": "ちゅういてん",
+    "meaning": "poin penting"
+  },
+  {
+    "kanji": "点",
+    "hiragana": "てん",
+    "meaning": "titik"
+  },
+  {
+    "kanji": "伝言",
+    "hiragana": "でんごん",
+    "meaning": "titipan pesan (lisan)"
+  },
+  {
+    "kanji": "宣伝",
+    "hiragana": "せんでん",
+    "meaning": "iklan"
+  },
+  {
+    "kanji": "伝わる",
+    "hiragana": "つたわる",
+    "meaning": "tersampaikan"
+  },
+  {
+    "kanji": "伝える",
+    "hiragana": "つたえる",
+    "meaning": "menyampaikan"
+  },
+  {
+    "kanji": "渡る",
+    "hiragana": "わたる",
+    "meaning": "menyeberang"
+  },
+  {
+    "kanji": "渡す",
+    "hiragana": "わたす",
+    "meaning": "menyerahkan"
+  },
+  {
+    "kanji": "怒る",
+    "hiragana": "おこる",
+    "meaning": "marah"
+  },
+  {
+    "kanji": "電灯",
+    "hiragana": "でんとう",
+    "meaning": "lampu listrik"
+  },
+  {
+    "kanji": "当然",
+    "hiragana": "とうぜん",
+    "meaning": "tentu saja, sudah jelas"
+  },
+  {
+    "kanji": "当たり前",
+    "hiragana": "あたりまえ",
+    "meaning": "tentu saja, sudah jelas"
+  },
+  {
+    "kanji": "担当する",
+    "hiragana": "たんとうする",
+    "meaning": "bertanggung jawab"
+  },
+  {
+    "kanji": "日当たりがいい",
+    "hiragana": "ひあたりがいい",
+    "meaning": "pencahayaan yang bagus (sinar matahari)"
+  },
+  {
+    "kanji": "弁当",
+    "hiragana": "べんとう",
+    "meaning": "bekal"
+  },
+  {
+    "kanji": "投げる",
+    "hiragana": "なげる",
+    "meaning": "melempar"
+  },
+  {
+    "kanji": "逃げる",
+    "hiragana": "にげる",
+    "meaning": "melarikan diri"
+  },
+  {
+    "kanji": "冷凍",
+    "hiragana": "れいとう",
+    "meaning": "beku, membekukan"
+  },
+  {
+    "kanji": "凍る",
+    "hiragana": "こおる",
+    "meaning": "membeku"
+  },
+  {
+    "kanji": "島",
+    "hiragana": "しま",
+    "meaning": "pulau"
+  },
+  {
+    "kanji": "お湯",
+    "hiragana": "おゆ",
+    "meaning": "air panas"
+  },
+  {
+    "kanji": "登る",
+    "hiragana": "のぼる",
+    "meaning": "mendaki"
+  },
+  {
+    "kanji": "得意",
+    "hiragana": "とくい",
+    "meaning": "jago, mahir"
+  },
+  {
+    "kanji": "得る",
+    "hiragana": "える",
+    "meaning": "memperoleh"
+  },
+  {
+    "kanji": "起こり得る",
+    "hiragana": "おこりうる",
+    "meaning": "mungkin terjadi"
+  },
+  {
+    "kanji": "独身",
+    "hiragana": "どくしん",
+    "meaning": "lajang, belum menikah"
+  },
+  {
+    "kanji": "届ける",
+    "hiragana": "とどける",
+    "meaning": "mengantar (barang)"
+  },
+  {
+    "kanji": "届く",
+    "hiragana": "とどく",
+    "meaning": "sampai (barang), terjangkau oleh tangan"
+  },
+  {
+    "kanji": "市内",
+    "hiragana": "しない",
+    "meaning": "dalam kota"
+  },
+  {
+    "kanji": "国内",
+    "hiragana": "こくない",
+    "meaning": "dalam negeri"
+  },
+  {
+    "kanji": "大学内",
+    "hiragana": "だいがくない",
+    "meaning": "dalam universitas"
+  },
+  {
+    "kanji": "体内",
+    "hiragana": "たいない",
+    "meaning": "dalam tubuh"
+  },
+  {
+    "kanji": "内容",
+    "hiragana": "ないよう",
+    "meaning": "isi"
+  },
+  {
+    "kanji": "以内",
+    "hiragana": "いない",
+    "meaning": "dalam (batas)"
+  },
+  {
+    "kanji": "内",
+    "hiragana": "うち",
+    "meaning": "di dalam"
+  },
+  {
+    "kanji": "困難",
+    "hiragana": "こんなん",
+    "meaning": "kesulitan"
+  },
+  {
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "meaning": "sulit, susah"
+  },
+  {
+    "kanji": "乳製品",
+    "hiragana": "にゅうせいひん",
+    "meaning": "produk susu"
+  },
+  {
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "meaning": "susu sapi"
+  },
+  {
+    "kanji": "認める",
+    "hiragana": "みとめる",
+    "meaning": "mengakui"
+  }
+]

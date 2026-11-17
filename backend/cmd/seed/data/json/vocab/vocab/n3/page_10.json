@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "鏡",
+    "reading": "かがみ",
+    "meaning_en": "mirror, looking-glass; barrel head",
+    "meaning_id": "cermin; kaca"
+  },
+  {
+    "kanji": "輝く",
+    "reading": "かがやく",
+    "meaning_en": "to shine, to sparkle, to twinkle, to glitter, to glisten; to light up (with happiness, hope, etc.), to beam, to gleam, to glow",
+    "meaning_id": "bersinar; berkilau"
+  },
+  {
+    "kanji": "罹る",
+    "reading": "かかる",
+    "meaning_en": "to contract (a disease), to suffer from",
+    "meaning_id": "menderita; tertular"
+  },
+  {
+    "kanji": "関わる",
+    "reading": "かかわる",
+    "meaning_en": "to be involved (in), to get involved (in), to concern oneself (with), to take part (in), to interfere (in); to relate to (a matter), to pertain to, to concern, to have to do with",
+    "meaning_id": "ikut campur; terpengaruh"
+  },
+  {
+    "kanji": "書き取り",
+    "reading": "かきとり",
+    "meaning_en": "writing down from other written material, writing kanji text from hiragana; transcription (of spoken material), dictation",
+    "meaning_id": "menulis teks kanji dari hiragana"
+  },
+  {
+    "kanji": "限る",
+    "reading": "かぎる",
+    "meaning_en": "to restrict, to limit, to confine; to be restricted to, to be limited to, to be confined to",
+    "meaning_id": "batas; membatasi,"
+  },
+  {
+    "kanji": "書く",
+    "reading": "かく",
+    "meaning_en": "to write, to compose, to pen; to draw, to paint",
+    "meaning_id": "menulis; penulisan, kepenulisan"
+  },
+  {
+    "kanji": "各",
+    "reading": "かく",
+    "meaning_en": "each, every, all",
+    "meaning_id": "setiap; tiap-tiap"
+  },
+  {
+    "kanji": "嗅ぐ",
+    "reading": "かぐ",
+    "meaning_en": "to sniff, to smell",
+    "meaning_id": "mencium; menghirup"
+  },
+  {
+    "kanji": "家具",
+    "reading": "かぐ",
+    "meaning_en": "furniture",
+    "meaning_id": "mebel, furnitur, perabot; furniture"
+  },
+  {
+    "kanji": "額",
+    "reading": "がく",
+    "meaning_en": "(picture) frame, framed picture; amount (esp. of money), sum",
+    "meaning_id": "jumlah; jumlah (uang)"
+  },
+  {
+    "kanji": "架空",
+    "reading": "かくう",
+    "meaning_en": "fictitious, imaginary, fanciful, fabricated; aerial, overhead",
+    "meaning_id": "khayalan, khayal; fiksi"
+  },
+  {
+    "kanji": "覚悟",
+    "reading": "かくご",
+    "meaning_en": "readiness, (mental) preparedness; to prepare oneself",
+    "meaning_id": "persiapan; resolusi"
+  },
+  {
+    "kanji": "確実",
+    "reading": "かくじつ",
+    "meaning_en": "certain, sure, definite, reliable, sound, solid, safe, secure",
+    "meaning_id": "andal; kepastian"
+  },
+  {
+    "kanji": "学者",
+    "reading": "がくしゃ",
+    "meaning_en": "scholar, academic, scientist; learned person, person of learning",
+    "meaning_id": "ilmuwan; pelajar"
+  },
+  {
+    "kanji": "拡充",
+    "reading": "かくじゅう",
+    "meaning_en": "expansion; to expand",
+    "meaning_id": "pengembangan; ekspansi"
+  },
+  {
+    "kanji": "学習",
+    "reading": "がくしゅう",
+    "meaning_en": "learning, study; to learn, to study",
+    "meaning_id": "pelajaran; belajar"
+  },
+  {
+    "kanji": "学術",
+    "reading": "がくじゅつ",
+    "meaning_en": "science, learning, scholarship, arts and sciences, academic pursuits",
+    "meaning_id": "pembelajaran; akademik"
+  },
+  {
+    "kanji": "学生",
+    "reading": "がくせい",
+    "meaning_en": "student (esp. a university student)",
+    "meaning_id": "murid, pelajar, siswa, siswi; mahasiswa, mahasiswi"
+  },
+  {
+    "kanji": "拡大",
+    "reading": "かくだい",
+    "meaning_en": "expansion, extension; to expand, to extend",
+    "meaning_id": "memperbesar, membesarkan; amplifikasi"
+  },
+  {
+    "kanji": "各地",
+    "reading": "かくち",
+    "meaning_en": "each place, every place, various places, all parts (of the country, world, etc.)",
+    "meaning_id": "setiap tempat"
+  },
+  {
+    "kanji": "角度",
+    "reading": "かくど",
+    "meaning_en": "angle",
+    "meaning_id": "sudut"
+  },
+  {
+    "kanji": "確認",
+    "reading": "かくにん",
+    "meaning_en": "confirmation, verification, validation, review, check, affirmation, identification; to confirm, to verify, to validate, to check",
+    "meaning_id": "verifikasi; mengecek"
+  },
+  {
+    "kanji": "学部",
+    "reading": "がくぶ",
+    "meaning_en": "department (of a university), faculty, school, college",
+    "meaning_id": "fakultas"
+  },
+  {
+    "kanji": "隠れる",
+    "reading": "かくれる",
+    "meaning_en": "to hide, to conceal oneself, to take cover; to disappear (behind), to be hidden (by), to be covered, to go out of sight",
+    "meaning_id": "bersembunyi; menyembunyikan"
+  },
+  {
+    "kanji": "陰",
+    "reading": "かげ",
+    "meaning_en": "shade, shadow; behind (something), other side, back",
+    "meaning_id": "bayangan; belakang"
+  },
+  {
+    "kanji": "掛け算",
+    "reading": "かけざん",
+    "meaning_en": "multiplication",
+    "meaning_id": "perkalian"
+  },
+  {
+    "kanji": "可決",
+    "reading": "かけつ",
+    "meaning_en": "approval, adoption (of a motion, bill, etc.), passage; to approve, to pass",
+    "meaning_id": "penerimaan; persetujuan"
+  },
+  {
+    "kanji": "欠ける",
+    "reading": "かける",
+    "meaning_en": "to chip, to be chipped, to break (off), to be damaged; to be missing (from a set, team, etc.), to be absent, to become lost",
+    "meaning_id": "terkelupas; kehilangan"
+  },
+  {
+    "kanji": "加減",
+    "reading": "かげん",
+    "meaning_en": "degree, extent, amount, balance, state, condition; (health) condition, state of health",
+    "meaning_id": "kadar; penyesuaian"
+  },
+  {
+    "kanji": "過去",
+    "reading": "かこ",
+    "meaning_en": "the past, bygone days; one's past (that one would prefer remained secret)",
+    "meaning_id": "masa lalu; lampau"
+  },
+  {
+    "kanji": "火口",
+    "reading": "かこう",
+    "meaning_en": "(volcanic) crater, caldera; burner (of a boiler)",
+    "meaning_id": "kawah"
+  },
+  {
+    "kanji": "囲む",
+    "reading": "かこむ",
+    "meaning_en": "to surround, to encircle, to enclose, to fence, to wall in; to besiege, to lay siege to",
+    "meaning_id": "menutup; mengelilingi"
+  },
+  {
+    "kanji": "火災",
+    "reading": "かさい",
+    "meaning_en": "conflagration, fire",
+    "meaning_id": "kebakaran"
+  },
+  {
+    "kanji": "重ねる",
+    "reading": "かさねる",
+    "meaning_en": "to pile up, to heap up, to stack up, to put on top of another; to repeat many times over, to go through repeatedly, to accumulate",
+    "meaning_id": "ditumpuk; mengulang"
+  },
+  {
+    "kanji": "火山",
+    "reading": "かざん",
+    "meaning_en": "volcano",
+    "meaning_id": "gunung berapi, gunung api"
+  },
+  {
+    "kanji": "貸し",
+    "reading": "かし",
+    "meaning_en": "loan, lending, hire, rental, lease; favor, favour, debt, obligation",
+    "meaning_id": "dukungan; meminjamkan"
+  },
+  {
+    "kanji": "家事",
+    "reading": "かじ",
+    "meaning_en": "housework, domestic chores; family affairs, household matters",
+    "meaning_id": "pekerjaan rumah; rumah tangga"
+  },
+  {
+    "kanji": "畏まりました",
+    "reading": "かしこまりました",
+    "meaning_en": "certainly!",
+    "meaning_id": "pasti; mengerti"
+  },
+  {
+    "kanji": "貸出",
+    "reading": "かしだし",
+    "meaning_en": "lending, loaning; to lend, to loan",
+    "meaning_id": "pinjaman; peminjaman"
+  },
+  {
+    "kanji": "過失",
+    "reading": "かしつ",
+    "meaning_en": "accident (caused by negligence), error, blunder; fault, defect",
+    "meaning_id": "kesalahan; kelalaian"
+  },
+  {
+    "kanji": "果実",
+    "reading": "かじつ",
+    "meaning_en": "fruit, nut, berry; fruits, profit",
+    "meaning_id": "buah; beri"
+  },
+  {
+    "kanji": "貸間",
+    "reading": "かしま",
+    "meaning_en": "room to let, room for rent",
+    "meaning_id": "penginapan"
+  },
+  {
+    "kanji": "歌手",
+    "reading": "かしゅ",
+    "meaning_en": "singer",
+    "meaning_id": "penyanyi"
+  },
+  {
+    "kanji": "箇所",
+    "reading": "かしょ",
+    "meaning_en": "place, point, part, spot, area, passage, portion; counter for places, parts, passages, etc.",
+    "meaning_id": "bagian; tempat"
+  },
+  {
+    "kanji": "過剰",
+    "reading": "かじょう",
+    "meaning_en": "excess, surplus, superabundance, overabundance",
+    "meaning_id": "limpah-ruah, keberlimpahan; berlebih"
+  },
+  {
+    "kanji": "齧る",
+    "reading": "かじる",
+    "meaning_en": "to gnaw, to nibble, to bite, to munch, to crunch; to dabble in, to know a little bit about, to learn a little of, to have a smattering of",
+    "meaning_id": "memiliki sedikit; menggerogoti"
+  },
+  {
+    "kanji": "数",
+    "reading": "かず",
+    "meaning_en": "number, amount",
+    "meaning_id": "angka, bilang; nomor"
+  },
+  {
+    "kanji": "瓦斯",
+    "reading": "ガス",
+    "meaning_en": "gas (as a fuel); gas (state of matter)",
+    "meaning_id": "asap; gas"
+  },
+  {
+    "kanji": "風",
+    "reading": "かぜ",
+    "meaning_en": "wind, breeze, draught, draft; manner, behaviour, behavior",
+    "meaning_id": "angin"
+  }
+]

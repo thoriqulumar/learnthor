@@ -1,0 +1,312 @@
+[
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "meaning": "tulang"
+  },
+  {
+    "kanji": "背骨",
+    "hiragana": "せぼね",
+    "meaning": "tulang belakang"
+  },
+  {
+    "kanji": "骨折",
+    "hiragana": "こっせつ",
+    "meaning": "patah tulang"
+  },
+  {
+    "kanji": "困難",
+    "hiragana": "こんなん",
+    "meaning": "kesulitan"
+  },
+  {
+    "kanji": "困る",
+    "hiragana": "こまる",
+    "meaning": "merasa/sedang kesulitan"
+  },
+  {
+    "kanji": "婚約",
+    "hiragana": "こんやく",
+    "meaning": "pertunangan"
+  },
+  {
+    "kanji": "婚約者",
+    "hiragana": "こんやくしゃ",
+    "meaning": "tunangan (orangnya)"
+  },
+  {
+    "kanji": "結婚",
+    "hiragana": "けっこん",
+    "meaning": "pernikahan"
+  },
+  {
+    "kanji": "混ざる",
+    "hiragana": "まざる",
+    "meaning": "bercampur, tercampur"
+  },
+  {
+    "kanji": "混じる",
+    "hiragana": "まじる",
+    "meaning": "bercampur, tercampur"
+  },
+  {
+    "kanji": "混ぜる",
+    "hiragana": "まぜる",
+    "meaning": "mencampur"
+  },
+  {
+    "kanji": "検査",
+    "hiragana": "けんさ",
+    "meaning": "pemeriksaan"
+  },
+  {
+    "kanji": "調査",
+    "hiragana": "ちょうさ",
+    "meaning": "penyelidikan"
+  },
+  {
+    "kanji": "砂漠",
+    "hiragana": "さばく",
+    "meaning": "gurun pasir"
+  },
+  {
+    "kanji": "砂",
+    "hiragana": "すな",
+    "meaning": "pasir"
+  },
+  {
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "meaning": "gula pasir"
+  },
+  {
+    "kanji": "差",
+    "hiragana": "さ",
+    "meaning": "perbedaan"
+  },
+  {
+    "kanji": "座る",
+    "hiragana": "すわる",
+    "meaning": "duduk"
+  },
+  {
+    "kanji": "夫妻",
+    "hiragana": "ふさい",
+    "meaning": "suami istri"
+  },
+  {
+    "kanji": "妻",
+    "hiragana": "つま",
+    "meaning": "istri"
+  },
+  {
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "meaning": "selesai"
+  },
+  {
+    "kanji": "経済",
+    "hiragana": "けいざい",
+    "meaning": "ekonomi"
+  },
+  {
+    "kanji": "祭る",
+    "hiragana": "まつる",
+    "meaning": "menyembah"
+  },
+  {
+    "kanji": "祭り",
+    "hiragana": "まつり",
+    "meaning": "festival"
+  },
+  {
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "meaning": "tipis kurus kecil"
+  },
+  {
+    "kanji": "細かい",
+    "hiragana": "こまかい",
+    "meaning": "kecil kecil, detail"
+  },
+  {
+    "kanji": "最高",
+    "hiragana": "さいこう",
+    "meaning": "tertinggi, terbaik"
+  },
+  {
+    "kanji": "最低",
+    "hiragana": "さいてい",
+    "meaning": "terendah"
+  },
+  {
+    "kanji": "最も",
+    "hiragana": "もっとも",
+    "meaning": "yang paling"
+  },
+  {
+    "kanji": "国際",
+    "hiragana": "こくさい",
+    "meaning": "internasional"
+  },
+  {
+    "kanji": "滞在する",
+    "hiragana": "たいざいする",
+    "meaning": "tinggal"
+  },
+  {
+    "kanji": "在る",
+    "hiragana": "ある",
+    "meaning": "ada"
+  },
+  {
+    "kanji": "木材",
+    "hiragana": "もくざい",
+    "meaning": "bahan kayu"
+  },
+  {
+    "kanji": "再来年",
+    "hiragana": "さらいねん",
+    "meaning": "dua tahun lagi"
+  },
+  {
+    "kanji": "再び",
+    "hiragana": "ふたたび",
+    "meaning": "lagi"
+  },
+  {
+    "kanji": "昨日",
+    "hiragana": "きのう／さくじつ",
+    "meaning": "kemarin"
+  },
+  {
+    "kanji": "お札",
+    "hiragana": "おさつ",
+    "meaning": "uang kertas"
+  },
+  {
+    "kanji": "改札",
+    "hiragana": "かいさつ",
+    "meaning": "gerbang tiket stasiun"
+  },
+  {
+    "kanji": "観察",
+    "hiragana": "かんさつ",
+    "meaning": "pengamatan"
+  },
+  {
+    "kanji": "診察",
+    "hiragana": "しんさつ",
+    "meaning": "pemeriksaan medis"
+  },
+  {
+    "kanji": "警察",
+    "hiragana": "けいさつ",
+    "meaning": "polisi"
+  },
+  {
+    "kanji": "警察官",
+    "hiragana": "けいさつかん",
+    "meaning": "polisi"
+  },
+  {
+    "kanji": "警官",
+    "hiragana": "けいかん",
+    "meaning": "polisi"
+  },
+  {
+    "kanji": "雑音",
+    "hiragana": "ざつおん",
+    "meaning": "kebisingan"
+  },
+  {
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "meaning": "majalah"
+  },
+  {
+    "kanji": "複雑",
+    "hiragana": "ふくざつ",
+    "meaning": "rumit"
+  },
+  {
+    "kanji": "灰皿",
+    "hiragana": "はいざら",
+    "meaning": "asbak"
+  },
+  {
+    "kanji": "皿",
+    "hiragana": "さら",
+    "meaning": "piring"
+  },
+  {
+    "kanji": "参加",
+    "hiragana": "さんか",
+    "meaning": "ikut serta, berpartisipasi"
+  },
+  {
+    "kanji": "お参り",
+    "hiragana": "おまいり",
+    "meaning": "mengunjungi kuil atau kuburan"
+  },
+  {
+    "kanji": "散る",
+    "hiragana": "ちる",
+    "meaning": "berguguran"
+  },
+  {
+    "kanji": "散らかす",
+    "hiragana": "ちらかす",
+    "meaning": "mengacaukan, membuat jadi berantakan"
+  },
+  {
+    "kanji": "散歩",
+    "hiragana": "さんぽ",
+    "meaning": "jalan-jalan"
+  },
+  {
+    "kanji": "計算",
+    "hiragana": "けいさん",
+    "meaning": "perhitungan"
+  },
+  {
+    "kanji": "算数",
+    "hiragana": "さんすう",
+    "meaning": "matematika"
+  },
+  {
+    "kanji": "残す",
+    "hiragana": "のこす",
+    "meaning": "menyisakan"
+  },
+  {
+    "kanji": "残念",
+    "hiragana": "ざんねん",
+    "meaning": "sayang sekali"
+  },
+  {
+    "kanji": "残る",
+    "hiragana": "のこる",
+    "meaning": "tersisa"
+  },
+  {
+    "kanji": "支店",
+    "hiragana": "してん",
+    "meaning": "toko cabang"
+  },
+  {
+    "kanji": "毛糸",
+    "hiragana": "けいと",
+    "meaning": "benang wol"
+  },
+  {
+    "kanji": "糸",
+    "hiragana": "いと",
+    "meaning": "benang"
+  },
+  {
+    "kanji": "刺す",
+    "hiragana": "さす",
+    "meaning": "menusuk"
+  }
+]

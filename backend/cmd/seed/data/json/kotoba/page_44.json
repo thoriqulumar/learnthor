@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "すれ違う",
+    "reading": "すれちがう",
+    "meaning_en": "to pass (by) each other, to brush past; to miss (meeting) each other, to fail to meet",
+    "meaning_id": "untuk melewati satu sama lain; berpapasan"
+  },
+  {
+    "kanji": "",
+    "reading": "ずれる",
+    "meaning_en": "to slide, to slip off, to get dislocated, to be out of alignment, to get dislodged, to deviate, to shift (position), to be out of sync, to be slightly off, to be off-point",
+    "meaning_id": "untuk bergeser; untuk meluncur"
+  },
+  {
+    "kanji": "瀬",
+    "reading": "せ",
+    "meaning_en": "shallows, shoal; rapids, current, torrent",
+    "meaning_id": "riam, jeram; dangkal"
+  },
+  {
+    "kanji": "正",
+    "reading": "せい",
+    "meaning_en": "(logical) true, regular; 10^40, ten duodecillion",
+    "meaning_id": "kebenaran"
+  },
+  {
+    "kanji": "生",
+    "reading": "せい",
+    "meaning_en": "life, living; I, me, myself",
+    "meaning_id": "hidup; kehidupan"
+  },
+  {
+    "kanji": "性",
+    "reading": "せい",
+    "meaning_en": "nature (of a person); sex, gender",
+    "meaning_id": "-itas; jenis, jenis kelamin"
+  },
+  {
+    "kanji": "製",
+    "reading": "せい",
+    "meaning_en": "make, manufacture, -made, made of ..., made in ...",
+    "meaning_id": "produk; buatan"
+  },
+  {
+    "kanji": "税",
+    "reading": "ぜい",
+    "meaning_en": "tax",
+    "meaning_id": "pajak, cukai"
+  },
+  {
+    "kanji": "性格",
+    "reading": "せいかく",
+    "meaning_en": "character (of a person), personality, disposition, nature; characteristics, nature (of a thing, event, etc.)",
+    "meaning_id": "kepribadian, personalitas; sifat"
+  },
+  {
+    "kanji": "生活",
+    "reading": "せいかつ",
+    "meaning_en": "life, living; to live",
+    "meaning_id": "kehidupan; penghidupan"
+  },
+  {
+    "kanji": "世紀",
+    "reading": "せいき",
+    "meaning_en": "century; era",
+    "meaning_id": "abad, kurun"
+  },
+  {
+    "kanji": "請求",
+    "reading": "せいきゅう",
+    "meaning_en": "claim, demand, charge, application, request, billing (for a service)",
+    "meaning_id": "bayar; menuntut"
+  },
+  {
+    "kanji": "税金",
+    "reading": "ぜいきん",
+    "meaning_en": "tax, duty",
+    "meaning_id": "pajak, cukai; bea"
+  },
+  {
+    "kanji": "制限",
+    "reading": "せいげん",
+    "meaning_en": "restriction, restraint, limitation, limit; to restrict, to limit",
+    "meaning_id": "pembatas; pembatasan"
+  },
+  {
+    "kanji": "成功",
+    "reading": "せいこう",
+    "meaning_en": "success, achievement; to succeed",
+    "meaning_id": "keberhasilan, kesuksesan; berhasil, sukses"
+  },
+  {
+    "kanji": "製作",
+    "reading": "せいさく",
+    "meaning_en": "manufacture, production; to manufacture, to produce",
+    "meaning_id": "manufaktur; pembuatan"
+  },
+  {
+    "kanji": "制作",
+    "reading": "せいさく",
+    "meaning_en": "work (film, book); production, creation, turning (something) out, development",
+    "meaning_id": "karya; produksi"
+  },
+  {
+    "kanji": "生産",
+    "reading": "せいさん",
+    "meaning_en": "production, manufacture",
+    "meaning_id": "produksi; memproduksi"
+  },
+  {
+    "kanji": "政治",
+    "reading": "せいじ",
+    "meaning_en": "politics, government",
+    "meaning_id": "politik, siasat, siasah; pemerintah"
+  },
+  {
+    "kanji": "正式",
+    "reading": "せいしき",
+    "meaning_en": "formal, official, regular, proper, legal, due (formalities)",
+    "meaning_id": "bentuk; resmi"
+  },
+  {
+    "kanji": "清書",
+    "reading": "せいしょ",
+    "meaning_en": "fair copy, clean copy",
+    "meaning_id": "salinan bersih; MENULIS ULANG"
+  },
+  {
+    "kanji": "青少年",
+    "reading": "せいしょうねん",
+    "meaning_en": "young people, youth, the younger generation",
+    "meaning_id": "pemuda"
+  },
+  {
+    "kanji": "精神",
+    "reading": "せいしん",
+    "meaning_en": "mind, spirit, soul, heart, ethos; attitude, mentality, will, intention",
+    "meaning_id": "jiwa; semangat"
+  },
+  {
+    "kanji": "成人",
+    "reading": "せいじん",
+    "meaning_en": "adult, grown-up; becoming an adult, coming of age, growing up (to be a man, woman)",
+    "meaning_id": "dewasa; berumur"
+  },
+  {
+    "kanji": "整数",
+    "reading": "せいすう",
+    "meaning_en": "integer",
+    "meaning_id": "bilangan bulat"
+  },
+  {
+    "kanji": "精々",
+    "reading": "せいぜい",
+    "meaning_en": "at the most, at best; to the utmost, as much as possible, as much as one can",
+    "meaning_id": "paling banyak; sebanyak"
+  },
+  {
+    "kanji": "成績",
+    "reading": "せいせき",
+    "meaning_en": "results, record, grades, marks",
+    "meaning_id": "rekor; prestasi"
+  },
+  {
+    "kanji": "清掃",
+    "reading": "せいそう",
+    "meaning_en": "cleaning, clean-up, garbage collection, scavenging; to clean, to tidy up",
+    "meaning_id": "bersih; resik"
+  },
+  {
+    "kanji": "製造",
+    "reading": "せいぞう",
+    "meaning_en": "manufacture, production; to produce",
+    "meaning_id": "produksi; memproduksi"
+  },
+  {
+    "kanji": "生存",
+    "reading": "せいぞん",
+    "meaning_en": "existence, being, life, survival; to survive",
+    "meaning_id": "kesintasan, tahan hidup; bertahan"
+  },
+  {
+    "kanji": "成長",
+    "reading": "せいちょう",
+    "meaning_en": "growth, development, growing up, becoming an adult; to grow, to develop",
+    "meaning_id": "peningkatan; pertumbuhan"
+  },
+  {
+    "kanji": "生徒",
+    "reading": "せいと",
+    "meaning_en": "pupil, student, schoolchild",
+    "meaning_id": "pelajar; murid"
+  },
+  {
+    "kanji": "制度",
+    "reading": "せいど",
+    "meaning_en": "system, institution, organization, organisation",
+    "meaning_id": "rezim; institusi, pranata"
+  },
+  {
+    "kanji": "政党",
+    "reading": "せいとう",
+    "meaning_en": "political party",
+    "meaning_id": "partai, partai politik"
+  },
+  {
+    "kanji": "青年",
+    "reading": "せいねん",
+    "meaning_en": "youth, young man",
+    "meaning_id": "remaja; pemuda"
+  },
+  {
+    "kanji": "性能",
+    "reading": "せいのう",
+    "meaning_en": "ability, performance, efficiency",
+    "meaning_id": "performa; kemampuan"
+  },
+  {
+    "kanji": "整備",
+    "reading": "せいび",
+    "meaning_en": "maintenance, servicing; to maintain, to service",
+    "meaning_id": "servis; perawatan"
+  },
+  {
+    "kanji": "製品",
+    "reading": "せいひん",
+    "meaning_en": "manufactured goods, finished goods, product",
+    "meaning_id": "buatan; produk"
+  },
+  {
+    "kanji": "政府",
+    "reading": "せいふ",
+    "meaning_en": "government, administration, ministry",
+    "meaning_id": "pemerintah; administrasi"
+  },
+  {
+    "kanji": "生物",
+    "reading": "せいぶつ",
+    "meaning_en": "living thing, organism, creature, life; biology",
+    "meaning_id": "organisme; makhluk"
+  },
+  {
+    "kanji": "成分",
+    "reading": "せいぶん",
+    "meaning_en": "ingredient, component, composition",
+    "meaning_id": "zat; bahan"
+  },
+  {
+    "kanji": "性別",
+    "reading": "せいべつ",
+    "meaning_en": "(distinction of) sex, gender",
+    "meaning_id": "seks; jenis, jenis kelamin"
+  },
+  {
+    "kanji": "生命",
+    "reading": "せいめい",
+    "meaning_en": "life, existence; (one's) working life, career",
+    "meaning_id": "hidup; KEHIDUPAN"
+  },
+  {
+    "kanji": "正門",
+    "reading": "せいもん",
+    "meaning_en": "main gate, main entrance",
+    "meaning_id": "gerbang utama"
+  },
+  {
+    "kanji": "西洋",
+    "reading": "せいよう",
+    "meaning_en": "the West, the Occident, Western countries",
+    "meaning_id": "barat"
+  },
+  {
+    "kanji": "整理",
+    "reading": "せいり",
+    "meaning_en": "sorting, arrangement, organization, putting in order, adjustment, regulation; liquidation, settlement, consolidation, clearance (e.g. debt), paying off",
+    "meaning_id": "mengatur; penyortiran"
+  },
+  {
+    "kanji": "成立",
+    "reading": "せいりつ",
+    "meaning_en": "formation, establishment, materialization, coming into existence; to establish, to form",
+    "meaning_id": "realisasi; Terbentuk"
+  },
+  {
+    "kanji": "",
+    "reading": "セーター",
+    "meaning_en": "sweater, jumper",
+    "meaning_id": "switer; baju hangat"
+  },
+  {
+    "kanji": "世界",
+    "reading": "せかい",
+    "meaning_en": "the world, society, the universe; sphere, circle, world",
+    "meaning_id": "dunia; semesta"
+  },
+  {
+    "kanji": "席",
+    "reading": "せき",
+    "meaning_en": "seat; location (of a gathering, etc.), place",
+    "meaning_id": "tempat; kursi"
+  }
+]

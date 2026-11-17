@@ -1,0 +1,16 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local environment (VITE_API_BASE_URL is baked at build time in the Dockerfile)
+.env
+.env.*
+!.env.example
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "社会",
+    "reading": "しゃかい",
+    "meaning_en": "society, public, community, the world; social studies",
+    "meaning_id": "masyarakat"
+  },
+  {
+    "kanji": "社長",
+    "reading": "しゃちょう",
+    "meaning_en": "company president, manager, director",
+    "meaning_id": "presiden perusahaan; direktur"
+  },
+  {
+    "kanji": "邪魔",
+    "reading": "じゃま",
+    "meaning_en": "hindrance, obstacle, nuisance, disturbance, interruption, interference; to hinder, to obstruct, to disturb, to interrupt",
+    "meaning_id": "halangan; mengunjungi (rumah seseorang)"
+  },
+  {
+    "kanji": "",
+    "reading": "ジャム",
+    "meaning_en": "jam",
+    "meaning_id": "selai"
+  },
+  {
+    "kanji": "自由",
+    "reading": "じゆう",
+    "meaning_en": "freedom, liberty",
+    "meaning_id": "bebas; kebebasan, kemerdekaan"
+  },
+  {
+    "kanji": "習慣",
+    "reading": "しゅうかん",
+    "meaning_en": "habit; (social) custom, practice, convention, tradition",
+    "meaning_id": "kebiasaan, adat"
+  },
+  {
+    "kanji": "住所",
+    "reading": "じゅうしょ",
+    "meaning_en": "address, residence, domicile",
+    "meaning_id": "alamat; domisili, tempat tinggal"
+  },
+  {
+    "kanji": "柔道",
+    "reading": "じゅうどう",
+    "meaning_en": "judo",
+    "meaning_id": "judo"
+  },
+  {
+    "kanji": "十分",
+    "reading": "じゅうぶん",
+    "meaning_en": "enough, sufficient, plenty, adequate, satisfactory; sufficiently, fully, thoroughly, well, perfectly",
+    "meaning_id": "cukup; sempurna"
+  },
+  {
+    "kanji": "趣味",
+    "reading": "しゅみ",
+    "meaning_en": "hobby, pastime; tastes, preference, liking",
+    "meaning_id": "hobi; selera"
+  },
+  {
+    "kanji": "紹介",
+    "reading": "しょうかい",
+    "meaning_en": "introduction, presentation, referral, showcase (of a product); to introduce",
+    "meaning_id": "pengenalan, introduksi; perkenalan"
+  },
+  {
+    "kanji": "小学校",
+    "reading": "しょうがっこう",
+    "meaning_en": "primary school, elementary school, grade school",
+    "meaning_id": "sekolah dasar"
+  },
+  {
+    "kanji": "小説",
+    "reading": "しょうせつ",
+    "meaning_en": "novel, story, (work of) fiction",
+    "meaning_id": "novel; fiksi"
+  },
+  {
+    "kanji": "将来",
+    "reading": "しょうらい",
+    "meaning_en": "future, (future) prospects; bringing (from abroad, another region, etc.)",
+    "meaning_id": "masa depan; future"
+  },
+  {
+    "kanji": "食料品",
+    "reading": "しょくりょうひん",
+    "meaning_en": "foodstuff, groceries",
+    "meaning_id": "sembako; bahan makanan"
+  },
+  {
+    "kanji": "女性",
+    "reading": "じょせい",
+    "meaning_en": "woman, female; feminine gender",
+    "meaning_id": "feminin; perempuan, wanita"
+  },
+  {
+    "kanji": "知らせる",
+    "reading": "しらせる",
+    "meaning_en": "to notify, to advise, to inform",
+    "meaning_id": "memberi nasihat; memberitahu"
+  },
+  {
+    "kanji": "調べる",
+    "reading": "しらべる",
+    "meaning_en": "to examine, to look up, to investigate, to check up, to sense, to study, to inquire, to search",
+    "meaning_id": "mengkaji, menyelidiki; periksa"
+  },
+  {
+    "kanji": "人口",
+    "reading": "じんこう",
+    "meaning_en": "population; common talk",
+    "meaning_id": "populasi; penduduk"
+  },
+  {
+    "kanji": "神社",
+    "reading": "じんじゃ",
+    "meaning_en": "Shinto shrine",
+    "meaning_id": "kuil; kuil shinto"
+  },
+  {
+    "kanji": "親切",
+    "reading": "しんせつ",
+    "meaning_en": "kind, gentle, considerate, generous, friendly, nice",
+    "meaning_id": "baik; ramah"
+  },
+  {
+    "kanji": "新聞社",
+    "reading": "しんぶんしゃ",
+    "meaning_en": "newspaper company",
+    "meaning_id": "perusahaan surat kabar; perusahaan koran"
+  },
+  {
+    "kanji": "水泳",
+    "reading": "すいえい",
+    "meaning_en": "swimming",
+    "meaning_id": "renang; BERENANG"
+  },
+  {
+    "kanji": "水道",
+    "reading": "すいどう",
+    "meaning_en": "water supply, water service, waterworks, tap water; channel, strait",
+    "meaning_id": "kran; keran"
+  },
+  {
+    "kanji": "随分",
+    "reading": "ずいぶん",
+    "meaning_en": "very, extremely, surprisingly, fairly, quite, considerably, awfully, terribly; terrible, horrid, contemptible, reprehensible",
+    "meaning_id": "sangat, nian, sekali, banget; mengejutkan"
+  },
+  {
+    "kanji": "数学",
+    "reading": "すうがく",
+    "meaning_en": "mathematics",
+    "meaning_id": "matematika; aritmatika"
+  },
+  {
+    "kanji": "",
+    "reading": "スーツ",
+    "meaning_en": "suit (clothing); suit",
+    "meaning_id": "setelan; setelan jas"
+  },
+  {
+    "kanji": "",
+    "reading": "スーツケース",
+    "meaning_en": "suitcase",
+    "meaning_id": "koper"
+  },
+  {
+    "kanji": "過ぎる",
+    "reading": "すぎる",
+    "meaning_en": "to pass through, to pass by, to go beyond; to pass (of time), to elapse",
+    "meaning_id": "melewati; terlalu"
+  },
+  {
+    "kanji": "",
+    "reading": "スクリーン",
+    "meaning_en": "screen",
+    "meaning_id": "layar"
+  },
+  {
+    "kanji": "凄い",
+    "reading": "すごい",
+    "meaning_en": "terrible, dreadful; amazing (e.g. of strength), great (e.g. of skills), wonderful, terrific",
+    "meaning_id": "luar biasa; hebat"
+  },
+  {
+    "kanji": "進む",
+    "reading": "すすむ",
+    "meaning_en": "to advance, to go forward; to precede, to go ahead (of)",
+    "meaning_id": "untuk maju; membuat kemajuan"
+  },
+  {
+    "kanji": "",
+    "reading": "すっかり",
+    "meaning_en": "all, completely, totally, entirely, thoroughly",
+    "meaning_id": "menyeluruh; semua"
+  },
+  {
+    "kanji": "",
+    "reading": "すっと",
+    "meaning_en": "straight, quickly, directly, all of a sudden; quietly, gently, softly",
+    "meaning_id": "lurus; dengan cepat"
+  },
+  {
+    "kanji": "",
+    "reading": "ステーキ",
+    "meaning_en": "steak",
+    "meaning_id": "bistik; steik"
+  },
+  {
+    "kanji": "捨てる",
+    "reading": "すてる",
+    "meaning_en": "to throw away, to cast away, to dump, to discard; to abandon, to desert, to leave",
+    "meaning_id": "buang; membuang"
+  },
+  {
+    "kanji": "",
+    "reading": "ステレオ",
+    "meaning_en": "stereo (sound); stereo (player, set)",
+    "meaning_id": "suara stereofonik"
+  },
+  {
+    "kanji": "砂",
+    "reading": "すな,",
+    "meaning_en": "sand, grit",
+    "meaning_id": "pasir"
+  },
+  {
+    "kanji": "素晴らしい",
+    "reading": "すばらしい",
+    "meaning_en": "wonderful, splendid, magnificent",
+    "meaning_id": "fantastis; unggul"
+  },
+  {
+    "kanji": "滑る",
+    "reading": "すべる",
+    "meaning_en": "to slide, to glide, to skate, to ski; to slip, to skid",
+    "meaning_id": "terpeleset; untuk meluncur"
+  },
+  {
+    "kanji": "隅",
+    "reading": "すみ",
+    "meaning_en": "corner, nook, recess; downstage right (on a noh stage)",
+    "meaning_id": "sudut; istirahat"
+  },
+  {
+    "kanji": "済む",
+    "reading": "すむ",
+    "meaning_en": "to finish, to end, to be completed, to be resolved; to have a result less severe than expected",
+    "meaning_id": "menyelesaikan; lengkap"
+  },
+  {
+    "kanji": "",
+    "reading": "すると",
+    "meaning_en": "(and) then, and, thereupon, whereupon; in that case, then, so",
+    "meaning_id": "di sini; lalu"
+  },
+  {
+    "kanji": "政治",
+    "reading": "せいじ",
+    "meaning_en": "politics, government",
+    "meaning_id": "politik, siasat, siasah; pemerintah"
+  },
+  {
+    "kanji": "西洋",
+    "reading": "せいよう",
+    "meaning_en": "the West, the Occident, Western countries",
+    "meaning_id": "barat"
+  },
+  {
+    "kanji": "世界",
+    "reading": "せかい",
+    "meaning_en": "the world, society, the universe; sphere, circle, world",
+    "meaning_id": "dunia; semesta"
+  },
+  {
+    "kanji": "席",
+    "reading": "せき",
+    "meaning_en": "seat; location (of a gathering, etc.), place",
+    "meaning_id": "tempat; kursi"
+  },
+  {
+    "kanji": "説明",
+    "reading": "せつめい",
+    "meaning_en": "explanation, exposition, description, account, caption, legend; to explain",
+    "meaning_id": "menjelaskan; penjelasan"
+  },
+  {
+    "kanji": "背中",
+    "reading": "せなか",
+    "meaning_en": "back (of the body)",
+    "meaning_id": "punggung; punggung manusia"
+  },
+  {
+    "kanji": "是非",
+    "reading": "ぜひ",
+    "meaning_en": "certainly, without fail; right and wrong, pros and cons",
+    "meaning_id": "pasti; tentu saja"
+  }
+]

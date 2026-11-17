@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "略す",
+    "reading": "りゃくす",
+    "meaning_en": "to abbreviate, to abridge, to shorten; to omit, to leave out",
+    "meaning_id": "mempersingkat, menyingkatkan, memendekkan"
+  },
+  {
+    "kanji": "理由",
+    "reading": "りゆう",
+    "meaning_en": "reason, grounds, pretext, excuse, motive",
+    "meaning_id": "alasan, sebab, motif"
+  },
+  {
+    "kanji": "留学",
+    "reading": "りゅうがく",
+    "meaning_en": "studying abroad; to study abroad",
+    "meaning_id": "belajar di luar negeri (usu. di tingkat universitas)"
+  },
+  {
+    "kanji": "流行",
+    "reading": "りゅうこう",
+    "meaning_en": "fashion, trend, vogue, craze, fad, popularity; to become popular, to be fashionable",
+    "meaning_id": "mode; menyebar"
+  },
+  {
+    "kanji": "利用",
+    "reading": "りよう",
+    "meaning_en": "use, utilization, utilisation, application; to utilize, to use",
+    "meaning_id": "penerapan; pemanfaatan"
+  },
+  {
+    "kanji": "量",
+    "reading": "りょう",
+    "meaning_en": "quantity, amount, volume, capacity, portion (of food); generosity, magnanimity, tolerance",
+    "meaning_id": "kuantitas, jumlah; porsi"
+  },
+  {
+    "kanji": "料",
+    "reading": "りょう",
+    "meaning_en": "fee, charge, rate; material",
+    "meaning_id": "juugyouryou; biaya"
+  },
+  {
+    "kanji": "料金",
+    "reading": "りょうきん",
+    "meaning_en": "fee, charge, fare",
+    "meaning_id": "biaya, beban; tarif"
+  },
+  {
+    "kanji": "料理",
+    "reading": "りょうり",
+    "meaning_en": "cooking, cookery, cuisine, food, dish; to cook",
+    "meaning_id": "masakan; kuliner"
+  },
+  {
+    "kanji": "旅館",
+    "reading": "りょかん",
+    "meaning_en": "ryokan, traditional Japanese inn",
+    "meaning_id": "penginapan tradisional; penginapan gaya jepang"
+  },
+  {
+    "kanji": "旅行",
+    "reading": "りょこう",
+    "meaning_en": "travel, trip, journey, excursion, tour; to travel",
+    "meaning_id": "jalan; tur"
+  },
+  {
+    "kanji": "臨時",
+    "reading": "りんじ",
+    "meaning_en": "temporary, provisional, interim; special, extraordinary, extra",
+    "meaning_id": "ad hoc; sementara"
+  },
+  {
+    "kanji": "例",
+    "reading": "れい",
+    "meaning_en": "example, instance, illustration, case; precedent",
+    "meaning_id": "misal, contoh"
+  },
+  {
+    "kanji": "礼",
+    "reading": "れい",
+    "meaning_en": "thanks, gratitude; manners, etiquette",
+    "meaning_id": "upacara; salam"
+  },
+  {
+    "kanji": "例外",
+    "reading": "れいがい",
+    "meaning_en": "exception",
+    "meaning_id": "pengecualian"
+  },
+  {
+    "kanji": "冷静",
+    "reading": "れいせい",
+    "meaning_en": "calmness, composure, coolness, serenity, presence of mind",
+    "meaning_id": "sejuk; kalem"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meaning_en": "refrigerator, fridge",
+    "meaning_id": "kulkas, lemari es, lemari pendingin, peti es"
+  },
+  {
+    "kanji": "冷房",
+    "reading": "れいぼう",
+    "meaning_en": "air conditioning, air cooling",
+    "meaning_id": "pendingin; pendingin ruangan"
+  },
+  {
+    "kanji": "",
+    "reading": "レインコート",
+    "meaning_en": "raincoat, mackintosh, macintosh, trench coat",
+    "meaning_id": "jas hujan"
+  },
+  {
+    "kanji": "歴史",
+    "reading": "れきし",
+    "meaning_en": "history",
+    "meaning_id": "sejarah, histori"
+  },
+  {
+    "kanji": "",
+    "reading": "レクリエーション",
+    "meaning_en": "recreation; re-creation",
+    "meaning_id": "rekreasi"
+  },
+  {
+    "kanji": "",
+    "reading": "レコード",
+    "meaning_en": "record (e.g. LP); record (e.g. in sports)",
+    "meaning_id": "piringan hitam"
+  },
+  {
+    "kanji": "",
+    "reading": "レジャー",
+    "meaning_en": "leisure",
+    "meaning_id": "rekreasi; waktu luang"
+  },
+  {
+    "kanji": "",
+    "reading": "レストラン",
+    "meaning_en": "restaurant (esp. Western-style)",
+    "meaning_id": "restoran, rumah makan"
+  },
+  {
+    "kanji": "列",
+    "reading": "れつ",
+    "meaning_en": "row, line, file, column, queue, rank, procession; company (of someone), group, ranks",
+    "meaning_id": "baris; antre, antrean"
+  },
+  {
+    "kanji": "列車",
+    "reading": "れっしゃ",
+    "meaning_en": "train, railway train",
+    "meaning_id": "kereta api"
+  },
+  {
+    "kanji": "列島",
+    "reading": "れっとう",
+    "meaning_en": "archipelago, chain of islands",
+    "meaning_id": "kepulauan; busur kepulauan"
+  },
+  {
+    "kanji": "",
+    "reading": "レベル",
+    "meaning_en": "level, standard, grade, class, rank; level (amount or quantity)",
+    "meaning_id": "tingkat"
+  },
+  {
+    "kanji": "",
+    "reading": "レポート",
+    "meaning_en": "report, paper; to report",
+    "meaning_id": "laporan"
+  },
+  {
+    "kanji": "煉瓦",
+    "reading": "れんが",
+    "meaning_en": "brick",
+    "meaning_id": "batu bata"
+  },
+  {
+    "kanji": "連合",
+    "reading": "れんごう",
+    "meaning_en": "union, combination, alliance, confederation, coalition; to unite, to combine, to ally",
+    "meaning_id": "serikat; aliansi"
+  },
+  {
+    "kanji": "練習",
+    "reading": "れんしゅう",
+    "meaning_en": "practice, training, drill, (an) exercise, workout; to practice, to train",
+    "meaning_id": "latihan; melatih"
+  },
+  {
+    "kanji": "",
+    "reading": "レンズ",
+    "meaning_en": "lens",
+    "meaning_id": "lensa, kanta"
+  },
+  {
+    "kanji": "連続",
+    "reading": "れんぞく",
+    "meaning_en": "continuation, succession, series; to continue",
+    "meaning_id": "mata rantai; serial"
+  },
+  {
+    "kanji": "連絡",
+    "reading": "れんらく",
+    "meaning_en": "contacting, (making) contact, getting in touch, communication, correspondence, call, message; to contact, to communicate",
+    "meaning_id": "pesan; kontak"
+  },
+  {
+    "kanji": "老人",
+    "reading": "ろうじん",
+    "meaning_en": "old person, senior citizen, the aged, the elderly",
+    "meaning_id": "pak tua; orang tua"
+  },
+  {
+    "kanji": "蝋燭",
+    "reading": "ろうそく",
+    "meaning_en": "candle",
+    "meaning_id": "lilin"
+  },
+  {
+    "kanji": "労働",
+    "reading": "ろうどう",
+    "meaning_en": "labor, labour, work; to work",
+    "meaning_id": "tenaga kerja; kerjaan, pekerjaan"
+  },
+  {
+    "kanji": "ローマ字",
+    "reading": "ローマじ",
+    "meaning_en": "Latin alphabet, Roman alphabet; romaji, romanized Japanese, system of transliterating Japanese into the Latin alphabet",
+    "meaning_id": ""
+  },
+  {
+    "kanji": "六",
+    "reading": "ろく",
+    "meaning_en": "six, 6",
+    "meaning_id": "enam"
+  },
+  {
+    "kanji": "録音",
+    "reading": "ろくおん",
+    "meaning_en": "(audio) recording",
+    "meaning_id": "rekaman; merekam"
+  },
+  {
+    "kanji": "",
+    "reading": "ロケット",
+    "meaning_en": "rocket",
+    "meaning_id": "roket"
+  },
+  {
+    "kanji": "",
+    "reading": "ロッカー",
+    "meaning_en": "locker",
+    "meaning_id": "loker"
+  },
+  {
+    "kanji": "",
+    "reading": "ロビー",
+    "meaning_en": "lobby, lounge",
+    "meaning_id": "ruang tunggu"
+  },
+  {
+    "kanji": "論争",
+    "reading": "ろんそう",
+    "meaning_en": "dispute, controversy, debate, argument, taking issue; to dispute, to debate",
+    "meaning_id": "kontroversi, perdebatan"
+  },
+  {
+    "kanji": "論文",
+    "reading": "ろんぶん",
+    "meaning_en": "thesis, essay, treatise, paper, article",
+    "meaning_id": "disertasi; risalah"
+  },
+  {
+    "kanji": "輪",
+    "reading": "わ",
+    "meaning_en": "ring, circle, loop; hoop",
+    "meaning_id": "roda; lingkaran"
+  },
+  {
+    "kanji": "Ｙシャツ",
+    "reading": "ワイシャツ",
+    "meaning_en": "(formal) shirt, dress shirt, business shirt, button-up shirt",
+    "meaning_id": "baju; kemeja"
+  },
+  {
+    "kanji": "",
+    "reading": "ワイン",
+    "meaning_en": "wine",
+    "meaning_id": "anggur; minuman anggur"
+  },
+  {
+    "kanji": "我儘",
+    "reading": "わがまま",
+    "meaning_en": "selfish, egoist; self-indulgent, wilful, willful",
+    "meaning_id": "keras kepala; egois"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "kanji": "食べ物",
+    "reading": "たべもの",
+    "meaning_en": "food",
+    "meaning_id": "makanan"
+  },
+  {
+    "kanji": "誕生日",
+    "reading": "たんじょうび",
+    "meaning_en": "birthday",
+    "meaning_id": "ulang tahun"
+  },
+  {
+    "kanji": "小さな",
+    "reading": "ちいさな",
+    "meaning_en": "small, little, tiny",
+    "meaning_id": "mini; kecil"
+  },
+  {
+    "kanji": "茶碗",
+    "reading": "ちゃわん",
+    "meaning_en": "rice bowl, tea cup, teacup",
+    "meaning_id": "cawan; cangkir"
+  },
+  {
+    "kanji": "作る",
+    "reading": "つくる",
+    "meaning_en": "to make, to produce, to manufacture, to build, to construct; to prepare (food), to brew (alcohol)",
+    "meaning_id": "membangun; untuk membuat"
+  },
+  {
+    "kanji": "出かける",
+    "reading": "でかける",
+    "meaning_en": "to go out (e.g. on an excursion or outing), to leave, to depart, to start, to set out; to be about to leave, to be just going out",
+    "meaning_id": "keluar rumah; pergi keluar"
+  },
+  {
+    "kanji": "手紙",
+    "reading": "てがみ",
+    "meaning_en": "letter, note",
+    "meaning_id": "surat"
+  },
+  {
+    "kanji": "１０日",
+    "reading": "とおか",
+    "meaning_en": "10th day of the month; ten days",
+    "meaning_id": "sepuluh hari"
+  },
+  {
+    "kanji": "図書館",
+    "reading": "としょかん",
+    "meaning_en": "library",
+    "meaning_id": "perpustakaan, bibliotek, taman pustaka, khizanatulkitab"
+  },
+  {
+    "kanji": "土曜日",
+    "reading": "どようび",
+    "meaning_en": "Saturday",
+    "meaning_id": "Sabtu; hari sabtu"
+  },
+  {
+    "kanji": "夏休み",
+    "reading": "なつやすみ",
+    "meaning_en": "summer vacation, summer holiday",
+    "meaning_id": "libur musim panas; liburan musim panas"
+  },
+  {
+    "kanji": "日曜日",
+    "reading": "にちようび",
+    "meaning_en": "Sunday",
+    "meaning_id": "Minggu, Ahad; hari minggu"
+  },
+  {
+    "kanji": "飲み物",
+    "reading": "のみもの",
+    "meaning_en": "drink, beverage",
+    "meaning_id": "minum; minuman"
+  },
+  {
+    "kanji": "",
+    "reading": "パン",
+    "meaning_en": "bread, (sweet) pastry; staff of life, one's bread",
+    "meaning_id": "roti"
+  },
+  {
+    "kanji": "晩御飯",
+    "reading": "ばんごはん",
+    "meaning_en": "dinner, evening meal",
+    "meaning_id": "makan malam"
+  },
+  {
+    "kanji": "飛行機",
+    "reading": "ひこうき",
+    "meaning_en": "airplane, aeroplane, plane, aircraft",
+    "meaning_id": "pesawat udara; pesawat terbang"
+  },
+  {
+    "kanji": "一月",
+    "reading": "ひとつき",
+    "meaning_en": "one month",
+    "meaning_id": "Januari"
+  },
+  {
+    "kanji": "昼ご飯",
+    "reading": "ひるごはん",
+    "meaning_en": "lunch, midday meal",
+    "meaning_id": "makan siang"
+  },
+  {
+    "kanji": "豚肉",
+    "reading": "ぶたにく",
+    "meaning_en": "pork",
+    "meaning_id": "daging babi"
+  },
+  {
+    "kanji": "風呂",
+    "reading": "ふろ",
+    "meaning_en": "bath, bathing, bathtub, bathroom; bathhouse, public bath",
+    "meaning_id": "kamar mandi; pemandian"
+  },
+  {
+    "kanji": "",
+    "reading": "ペット",
+    "meaning_en": "pet; trumpet",
+    "meaning_id": "hewan peliharaan; hewan kesayangan"
+  },
+  {
+    "kanji": "",
+    "reading": "ペン",
+    "meaning_en": "pen",
+    "meaning_id": "pen, pena; pulpen"
+  },
+  {
+    "kanji": "本棚",
+    "reading": "ほんだな",
+    "meaning_en": "bookshelves, bookshelf, bookcase",
+    "meaning_id": "rak buku, lemari buku"
+  },
+  {
+    "kanji": "毎朝",
+    "reading": "まいあさ",
+    "meaning_en": "every morning",
+    "meaning_id": "setiap pagi"
+  },
+  {
+    "kanji": "毎週",
+    "reading": "まいしゅう",
+    "meaning_en": "every week",
+    "meaning_id": "mingguan; setiap minggu"
+  },
+  {
+    "kanji": "毎日",
+    "reading": "まいにち",
+    "meaning_en": "every day, daily",
+    "meaning_id": "harian; setiap hari"
+  },
+  {
+    "kanji": "毎晩",
+    "reading": "まいばん",
+    "meaning_en": "every night",
+    "meaning_id": "setiap malam"
+  },
+  {
+    "kanji": "又",
+    "reading": "また",
+    "meaning_en": "again, once more, once again, another time, some other time; also, too, as well, likewise",
+    "meaning_id": "lagi; lain waktu"
+  },
+  {
+    "kanji": "皆さん",
+    "reading": "みなさん",
+    "meaning_en": "all, everyone, everybody",
+    "meaning_id": "semua; semuanya"
+  },
+  {
+    "kanji": "木曜日",
+    "reading": "もくようび",
+    "meaning_en": "Thursday",
+    "meaning_id": "Kamis; hari kamis"
+  },
+  {
+    "kanji": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning_en": "post office",
+    "meaning_id": "kantor pos"
+  },
+  {
+    "kanji": "昨夜",
+    "reading": "ゆうべ",
+    "meaning_en": "last night, yesterday evening",
+    "meaning_id": "malam; sore"
+  },
+  {
+    "kanji": "来月",
+    "reading": "らいげつ",
+    "meaning_en": "next month",
+    "meaning_id": "bulan depan"
+  },
+  {
+    "kanji": "来週",
+    "reading": "らいしゅう",
+    "meaning_en": "next week",
+    "meaning_id": "minggu depan"
+  },
+  {
+    "kanji": "来年",
+    "reading": "らいねん",
+    "meaning_en": "next year",
+    "meaning_id": "tahun depan"
+  },
+  {
+    "kanji": "",
+    "reading": "ラジカセ",
+    "meaning_en": "radio-cassette player",
+    "meaning_id": "pemutar radio-kaset"
+  },
+  {
+    "kanji": "留学生",
+    "reading": "りゅうがくせい",
+    "meaning_en": "overseas student, exchange student",
+    "meaning_id": "pertukaran pelajar; pelajar asing"
+  },
+  {
+    "kanji": "両親",
+    "reading": "りょうしん",
+    "meaning_en": "parents, both parents",
+    "meaning_id": "ryoushin; orang tua"
+  },
+  {
+    "kanji": "分かる",
+    "reading": "わかる",
+    "meaning_en": "to understand, to comprehend, to grasp, to see, to get, to follow; to become clear, to be known, to be discovered, to be realized, to be realised, to be found out",
+    "meaning_id": "paham, mengerti; Indonesia"
+  },
+  {
+    "kanji": "渡る",
+    "reading": "わたる",
+    "meaning_en": "to cross over, to go across; to extend, to cover, to range, to span",
+    "meaning_id": "menyambung; menutupi"
+  }
+]

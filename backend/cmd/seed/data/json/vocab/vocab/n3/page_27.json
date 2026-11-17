@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "瞬間",
+    "reading": "しゅんかん",
+    "meaning_en": "moment, instant, second",
+    "meaning_id": "saat; sesaat"
+  },
+  {
+    "kanji": "巡査",
+    "reading": "じゅんさ",
+    "meaning_en": "police officer, policeman, constable",
+    "meaning_id": "polisi"
+  },
+  {
+    "kanji": "順々",
+    "reading": "じゅんじゅん",
+    "meaning_en": "in order, in turn",
+    "meaning_id": "BERURUTAN"
+  },
+  {
+    "kanji": "純情",
+    "reading": "じゅんじょう",
+    "meaning_en": "pure heart, naivete, innocence",
+    "meaning_id": "hati yang murni; naif"
+  },
+  {
+    "kanji": "純粋",
+    "reading": "じゅんすい",
+    "meaning_en": "pure, true, genuine, unmixed",
+    "meaning_id": "absolut, murni; polos"
+  },
+  {
+    "kanji": "順調",
+    "reading": "じゅんちょう",
+    "meaning_en": "favourable, favorable, doing well, OK, all right",
+    "meaning_id": "berjalan lancar; baik saja"
+  },
+  {
+    "kanji": "準備",
+    "reading": "じゅんび",
+    "meaning_en": "preparation, arrangements, getting ready, provision, setup, reserving; to prepare",
+    "meaning_id": "persiapan; mempersiapkan"
+  },
+  {
+    "kanji": "使用",
+    "reading": "しよう",
+    "meaning_en": "use, application, employment, utilization, utilisation; to use",
+    "meaning_id": "pemakaian; aplikasi"
+  },
+  {
+    "kanji": "小",
+    "reading": "しょう",
+    "meaning_en": "smallness, small item; short month (i.e. having fewer than 31 days)",
+    "meaning_id": "kecil"
+  },
+  {
+    "kanji": "章",
+    "reading": "しょう",
+    "meaning_en": "chapter, section; medal, badge, insignia",
+    "meaning_id": "bab, bagian"
+  },
+  {
+    "kanji": "賞",
+    "reading": "しょう",
+    "meaning_en": "prize, award",
+    "meaning_id": "imbalan, hadiah, ganjaran; penghargaan"
+  },
+  {
+    "kanji": "紹介",
+    "reading": "しょうかい",
+    "meaning_en": "introduction, presentation, referral, showcase (of a product); to introduce",
+    "meaning_id": "pengenalan, introduksi; perkenalan"
+  },
+  {
+    "kanji": "障害",
+    "reading": "しょうがい",
+    "meaning_en": "obstacle, impediment, hindrance, barrier, difficulty; disorder, defect, disability, handicap, impairment, dysfunction",
+    "meaning_id": "gangguan; disabilitas, hendaya"
+  },
+  {
+    "kanji": "小学生",
+    "reading": "しょうがくせい",
+    "meaning_en": "elementary school student, primary school student, grade school student",
+    "meaning_id": "sekolah dasar; murid sd"
+  },
+  {
+    "kanji": "正月",
+    "reading": "しょうがつ",
+    "meaning_en": "New Year (esp. first three days); first month of the year, January",
+    "meaning_id": "tahun baru"
+  },
+  {
+    "kanji": "小学校",
+    "reading": "しょうがっこう",
+    "meaning_en": "primary school, elementary school, grade school",
+    "meaning_id": "sekolah dasar"
+  },
+  {
+    "kanji": "仕様がない",
+    "reading": "しょうがない",
+    "meaning_en": "there's no (other) way; cannot be helped, unavoidable, inevitable, (there's) nothing one can do, having no choice, it is what it is",
+    "meaning_id": "tidak bisa dibantu"
+  },
+  {
+    "kanji": "将棋",
+    "reading": "しょうぎ",
+    "meaning_en": "shogi, Japanese chess",
+    "meaning_id": "sogi"
+  },
+  {
+    "kanji": "定規",
+    "reading": "じょうぎ",
+    "meaning_en": "(measuring) ruler",
+    "meaning_id": "penggaris, mistar"
+  },
+  {
+    "kanji": "乗客",
+    "reading": "じょうきゃく",
+    "meaning_en": "passenger",
+    "meaning_id": "penumpang"
+  },
+  {
+    "kanji": "商業",
+    "reading": "しょうぎょう",
+    "meaning_en": "commerce, trade, business",
+    "meaning_id": "komersial; perdagangan"
+  },
+  {
+    "kanji": "状況",
+    "reading": "じょうきょう",
+    "meaning_en": "state of affairs, situation, conditions, circumstances",
+    "meaning_id": "situasi, keadaan; kondisi"
+  },
+  {
+    "kanji": "消極的",
+    "reading": "しょうきょくてき",
+    "meaning_en": "negative, passive, half-hearted, unmotivated",
+    "meaning_id": "negatif; pesimis"
+  },
+  {
+    "kanji": "賞金",
+    "reading": "しょうきん",
+    "meaning_en": "prize money, monetary award, reward",
+    "meaning_id": "hadiah; hadiah uang"
+  },
+  {
+    "kanji": "上下",
+    "reading": "じょうげ",
+    "meaning_en": "top and bottom, high and low, above and below, upper and lower ends, up and down; going up and down, rising and falling, fluctuating",
+    "meaning_id": "atas dan bawah"
+  },
+  {
+    "kanji": "条件",
+    "reading": "じょうけん",
+    "meaning_en": "condition, term, requirement, qualification, prerequisite",
+    "meaning_id": "kondisi, syarat; kriteria"
+  },
+  {
+    "kanji": "正午",
+    "reading": "しょうご",
+    "meaning_en": "noon, midday",
+    "meaning_id": "siang, tengah hari; siang hari"
+  },
+  {
+    "kanji": "障子",
+    "reading": "しょうじ",
+    "meaning_en": "shoji (paper sliding door)",
+    "meaning_id": "shoji (pintu geser kertas)"
+  },
+  {
+    "kanji": "正直",
+    "reading": "しょうじき",
+    "meaning_en": "honest, frank, candid, straightforward; honestly, frankly",
+    "meaning_id": "jujur; kejujuran"
+  },
+  {
+    "kanji": "常識",
+    "reading": "じょうしき",
+    "meaning_en": "common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette",
+    "meaning_id": "akal sehat; umum"
+  },
+  {
+    "kanji": "商社",
+    "reading": "しょうしゃ",
+    "meaning_en": "trading company",
+    "meaning_id": "perdagangan; perusahaan perdagangan"
+  },
+  {
+    "kanji": "上旬",
+    "reading": "じょうじゅん",
+    "meaning_en": "first third of a month, first ten days of a month",
+    "meaning_id": "awal bulan"
+  },
+  {
+    "kanji": "少女",
+    "reading": "しょうじょ",
+    "meaning_en": "girl (usu. between 7 and 17), young lady; female between 17 and 20 years old (ritsuryō period)",
+    "meaning_id": "gadis, perawan; pemudi"
+  },
+  {
+    "kanji": "少々",
+    "reading": "しょうしょう",
+    "meaning_en": "just a minute, small quantity",
+    "meaning_id": "sebentar; sedikit"
+  },
+  {
+    "kanji": "症状",
+    "reading": "しょうじょう",
+    "meaning_en": "symptoms, condition (of a patient)",
+    "meaning_id": "gejala, simtom"
+  },
+  {
+    "kanji": "生ずる",
+    "reading": "しょうずる",
+    "meaning_en": "to produce, to yield, to cause; to result from, to arise, to be generated",
+    "meaning_id": "menghasilkan"
+  },
+  {
+    "kanji": "小数",
+    "reading": "しょうすう",
+    "meaning_en": "fraction (part of), decimal fraction",
+    "meaning_id": "bilangan pecahan; representasi desimal"
+  },
+  {
+    "kanji": "小説",
+    "reading": "しょうせつ",
+    "meaning_en": "novel, story, (work of) fiction",
+    "meaning_id": "novel; fiksi"
+  },
+  {
+    "kanji": "招待",
+    "reading": "しょうたい",
+    "meaning_en": "invitation; to invite",
+    "meaning_id": "mengundang; undangan"
+  },
+  {
+    "kanji": "状態",
+    "reading": "じょうたい",
+    "meaning_en": "state, condition, situation, appearance, circumstances",
+    "meaning_id": "kondisi; situasi"
+  },
+  {
+    "kanji": "冗談",
+    "reading": "じょうだん",
+    "meaning_en": "joke, jest, funny story",
+    "meaning_id": "candaan; lelucon, lawak"
+  },
+  {
+    "kanji": "承知",
+    "reading": "しょうち",
+    "meaning_en": "knowledge, awareness; acceptance, consent, assent, agreement, compliance, acknowledgment, acknowledgement",
+    "meaning_id": "indonesia; menyetujui"
+  },
+  {
+    "kanji": "商店",
+    "reading": "しょうてん",
+    "meaning_en": "shop, store, firm",
+    "meaning_id": "toko, kedai; bisnis"
+  },
+  {
+    "kanji": "焦点",
+    "reading": "しょうてん",
+    "meaning_en": "focus, focal point; focus (of attention, a discussion, etc.), point at issue, central point",
+    "meaning_id": "titik api, pumpunan; fokus"
+  },
+  {
+    "kanji": "衝突",
+    "reading": "しょうとつ",
+    "meaning_en": "collision, crash, impact, running into; to collide, to crash",
+    "meaning_id": "konflik; berlari ke"
+  },
+  {
+    "kanji": "小人",
+    "reading": "しょうにん",
+    "meaning_en": "child (esp. one of elementary school age or younger)",
+    "meaning_id": "kurcaci; anak"
+  },
+  {
+    "kanji": "少年",
+    "reading": "しょうねん",
+    "meaning_en": "boy; juvenile, child",
+    "meaning_id": "anak laki-laki, anak lelaki; remaja"
+  },
+  {
+    "kanji": "商売",
+    "reading": "しょうばい",
+    "meaning_en": "trade, business, commerce; occupation, calling, profession, job",
+    "meaning_id": "perdagangan; dagang"
+  },
+  {
+    "kanji": "消費",
+    "reading": "しょうひ",
+    "meaning_en": "consumption, expenditure, spending; to consume, to spend",
+    "meaning_id": "mengeluarkan, membelanjakan; konsumsi"
+  },
+  {
+    "kanji": "商品",
+    "reading": "しょうひん",
+    "meaning_en": "commodity, article of commerce, goods, stock, merchandise",
+    "meaning_id": "barang, barang-barang, barang dagangan; komoditas"
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "kanji": "乾かす",
+    "hiragana": "かわかす",
+    "masu_form": "かわかします",
+    "meaning": "mengeringkan"
+  },
+  {
+    "kanji": "感じる",
+    "hiragana": "かんじる",
+    "masu_form": "かんじます",
+    "meaning": "merasakan"
+  },
+  {
+    "kanji": "効く",
+    "hiragana": "きく",
+    "masu_form": "ききます",
+    "meaning": "berefek, berfungsi"
+  },
+  {
+    "kanji": "着せる",
+    "hiragana": "きせる",
+    "masu_form": "きせます",
+    "meaning": "memakaikan pakaian"
+  },
+  {
+    "kanji": "気付く",
+    "hiragana": "きづく",
+    "masu_form": "きづきます",
+    "meaning": "menyadari"
+  },
+  {
+    "kanji": "気に入る",
+    "hiragana": "きにいる",
+    "masu_form": "きにいります",
+    "meaning": "sangat suka, favorit"
+  },
+  {
+    "kanji": "切れる",
+    "hiragana": "きれる",
+    "masu_form": "きれます",
+    "meaning": "terputus"
+  },
+  {
+    "kanji": "気を付ける",
+    "hiragana": "きをつける",
+    "masu_form": "きをつけます",
+    "meaning": "berhati hati"
+  },
+  {
+    "kanji": "腐る",
+    "hiragana": "くさる",
+    "masu_form": "くさります",
+    "meaning": "membusuk"
+  },
+  {
+    "kanji": "崩れる",
+    "hiragana": "くずれる",
+    "masu_form": "くずれます",
+    "meaning": "runtuh, hancur"
+  },
+  {
+    "kanji": "配る",
+    "hiragana": "くばる",
+    "masu_form": "くばります",
+    "meaning": "membagikan"
+  },
+  {
+    "kanji": "暮れる",
+    "hiragana": "くれる",
+    "masu_form": "くれます",
+    "meaning": "akhir, selesai, terbenam"
+  },
+  {
+    "kanji": "暮らす",
+    "hiragana": "くらす",
+    "masu_form": "くらします",
+    "meaning": "menjalani kehidupan"
+  },
+  {
+    "kanji": "比べる",
+    "hiragana": "くらべる",
+    "masu_form": "くらべます",
+    "meaning": "membandingkan"
+  },
+  {
+    "kanji": "繰り返す",
+    "hiragana": "くりかえす",
+    "masu_form": "くりかえします",
+    "meaning": "mengulang kembali"
+  },
+  {
+    "kanji": "苦しむ",
+    "hiragana": "くるしむ",
+    "masu_form": "くるしみます",
+    "meaning": "menderita, kesakitan"
+  },
+  {
+    "kanji": "加える",
+    "hiragana": "くわえる",
+    "masu_form": "くわえます",
+    "meaning": "menambahkan"
+  },
+  {
+    "kanji": "削る",
+    "hiragana": "けずる",
+    "masu_form": "けずります",
+    "meaning": "mengikis"
+  },
+  {
+    "kanji": "蹴る",
+    "hiragana": "ける",
+    "masu_form": "けります",
+    "meaning": "menendang"
+  },
+  {
+    "kanji": "越える",
+    "hiragana": "こえる",
+    "masu_form": "こえます",
+    "meaning": "melampaui"
+  },
+  {
+    "kanji": "超す／越す",
+    "hiragana": "こす",
+    "masu_form": "こします",
+    "meaning": "melampaui"
+  },
+  {
+    "kanji": "凍る",
+    "hiragana": "こおる",
+    "masu_form": "こおります",
+    "meaning": "beku"
+  },
+  {
+    "kanji": "漕ぐ",
+    "hiragana": "こぐ",
+    "masu_form": "こぎます",
+    "meaning": "mengayuh, mendayung"
+  },
+  {
+    "kanji": "焦げる",
+    "hiragana": "こげる",
+    "masu_form": "こげます",
+    "meaning": "hangus"
+  },
+  {
+    "kanji": "断る",
+    "hiragana": "ことわる",
+    "masu_form": "ことわります",
+    "meaning": "menolak"
+  },
+  {
+    "kanji": "こぼれる",
+    "hiragana": "こぼれる",
+    "masu_form": "こぼれます",
+    "meaning": "tumpah"
+  },
+  {
+    "kanji": "溢れる",
+    "hiragana": "あふれる",
+    "masu_form": "あふれます",
+    "meaning": "meluap"
+  },
+  {
+    "kanji": "混む／込む",
+    "hiragana": "こむ",
+    "masu_form": "こみます",
+    "meaning": "ramai, macet"
+  },
+  {
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "masu_form": "ころびます",
+    "meaning": "jatuh"
+  },
+  {
+    "kanji": "転がる",
+    "hiragana": "ころがる",
+    "masu_form": "ころがります",
+    "meaning": "berguling"
+  },
+  {
+    "kanji": "殺す",
+    "hiragana": "ころす",
+    "masu_form": "ころします",
+    "meaning": "membunuh"
+  },
+  {
+    "kanji": "探す／捜す",
+    "hiragana": "さがす",
+    "masu_form": "さがします",
+    "meaning": "mencari"
+  },
+  {
+    "kanji": "叫ぶ",
+    "hiragana": "さけぶ",
+    "masu_form": "さけびます",
+    "meaning": "berteriak"
+  },
+  {
+    "kanji": "刺す",
+    "hiragana": "さす",
+    "masu_form": "さします",
+    "meaning": "menusuk"
+  },
+  {
+    "kanji": "指す",
+    "hiragana": "さす",
+    "masu_form": "さします",
+    "meaning": "menunjuk"
+  },
+  {
+    "kanji": "誘う",
+    "hiragana": "さそう",
+    "masu_form": "さそいます",
+    "meaning": "mengajak"
+  },
+  {
+    "kanji": "さっぱりする",
+    "hiragana": "さっぱりする",
+    "masu_form": "さっぱりします",
+    "meaning": "menjadi segar"
+  },
+  {
+    "kanji": "覚める",
+    "hiragana": "さめる",
+    "masu_form": "さめます",
+    "meaning": "bangun dari tidur"
+  },
+  {
+    "kanji": "冷める",
+    "hiragana": "さめる",
+    "masu_form": "さめます",
+    "meaning": "menjadi dingin"
+  },
+  {
+    "kanji": "冷ます",
+    "hiragana": "さます",
+    "masu_form": "さまします",
+    "meaning": "mendinginkan"
+  },
+  {
+    "kanji": "敷く",
+    "hiragana": "しく",
+    "masu_form": "しきます",
+    "meaning": "membentangkan"
+  },
+  {
+    "kanji": "支払う",
+    "hiragana": "しはらう",
+    "masu_form": "しはらいます",
+    "meaning": "membayar"
+  },
+  {
+    "kanji": "縛る",
+    "hiragana": "しばる",
+    "masu_form": "しばります",
+    "meaning": "mengikat"
+  },
+  {
+    "kanji": "しまう",
+    "hiragana": "しまう",
+    "masu_form": "しまいます",
+    "meaning": "menyimpan"
+  },
+  {
+    "kanji": "喋る",
+    "hiragana": "しゃべる",
+    "masu_form": "しゃべります",
+    "meaning": "berbicara"
+  },
+  {
+    "kanji": "信じる",
+    "hiragana": "しんじる",
+    "masu_form": "しんじます",
+    "meaning": "percaya"
+  },
+  {
+    "kanji": "過ぎる",
+    "hiragana": "すぎる",
+    "masu_form": "すぎます",
+    "meaning": "lewat"
+  },
+  {
+    "kanji": "過ごす",
+    "hiragana": "すごす",
+    "masu_form": "すごします",
+    "meaning": "menghabiskan waktu"
+  },
+  {
+    "kanji": "進む",
+    "hiragana": "すすむ",
+    "masu_form": "すすみます",
+    "meaning": "maju"
+  },
+  {
+    "kanji": "勧める",
+    "hiragana": "すすめる",
+    "masu_form": "すすめます",
+    "meaning": "menyarankan"
+  },
+  {
+    "kanji": "滑る",
+    "hiragana": "すべる",
+    "masu_form": "すべります",
+    "meaning": "tergelincir"
+  },
+  {
+    "kanji": "済む",
+    "hiragana": "すむ",
+    "masu_form": "すみます",
+    "meaning": "selesai"
+  },
+  {
+    "kanji": "育てる",
+    "hiragana": "そだてる",
+    "masu_form": "そだてます",
+    "meaning": "membesarkan"
+  },
+  {
+    "kanji": "備える",
+    "hiragana": "そなえる",
+    "masu_form": "そなえます",
+    "meaning": "mempersiapkan"
+  },
+  {
+    "kanji": "染める",
+    "hiragana": "そめる",
+    "masu_form": "そめます",
+    "meaning": "mewarnai"
+  },
+  {
+    "kanji": "剃る",
+    "hiragana": "そる",
+    "masu_form": "そります",
+    "meaning": "mencukur"
+  },
+  {
+    "kanji": "揃える",
+    "hiragana": "そろえる",
+    "masu_form": "そろえます",
+    "meaning": "menjajarkan"
+  },
+  {
+    "kanji": "倒す",
+    "hiragana": "たおす",
+    "masu_form": "たおします",
+    "meaning": "merobohkan"
+  },
+  {
+    "kanji": "炊く",
+    "hiragana": "たく",
+    "masu_form": "たきます",
+    "meaning": "memasak nasi"
+  },
+  {
+    "kanji": "抱く",
+    "hiragana": "だく",
+    "masu_form": "だきます",
+    "meaning": "memeluk"
+  },
+  {
+    "kanji": "確かめる",
+    "hiragana": "たしかめる",
+    "masu_form": "たしかめます",
+    "meaning": "memastikan"
+  },
+  {
+    "kanji": "足す",
+    "hiragana": "たす",
+    "masu_form": "たします",
+    "meaning": "menambahkan"
+  },
+  {
+    "kanji": "助ける",
+    "hiragana": "たすける",
+    "masu_form": "たすけます",
+    "meaning": "menolong"
+  },
+  {
+    "kanji": "訪ねる",
+    "hiragana": "たずねる",
+    "masu_form": "たずねます",
+    "meaning": "berkunjung"
+  },
+  {
+    "kanji": "尋ねる",
+    "hiragana": "たずねる",
+    "masu_form": "たずねます",
+    "meaning": "bertanya"
+  },
+  {
+    "kanji": "戦う",
+    "hiragana": "たたかう",
+    "masu_form": "たたかいます",
+    "meaning": "bertarung"
+  }
+]

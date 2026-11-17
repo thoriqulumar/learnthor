@@ -1,0 +1,242 @@
+[
+  {
+    "transitive": {
+      "kanji": "上げる",
+      "hiragana": "あげる",
+      "meaning": "menaikkan"
+    },
+    "intransitive": {
+      "kanji": "上がる",
+      "hiragana": "あがる",
+      "meaning": "naik"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "下げる",
+      "hiragana": "さげる",
+      "meaning": "menurunkan"
+    },
+    "intransitive": {
+      "kanji": "下がる",
+      "hiragana": "さがる",
+      "meaning": "turun"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "下ろす",
+      "hiragana": "おろす",
+      "meaning": "menurunkan"
+    },
+    "intransitive": {
+      "kanji": "下りる",
+      "hiragana": "おりる",
+      "meaning": "turun"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "集める",
+      "hiragana": "あつめる",
+      "meaning": "mengumpulkan"
+    },
+    "intransitive": {
+      "kanji": "集まる",
+      "hiragana": "あつまる",
+      "meaning": "berkumpul"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "折る",
+      "hiragana": "おる",
+      "meaning": "mematahkan"
+    },
+    "intransitive": {
+      "kanji": "折れる",
+      "hiragana": "おれる",
+      "meaning": "patah"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "破る",
+      "hiragana": "やぶる",
+      "meaning": "merobek"
+    },
+    "intransitive": {
+      "kanji": "破れる",
+      "hiragana": "やぶれる",
+      "meaning": "robek"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "壊す",
+      "hiragana": "こわす",
+      "meaning": "merusak"
+    },
+    "intransitive": {
+      "kanji": "壊れる",
+      "hiragana": "こわれる",
+      "meaning": "rusak"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "割る",
+      "hiragana": "わる",
+      "meaning": "memecahkan"
+    },
+    "intransitive": {
+      "kanji": "割れる",
+      "hiragana": "われる",
+      "meaning": "pecah"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "倒す",
+      "hiragana": "たおす",
+      "meaning": "merobohkan"
+    },
+    "intransitive": {
+      "kanji": "倒れる",
+      "hiragana": "たおれる",
+      "meaning": "roboh"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "落とす",
+      "hiragana": "おとす",
+      "meaning": "menjatuhkan"
+    },
+    "intransitive": {
+      "kanji": "落ちる",
+      "hiragana": "おちる",
+      "meaning": "jatuh"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "汚す",
+      "hiragana": "よごす",
+      "meaning": "mengotori"
+    },
+    "intransitive": {
+      "kanji": "汚れる",
+      "hiragana": "よごれる",
+      "meaning": "menjadi kotor"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "濡らす",
+      "hiragana": "ぬらす",
+      "meaning": "membasahi"
+    },
+    "intransitive": {
+      "kanji": "濡れる",
+      "hiragana": "ぬれる",
+      "meaning": "basah"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "乾かす",
+      "hiragana": "かわかす",
+      "meaning": "mengeringkan"
+    },
+    "intransitive": {
+      "kanji": "乾く",
+      "hiragana": "かわく",
+      "meaning": "kering"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "変える",
+      "hiragana": "かえる",
+      "meaning": "mengubah"
+    },
+    "intransitive": {
+      "kanji": "変わる",
+      "hiragana": "かわる",
+      "meaning": "berubah"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "直す",
+      "hiragana": "なおす",
+      "meaning": "memperbaiki"
+    },
+    "intransitive": {
+      "kanji": "直る",
+      "hiragana": "なおる",
+      "meaning": "kembali normal"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "治す",
+      "hiragana": "なおす",
+      "meaning": "menyembuhkan"
+    },
+    "intransitive": {
+      "kanji": "治る",
+      "hiragana": "なおる",
+      "meaning": "sembuh"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "冷やす",
+      "hiragana": "ひやす",
+      "meaning": "mendinginkan"
+    },
+    "intransitive": {
+      "kanji": "冷える",
+      "hiragana": "ひえる",
+      "meaning": "menjadi dingin"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "増やす",
+      "hiragana": "ふやす",
+      "meaning": "menambahkan"
+    },
+    "intransitive": {
+      "kanji": "増える",
+      "hiragana": "ふえる",
+      "meaning": "bertambah"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "減らす",
+      "hiragana": "へらす",
+      "meaning": "mengurangi"
+    },
+    "intransitive": {
+      "kanji": "減る",
+      "hiragana": "へる",
+      "meaning": "berkurang"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "回す",
+      "hiragana": "まわす",
+      "meaning": "memutarkan"
+    },
+    "intransitive": {
+      "kanji": "回る",
+      "hiragana": "まわる",
+      "meaning": "berputar"
+    }
+  }
+]

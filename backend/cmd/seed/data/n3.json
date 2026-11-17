@@ -1,0 +1,4334 @@
+[
+  {
+    "section": "JLPT N3 Vocabulary (Kotoba)",
+    "sort_order": 9,
+    "modules": [
+      {
+        "title": "N3: Interpersonal Relationships",
+        "sort_order": 1,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "関係",
+            "kana": "かんけい",
+            "romaji": "kankei",
+            "meaning": "Relationship, connection",
+            "pos": "noun",
+            "example": "二人の関係は良いです。"
+          },
+          {
+            "kanji": "付き合う",
+            "kana": "つきあう",
+            "romaji": "tsukiau",
+            "meaning": "To date; to associate with",
+            "pos": "verb",
+            "example": "彼女と三年付き合っています。"
+          },
+          {
+            "kanji": "別れる",
+            "kana": "わかれる",
+            "romaji": "wakareru",
+            "meaning": "To break up; to part ways",
+            "pos": "verb",
+            "example": "彼女と別れました。"
+          },
+          {
+            "kanji": "喧嘩",
+            "kana": "けんか",
+            "romaji": "kenka",
+            "meaning": "Quarrel, fight",
+            "pos": "noun",
+            "example": "兄と喧嘩しました。"
+          },
+          {
+            "kanji": "仲直り",
+            "kana": "なかなおり",
+            "romaji": "nakanaorii",
+            "meaning": "Reconciliation, making up",
+            "pos": "noun",
+            "example": "喧嘩の後、仲直りしました。"
+          },
+          {
+            "kanji": "謝る",
+            "kana": "あやまる",
+            "romaji": "ayamaru",
+            "meaning": "To apologize",
+            "pos": "verb",
+            "example": "失礼なことを言って謝りました。"
+          },
+          {
+            "kanji": "信頼",
+            "kana": "しんらい",
+            "romaji": "shinrai",
+            "meaning": "Trust, reliance",
+            "pos": "noun",
+            "example": "彼は信頼できる人です。"
+          },
+          {
+            "kanji": "尊敬",
+            "kana": "そんけい",
+            "romaji": "sonkei",
+            "meaning": "Respect, admiration",
+            "pos": "noun",
+            "example": "先生を尊敬しています。"
+          },
+          {
+            "kanji": "嫉妬",
+            "kana": "しっと",
+            "romaji": "shitto",
+            "meaning": "Jealousy, envy",
+            "pos": "noun",
+            "example": "嫉妬は良くないです。"
+          },
+          {
+            "kanji": "無視する",
+            "kana": "むしする",
+            "romaji": "mushi suru",
+            "meaning": "To ignore",
+            "pos": "verb",
+            "example": "彼女に無視されました。"
+          },
+          {
+            "kanji": "甘える",
+            "kana": "あまえる",
+            "romaji": "amaeru",
+            "meaning": "To depend on; act spoiled",
+            "pos": "verb",
+            "example": "親に甘えてはいけません。"
+          },
+          {
+            "kanji": "頼る",
+            "kana": "たよる",
+            "romaji": "tayoru",
+            "meaning": "To rely on, depend on",
+            "pos": "verb",
+            "example": "友達に頼ることも大切です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Workplace & Career",
+        "sort_order": 2,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "就職",
+            "kana": "しゅうしょく",
+            "romaji": "shuushoku",
+            "meaning": "Finding employment, job hunting",
+            "pos": "noun",
+            "example": "就職活動を始めました。"
+          },
+          {
+            "kanji": "転職",
+            "kana": "てんしょく",
+            "romaji": "tenshoku",
+            "meaning": "Changing jobs",
+            "pos": "noun",
+            "example": "来年、転職する予定です。"
+          },
+          {
+            "kanji": "面接",
+            "kana": "めんせつ",
+            "romaji": "mensetsu",
+            "meaning": "Job interview",
+            "pos": "noun",
+            "example": "明日面接があります。"
+          },
+          {
+            "kanji": "採用",
+            "kana": "さいよう",
+            "romaji": "saiyou",
+            "meaning": "Hiring, adoption",
+            "pos": "noun",
+            "example": "採用通知が届きました。"
+          },
+          {
+            "kanji": "解雇",
+            "kana": "かいこ",
+            "romaji": "kaiko",
+            "meaning": "Dismissal, firing",
+            "pos": "noun",
+            "example": "突然解雇されました。"
+          },
+          {
+            "kanji": "通勤",
+            "kana": "つうきん",
+            "romaji": "tsuukin",
+            "meaning": "Commuting to work",
+            "pos": "noun",
+            "example": "毎日二時間通勤します。"
+          },
+          {
+            "kanji": "出張",
+            "kana": "しゅっちょう",
+            "romaji": "shucchou",
+            "meaning": "Business trip",
+            "pos": "noun",
+            "example": "来週、大阪に出張します。"
+          },
+          {
+            "kanji": "昇進",
+            "kana": "しょうしん",
+            "romaji": "shoushin",
+            "meaning": "Promotion (at work)",
+            "pos": "noun",
+            "example": "部長に昇進しました。"
+          },
+          {
+            "kanji": "上司",
+            "kana": "じょうし",
+            "romaji": "joushi",
+            "meaning": "Superior, boss",
+            "pos": "noun",
+            "example": "上司に相談します。"
+          },
+          {
+            "kanji": "部下",
+            "kana": "ぶか",
+            "romaji": "buka",
+            "meaning": "Subordinate, staff under one",
+            "pos": "noun",
+            "example": "部下を指導します。"
+          },
+          {
+            "kanji": "締め切り",
+            "kana": "しめきり",
+            "romaji": "shimekiri",
+            "meaning": "Deadline",
+            "pos": "noun",
+            "example": "締め切りに間に合いました。"
+          },
+          {
+            "kanji": "評価",
+            "kana": "ひょうか",
+            "romaji": "hyouka",
+            "meaning": "Evaluation, assessment",
+            "pos": "noun",
+            "example": "上司から良い評価をもらいました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Society & Rules",
+        "sort_order": 3,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "法律",
+            "kana": "ほうりつ",
+            "romaji": "houritsu",
+            "meaning": "Law",
+            "pos": "noun",
+            "example": "法律を守ります。"
+          },
+          {
+            "kanji": "規則",
+            "kana": "きそく",
+            "romaji": "kisoku",
+            "meaning": "Rule, regulation",
+            "pos": "noun",
+            "example": "学校の規則に従います。"
+          },
+          {
+            "kanji": "禁止",
+            "kana": "きんし",
+            "romaji": "kinshi",
+            "meaning": "Prohibition, ban",
+            "pos": "noun",
+            "example": "ここは駐車禁止です。"
+          },
+          {
+            "kanji": "許可",
+            "kana": "きょか",
+            "romaji": "kyoka",
+            "meaning": "Permission, approval",
+            "pos": "noun",
+            "example": "許可をもらいました。"
+          },
+          {
+            "kanji": "義務",
+            "kana": "ぎむ",
+            "romaji": "gimu",
+            "meaning": "Duty, obligation",
+            "pos": "noun",
+            "example": "納税は国民の義務です。"
+          },
+          {
+            "kanji": "権利",
+            "kana": "けんり",
+            "romaji": "kenri",
+            "meaning": "Right, privilege",
+            "pos": "noun",
+            "example": "投票する権利があります。"
+          },
+          {
+            "kanji": "環境",
+            "kana": "かんきょう",
+            "romaji": "kankyou",
+            "meaning": "Environment",
+            "pos": "noun",
+            "example": "環境を守りましょう。"
+          },
+          {
+            "kanji": "ボランティア",
+            "kana": "ボランティア",
+            "romaji": "borantia",
+            "meaning": "Volunteer, volunteering",
+            "pos": "noun",
+            "example": "週末にボランティアをします。"
+          },
+          {
+            "kanji": "税金",
+            "kana": "ぜいきん",
+            "romaji": "zeikin",
+            "meaning": "Tax",
+            "pos": "noun",
+            "example": "税金を払います。"
+          },
+          {
+            "kanji": "事故",
+            "kana": "じこ",
+            "romaji": "jiko",
+            "meaning": "Accident",
+            "pos": "noun",
+            "example": "交通事故がありました。"
+          },
+          {
+            "kanji": "犯罪",
+            "kana": "はんざい",
+            "romaji": "hanzai",
+            "meaning": "Crime",
+            "pos": "noun",
+            "example": "犯罪を防ぎます。"
+          },
+          {
+            "kanji": "盗む",
+            "kana": "ぬすむ",
+            "romaji": "nusumu",
+            "meaning": "To steal",
+            "pos": "verb",
+            "example": "財布を盗まれました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Housing & Neighborhood",
+        "sort_order": 4,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "家賃",
+            "kana": "やちん",
+            "romaji": "yachin",
+            "meaning": "Rent",
+            "pos": "noun",
+            "example": "家賃が高いです。"
+          },
+          {
+            "kanji": "引っ越し",
+            "kana": "ひっこし",
+            "romaji": "hikkoshi",
+            "meaning": "Moving (residence)",
+            "pos": "noun",
+            "example": "来月、引っ越しをします。"
+          },
+          {
+            "kanji": "大家",
+            "kana": "おおや",
+            "romaji": "ooya",
+            "meaning": "Landlord, landlady",
+            "pos": "noun",
+            "example": "大家さんに連絡します。"
+          },
+          {
+            "kanji": "近所",
+            "kana": "きんじょ",
+            "romaji": "kinjo",
+            "meaning": "Neighborhood, vicinity",
+            "pos": "noun",
+            "example": "近所に挨拶します。"
+          },
+          {
+            "kanji": "隣",
+            "kana": "となり",
+            "romaji": "tonari",
+            "meaning": "Next door, neighboring",
+            "pos": "noun",
+            "example": "隣の部屋がうるさいです。"
+          },
+          {
+            "kanji": "光熱費",
+            "kana": "こうねつひ",
+            "romaji": "kounetsuhi",
+            "meaning": "Utility bills (gas, electric)",
+            "pos": "noun",
+            "example": "冬は光熱費が高くなります。"
+          },
+          {
+            "kanji": "洗濯",
+            "kana": "せんたく",
+            "romaji": "sentaku",
+            "meaning": "Laundry, washing",
+            "pos": "noun",
+            "example": "洗濯物を干します。"
+          },
+          {
+            "kanji": "ゴミ",
+            "kana": "ゴミ",
+            "romaji": "gomi",
+            "meaning": "Garbage, trash",
+            "pos": "noun",
+            "example": "ゴミを分別して出します。"
+          },
+          {
+            "kanji": "騒音",
+            "kana": "そうおん",
+            "romaji": "souon",
+            "meaning": "Noise, loud sound",
+            "pos": "noun",
+            "example": "騒音に悩まされています。"
+          },
+          {
+            "kanji": "修理",
+            "kana": "しゅうり",
+            "romaji": "shuuri",
+            "meaning": "Repair, fix",
+            "pos": "noun",
+            "example": "水道を修理してもらいました。"
+          },
+          {
+            "kanji": "共有",
+            "kana": "きょうゆう",
+            "romaji": "kyouyuu",
+            "meaning": "Sharing, common use",
+            "pos": "noun",
+            "example": "駐輪場は共有です。"
+          },
+          {
+            "kanji": "管理",
+            "kana": "かんり",
+            "romaji": "kanri",
+            "meaning": "Management, administration",
+            "pos": "noun",
+            "example": "マンションの管理会社です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Education & Academic Life",
+        "sort_order": 5,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "入試",
+            "kana": "にゅうし",
+            "romaji": "nyuushi",
+            "meaning": "Entrance examination",
+            "pos": "noun",
+            "example": "大学の入試を受けます。"
+          },
+          {
+            "kanji": "合格",
+            "kana": "ごうかく",
+            "romaji": "goukaku",
+            "meaning": "Passing (an exam)",
+            "pos": "noun",
+            "example": "試験に合格しました。"
+          },
+          {
+            "kanji": "不合格",
+            "kana": "ふごうかく",
+            "romaji": "fugoukaku",
+            "meaning": "Failing (an exam)",
+            "pos": "noun",
+            "example": "残念ながら不合格でした。"
+          },
+          {
+            "kanji": "卒業",
+            "kana": "そつぎょう",
+            "romaji": "sotsugyou",
+            "meaning": "Graduation",
+            "pos": "noun",
+            "example": "来春、卒業します。"
+          },
+          {
+            "kanji": "奨学金",
+            "kana": "しょうがくきん",
+            "romaji": "shougakukin",
+            "meaning": "Scholarship",
+            "pos": "noun",
+            "example": "奨学金をもらっています。"
+          },
+          {
+            "kanji": "講義",
+            "kana": "こうぎ",
+            "romaji": "kougi",
+            "meaning": "Lecture",
+            "pos": "noun",
+            "example": "午後、講義があります。"
+          },
+          {
+            "kanji": "研究",
+            "kana": "けんきゅう",
+            "romaji": "kenkyuu",
+            "meaning": "Research, study",
+            "pos": "noun",
+            "example": "環境問題を研究しています。"
+          },
+          {
+            "kanji": "論文",
+            "kana": "ろんぶん",
+            "romaji": "ronbun",
+            "meaning": "Thesis, academic paper",
+            "pos": "noun",
+            "example": "卒業論文を書いています。"
+          },
+          {
+            "kanji": "専攻",
+            "kana": "せんこう",
+            "romaji": "senkou",
+            "meaning": "Major (academic)",
+            "pos": "noun",
+            "example": "専攻は経済学です。"
+          },
+          {
+            "kanji": "単位",
+            "kana": "たんい",
+            "romaji": "tani",
+            "meaning": "Academic credit",
+            "pos": "noun",
+            "example": "単位を取ります。"
+          },
+          {
+            "kanji": "受験",
+            "kana": "じゅけん",
+            "romaji": "juken",
+            "meaning": "Taking an exam",
+            "pos": "noun",
+            "example": "大学受験のために勉強します。"
+          },
+          {
+            "kanji": "進学",
+            "kana": "しんがく",
+            "romaji": "shingaku",
+            "meaning": "Advancing to a higher school",
+            "pos": "noun",
+            "example": "大学に進学します。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Media & Technology",
+        "sort_order": 6,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "ニュース",
+            "kana": "ニュース",
+            "romaji": "nyuusu",
+            "meaning": "News",
+            "pos": "noun",
+            "example": "毎朝ニュースを見ます。"
+          },
+          {
+            "kanji": "放送",
+            "kana": "ほうそう",
+            "romaji": "houhou",
+            "meaning": "Broadcast, airing",
+            "pos": "noun",
+            "example": "ライブ放送を見ます。"
+          },
+          {
+            "kanji": "記事",
+            "kana": "きじ",
+            "romaji": "kiji",
+            "meaning": "Article (news/web)",
+            "pos": "noun",
+            "example": "面白い記事を読みました。"
+          },
+          {
+            "kanji": "情報",
+            "kana": "じょうほう",
+            "romaji": "jouhou",
+            "meaning": "Information, data",
+            "pos": "noun",
+            "example": "最新情報を確認します。"
+          },
+          {
+            "kanji": "インターネット",
+            "kana": "インターネット",
+            "romaji": "intaanetto",
+            "meaning": "Internet",
+            "pos": "noun",
+            "example": "インターネットで調べます。"
+          },
+          {
+            "kanji": "ウェブサイト",
+            "kana": "ウェブサイト",
+            "romaji": "uebusaito",
+            "meaning": "Website",
+            "pos": "noun",
+            "example": "会社のウェブサイトです。"
+          },
+          {
+            "kanji": "アプリ",
+            "kana": "アプリ",
+            "romaji": "apuri",
+            "meaning": "App, application",
+            "pos": "noun",
+            "example": "便利なアプリを使います。"
+          },
+          {
+            "kanji": "データ",
+            "kana": "データ",
+            "romaji": "deeta",
+            "meaning": "Data",
+            "pos": "noun",
+            "example": "データを保存します。"
+          },
+          {
+            "kanji": "更新",
+            "kana": "こうしん",
+            "romaji": "koushin",
+            "meaning": "Update, renewal",
+            "pos": "noun",
+            "example": "ソフトウェアを更新します。"
+          },
+          {
+            "kanji": "検索",
+            "kana": "けんさく",
+            "romaji": "kensaku",
+            "meaning": "Search (online)",
+            "pos": "noun",
+            "example": "グーグルで検索します。"
+          },
+          {
+            "kanji": "通知",
+            "kana": "つうち",
+            "romaji": "tsuuchi",
+            "meaning": "Notification",
+            "pos": "noun",
+            "example": "スマホに通知が来ました。"
+          },
+          {
+            "kanji": "投稿",
+            "kana": "とうこう",
+            "romaji": "toukou",
+            "meaning": "Post (SNS), submission",
+            "pos": "noun",
+            "example": "SNSに写真を投稿します。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Detailed Health & Symptoms",
+        "sort_order": 7,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "回復",
+            "kana": "かいふく",
+            "romaji": "kaifuku",
+            "meaning": "Recovery, recuperation",
+            "pos": "noun",
+            "example": "風邪から回復しました。"
+          },
+          {
+            "kanji": "傷",
+            "kana": "きず",
+            "romaji": "kizu",
+            "meaning": "Wound, scratch, scar",
+            "pos": "noun",
+            "example": "足に傷があります。"
+          },
+          {
+            "kanji": "骨折",
+            "kana": "こっせつ",
+            "romaji": "kossetsu",
+            "meaning": "Fracture, broken bone",
+            "pos": "noun",
+            "example": "転んで骨折しました。"
+          },
+          {
+            "kanji": "吐き気",
+            "kana": "はきけ",
+            "romaji": "hakike",
+            "meaning": "Nausea",
+            "pos": "noun",
+            "example": "吐き気がします。"
+          },
+          {
+            "kanji": "食欲",
+            "kana": "しょくよく",
+            "romaji": "shokuyoku",
+            "meaning": "Appetite",
+            "pos": "noun",
+            "example": "食欲がありません。"
+          },
+          {
+            "kanji": "不眠",
+            "kana": "ふみん",
+            "romaji": "fumin",
+            "meaning": "Insomnia, sleeplessness",
+            "pos": "noun",
+            "example": "ストレスで不眠になりました。"
+          },
+          {
+            "kanji": "ストレス",
+            "kana": "ストレス",
+            "romaji": "sutoresu",
+            "meaning": "Stress",
+            "pos": "noun",
+            "example": "仕事のストレスがたまっています。"
+          },
+          {
+            "kanji": "予防",
+            "kana": "よぼう",
+            "romaji": "yobou",
+            "meaning": "Prevention",
+            "pos": "noun",
+            "example": "病気の予防が大切です。"
+          },
+          {
+            "kanji": "衛生",
+            "kana": "えいせい",
+            "romaji": "eisei",
+            "meaning": "Hygiene, sanitation",
+            "pos": "noun",
+            "example": "衛生に気をつけます。"
+          },
+          {
+            "kanji": "慢性",
+            "kana": "まんせい",
+            "romaji": "mansei",
+            "meaning": "Chronic (condition)",
+            "pos": "na-adj",
+            "example": "慢性的な腰痛があります。"
+          },
+          {
+            "kanji": "急性",
+            "kana": "きゅうせい",
+            "romaji": "kyuusei",
+            "meaning": "Acute (condition)",
+            "pos": "na-adj",
+            "example": "急性の病気です。"
+          },
+          {
+            "kanji": "診断",
+            "kana": "しんだん",
+            "romaji": "shindan",
+            "meaning": "Diagnosis",
+            "pos": "noun",
+            "example": "医者に診断してもらいました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Psychology & Deep Emotions",
+        "sort_order": 8,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "安心",
+            "kana": "あんしん",
+            "romaji": "anshin",
+            "meaning": "Relief, peace of mind",
+            "pos": "noun",
+            "example": "試験が終わって安心しました。"
+          },
+          {
+            "kanji": "不安",
+            "kana": "ふあん",
+            "romaji": "fuan",
+            "meaning": "Anxiety, unease",
+            "pos": "noun",
+            "example": "将来のことが不安です。"
+          },
+          {
+            "kanji": "後悔",
+            "kana": "こうかい",
+            "romaji": "koukai",
+            "meaning": "Regret, remorse",
+            "pos": "noun",
+            "example": "あの選択を後悔しています。"
+          },
+          {
+            "kanji": "期待",
+            "kana": "きたい",
+            "romaji": "kitai",
+            "meaning": "Expectation, hope",
+            "pos": "noun",
+            "example": "新しい仕事に期待しています。"
+          },
+          {
+            "kanji": "信念",
+            "kana": "しんねん",
+            "romaji": "shinnen",
+            "meaning": "Belief, conviction",
+            "pos": "noun",
+            "example": "強い信念を持っています。"
+          },
+          {
+            "kanji": "不満",
+            "kana": "ふまん",
+            "romaji": "fuman",
+            "meaning": "Dissatisfaction, complaint",
+            "pos": "noun",
+            "example": "仕事に不満があります。"
+          },
+          {
+            "kanji": "喜び",
+            "kana": "よろこび",
+            "romaji": "yorokobi",
+            "meaning": "Joy, delight",
+            "pos": "noun",
+            "example": "合格の喜びを感じました。"
+          },
+          {
+            "kanji": "怒り",
+            "kana": "いかり",
+            "romaji": "ikari",
+            "meaning": "Anger, rage",
+            "pos": "noun",
+            "example": "怒りを抑えます。"
+          },
+          {
+            "kanji": "感動",
+            "kana": "かんどう",
+            "romaji": "kandou",
+            "meaning": "Being moved, deeply touched",
+            "pos": "noun",
+            "example": "映画を見て感動しました。"
+          },
+          {
+            "kanji": "驚き",
+            "kana": "おどろき",
+            "romaji": "odoroki",
+            "meaning": "Surprise, astonishment",
+            "pos": "noun",
+            "example": "その知らせに驚きました。"
+          },
+          {
+            "kanji": "悩む",
+            "kana": "なやむ",
+            "romaji": "nayamu",
+            "meaning": "To worry, be troubled",
+            "pos": "verb",
+            "example": "進路について悩んでいます。"
+          },
+          {
+            "kanji": "我慢する",
+            "kana": "がまんする",
+            "romaji": "gaman suru",
+            "meaning": "To endure, put up with",
+            "pos": "verb",
+            "example": "痛みを我慢します。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Abstract Concepts",
+        "sort_order": 9,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "成功",
+            "kana": "せいこう",
+            "romaji": "seikou",
+            "meaning": "Success",
+            "pos": "noun",
+            "example": "プロジェクトが成功しました。"
+          },
+          {
+            "kanji": "失敗",
+            "kana": "しっぱい",
+            "romaji": "shippai",
+            "meaning": "Failure",
+            "pos": "noun",
+            "example": "失敗から学びます。"
+          },
+          {
+            "kanji": "可能性",
+            "kana": "かのうせい",
+            "romaji": "kanousei",
+            "meaning": "Possibility, potential",
+            "pos": "noun",
+            "example": "可能性を信じます。"
+          },
+          {
+            "kanji": "目標",
+            "kana": "もくひょう",
+            "romaji": "mokuhyou",
+            "meaning": "Goal, target",
+            "pos": "noun",
+            "example": "目標を達成しました。"
+          },
+          {
+            "kanji": "進歩",
+            "kana": "しんぽ",
+            "romaji": "shinpo",
+            "meaning": "Progress, advancement",
+            "pos": "noun",
+            "example": "日本語の進歩を感じます。"
+          },
+          {
+            "kanji": "変化",
+            "kana": "へんか",
+            "romaji": "henka",
+            "meaning": "Change, variation",
+            "pos": "noun",
+            "example": "環境の変化に対応します。"
+          },
+          {
+            "kanji": "状況",
+            "kana": "じょうきょう",
+            "romaji": "joukyou",
+            "meaning": "Situation, circumstances",
+            "pos": "noun",
+            "example": "状況を確認します。"
+          },
+          {
+            "kanji": "基準",
+            "kana": "きじゅん",
+            "romaji": "kijun",
+            "meaning": "Standard, criterion",
+            "pos": "noun",
+            "example": "基準を満たしています。"
+          },
+          {
+            "kanji": "比較",
+            "kana": "ひかく",
+            "romaji": "hikaku",
+            "meaning": "Comparison",
+            "pos": "noun",
+            "example": "二つの製品を比較します。"
+          },
+          {
+            "kanji": "優先",
+            "kana": "ゆうせん",
+            "romaji": "yuusen",
+            "meaning": "Priority",
+            "pos": "noun",
+            "example": "健康を優先します。"
+          },
+          {
+            "kanji": "限界",
+            "kana": "げんかい",
+            "romaji": "genkai",
+            "meaning": "Limit, boundary",
+            "pos": "noun",
+            "example": "限界を超えました。"
+          },
+          {
+            "kanji": "責任",
+            "kana": "せきにん",
+            "romaji": "sekinin",
+            "meaning": "Responsibility",
+            "pos": "noun",
+            "example": "責任を取ります。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Money & Economy",
+        "sort_order": 10,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "貯金",
+            "kana": "ちょきん",
+            "romaji": "chokin",
+            "meaning": "Savings",
+            "pos": "noun",
+            "example": "毎月貯金しています。"
+          },
+          {
+            "kanji": "生活費",
+            "kana": "せいかつひ",
+            "romaji": "seikatsuhi",
+            "meaning": "Living expenses",
+            "pos": "noun",
+            "example": "生活費が上がりました。"
+          },
+          {
+            "kanji": "割引",
+            "kana": "わりびき",
+            "romaji": "waribiki",
+            "meaning": "Discount",
+            "pos": "noun",
+            "example": "三割引で買いました。"
+          },
+          {
+            "kanji": "消費税",
+            "kana": "しょうひぜい",
+            "romaji": "shouhizei",
+            "meaning": "Consumption tax",
+            "pos": "noun",
+            "example": "消費税は十パーセントです。"
+          },
+          {
+            "kanji": "収入",
+            "kana": "しゅうにゅう",
+            "romaji": "shuunyuu",
+            "meaning": "Income",
+            "pos": "noun",
+            "example": "収入が増えました。"
+          },
+          {
+            "kanji": "支出",
+            "kana": "ししゅつ",
+            "romaji": "shishutsu",
+            "meaning": "Expenditure, outgoing",
+            "pos": "noun",
+            "example": "今月は支出が多かったです。"
+          },
+          {
+            "kanji": "利益",
+            "kana": "りえき",
+            "romaji": "rieki",
+            "meaning": "Profit, benefit",
+            "pos": "noun",
+            "example": "会社の利益が上がりました。"
+          },
+          {
+            "kanji": "損失",
+            "kana": "そんしつ",
+            "romaji": "sonshitsu",
+            "meaning": "Loss, damage",
+            "pos": "noun",
+            "example": "大きな損失が出ました。"
+          },
+          {
+            "kanji": "投資",
+            "kana": "とうし",
+            "romaji": "toushi",
+            "meaning": "Investment",
+            "pos": "noun",
+            "example": "株に投資します。"
+          },
+          {
+            "kanji": "借金",
+            "kana": "しゃっきん",
+            "romaji": "shakkin",
+            "meaning": "Debt",
+            "pos": "noun",
+            "example": "借金を返済します。"
+          },
+          {
+            "kanji": "節約",
+            "kana": "せつやく",
+            "romaji": "setsuyaku",
+            "meaning": "Saving, economizing",
+            "pos": "noun",
+            "example": "電気を節約します。"
+          },
+          {
+            "kanji": "予算",
+            "kana": "よさん",
+            "romaji": "yosan",
+            "meaning": "Budget",
+            "pos": "noun",
+            "example": "予算を超えてしまいました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Onomatopoeia",
+        "sort_order": 11,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "ぺらぺら",
+            "kana": "ぺらぺら",
+            "romaji": "pera-pera",
+            "meaning": "Fluently (speaking a language)",
+            "pos": "adv",
+            "example": "彼女は英語がぺらぺらです。"
+          },
+          {
+            "kanji": "どきどき",
+            "kana": "どきどき",
+            "romaji": "doki-doki",
+            "meaning": "Heart pounding (excitement/nerves)",
+            "pos": "adv",
+            "example": "発表の前にどきどきします。"
+          },
+          {
+            "kanji": "きらきら",
+            "kana": "きらきら",
+            "romaji": "kira-kira",
+            "meaning": "Sparkling, glittering",
+            "pos": "adv",
+            "example": "星がきらきら光っています。"
+          },
+          {
+            "kanji": "ぐっすり",
+            "kana": "ぐっすり",
+            "romaji": "gussuri",
+            "meaning": "Sound asleep, deeply",
+            "pos": "adv",
+            "example": "昨晩はぐっすり寝ました。"
+          },
+          {
+            "kanji": "ぎりぎり",
+            "kana": "ぎりぎり",
+            "romaji": "giri-giri",
+            "meaning": "Just barely, at the last moment",
+            "pos": "adv",
+            "example": "ぎりぎりで間に合いました。"
+          },
+          {
+            "kanji": "ふわふわ",
+            "kana": "ふわふわ",
+            "romaji": "fuwa-fuwa",
+            "meaning": "Soft and fluffy, floating",
+            "pos": "adv",
+            "example": "このケーキはふわふわです。"
+          },
+          {
+            "kanji": "いらいら",
+            "kana": "いらいら",
+            "romaji": "ira-ira",
+            "meaning": "Irritated, annoyed",
+            "pos": "adv",
+            "example": "渋滞でいらいらします。"
+          },
+          {
+            "kanji": "うろうろ",
+            "kana": "うろうろ",
+            "romaji": "uro-uro",
+            "meaning": "Wandering, loitering",
+            "pos": "adv",
+            "example": "迷子になってうろうろしていました。"
+          },
+          {
+            "kanji": "にこにこ",
+            "kana": "にこにこ",
+            "romaji": "niko-niko",
+            "meaning": "Smiling cheerfully",
+            "pos": "adv",
+            "example": "いつもにこにこしています。"
+          },
+          {
+            "kanji": "べたべた",
+            "kana": "べたべた",
+            "romaji": "beta-beta",
+            "meaning": "Sticky, overly clingy",
+            "pos": "adv",
+            "example": "暑くてべたべたします。"
+          },
+          {
+            "kanji": "さらさら",
+            "kana": "さらさら",
+            "romaji": "sara-sara",
+            "meaning": "Smooth, flowing freely",
+            "pos": "adv",
+            "example": "さらさらした髪です。"
+          },
+          {
+            "kanji": "ぐずぐず",
+            "kana": "ぐずぐず",
+            "romaji": "guzu-guzu",
+            "meaning": "Dawdling, slow, fussing",
+            "pos": "adv",
+            "example": "ぐずぐずしないで、早く行きましょう。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Compound Verbs",
+        "sort_order": 12,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "聞き直す",
+            "kana": "ききなおす",
+            "romaji": "kiki naosu",
+            "meaning": "To ask again, re-ask",
+            "pos": "verb",
+            "example": "よく聞こえなかったので聞き直しました。"
+          },
+          {
+            "kanji": "飛び出す",
+            "kana": "とびだす",
+            "romaji": "tobidasu",
+            "meaning": "To jump/rush out",
+            "pos": "verb",
+            "example": "子供が道に飛び出しました。"
+          },
+          {
+            "kanji": "疲れ切る",
+            "kana": "つかれきる",
+            "romaji": "tsukarekiru",
+            "meaning": "To be completely exhausted",
+            "pos": "verb",
+            "example": "仕事で疲れ切っています。"
+          },
+          {
+            "kanji": "書き直す",
+            "kana": "かきなおす",
+            "romaji": "kakinaosu",
+            "meaning": "To rewrite",
+            "pos": "verb",
+            "example": "レポートを書き直しました。"
+          },
+          {
+            "kanji": "食べ過ぎる",
+            "kana": "たべすぎる",
+            "romaji": "tabesugiru",
+            "meaning": "To overeat",
+            "pos": "verb",
+            "example": "昨日食べ過ぎました。"
+          },
+          {
+            "kanji": "話し合う",
+            "kana": "はなしあう",
+            "romaji": "hanashiau",
+            "meaning": "To discuss, talk things over",
+            "pos": "verb",
+            "example": "問題について話し合います。"
+          },
+          {
+            "kanji": "持ち帰る",
+            "kana": "もちかえる",
+            "romaji": "mochikaeru",
+            "meaning": "To take home, bring back",
+            "pos": "verb",
+            "example": "残り物を持ち帰ります。"
+          },
+          {
+            "kanji": "取り消す",
+            "kana": "とりけす",
+            "romaji": "torikesu",
+            "meaning": "To cancel, undo, revoke",
+            "pos": "verb",
+            "example": "注文を取り消しました。"
+          },
+          {
+            "kanji": "受け入れる",
+            "kana": "うけいれる",
+            "romaji": "ukeireru",
+            "meaning": "To accept, receive",
+            "pos": "verb",
+            "example": "意見を受け入れます。"
+          },
+          {
+            "kanji": "立ち止まる",
+            "kana": "たちどまる",
+            "romaji": "tachidomaru",
+            "meaning": "To stop in one's tracks, halt",
+            "pos": "verb",
+            "example": "突然立ち止まりました。"
+          },
+          {
+            "kanji": "思い出す",
+            "kana": "おもいだす",
+            "romaji": "omoidasu",
+            "meaning": "To recall, remember",
+            "pos": "verb",
+            "example": "昔の友達のことを思い出しました。"
+          },
+          {
+            "kanji": "申し込む",
+            "kana": "もうしこむ",
+            "romaji": "moushikomu",
+            "meaning": "To apply for, sign up",
+            "pos": "verb",
+            "example": "コースに申し込みました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Environment & Nature",
+        "sort_order": 13,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "環境",
+            "kana": "かんきょう",
+            "romaji": "kankyou",
+            "meaning": "Environment, surroundings",
+            "pos": "noun",
+            "example": "環境を守るために努力しています。"
+          },
+          {
+            "kanji": "汚染",
+            "kana": "おせん",
+            "romaji": "osen",
+            "meaning": "Pollution, contamination",
+            "pos": "noun",
+            "example": "川の水質汚染が問題です。"
+          },
+          {
+            "kanji": "温暖化",
+            "kana": "おんだんか",
+            "romaji": "ondanka",
+            "meaning": "Global warming",
+            "pos": "noun",
+            "example": "地球温暖化は深刻な問題です。"
+          },
+          {
+            "kanji": "資源",
+            "kana": "しげん",
+            "romaji": "shigen",
+            "meaning": "Resources, natural resources",
+            "pos": "noun",
+            "example": "エネルギー資源を節約しましょう。"
+          },
+          {
+            "kanji": "森林",
+            "kana": "しんりん",
+            "romaji": "shinrin",
+            "meaning": "Forest, woodland",
+            "pos": "noun",
+            "example": "森林の破壊が進んでいます。"
+          },
+          {
+            "kanji": "絶滅",
+            "kana": "ぜつめつ",
+            "romaji": "zetsumetsu",
+            "meaning": "Extinction",
+            "pos": "noun",
+            "example": "多くの動物が絶滅の危機にあります。"
+          },
+          {
+            "kanji": "節約",
+            "kana": "せつやく",
+            "romaji": "setsuyaku",
+            "meaning": "Saving, conservation, frugality",
+            "pos": "noun",
+            "example": "水を節約することが大切です。"
+          },
+          {
+            "kanji": "廃棄物",
+            "kana": "はいきぶつ",
+            "romaji": "haikibutsu",
+            "meaning": "Waste, garbage, refuse",
+            "pos": "noun",
+            "example": "廃棄物の処理が問題になっています。"
+          },
+          {
+            "kanji": "生態系",
+            "kana": "せいたいけい",
+            "romaji": "seitaikei",
+            "meaning": "Ecosystem",
+            "pos": "noun",
+            "example": "海の生態系を守る必要があります。"
+          },
+          {
+            "kanji": "再生可能",
+            "kana": "さいせいかのう",
+            "romaji": "saisei kanou",
+            "meaning": "Renewable (as in energy)",
+            "pos": "na-adj",
+            "example": "再生可能エネルギーの利用が増えています。"
+          },
+          {
+            "kanji": "排出",
+            "kana": "はいしゅつ",
+            "romaji": "haishutsu",
+            "meaning": "Emission, discharge",
+            "pos": "noun",
+            "example": "二酸化炭素の排出を減らすべきです。"
+          },
+          {
+            "kanji": "保護",
+            "kana": "ほご",
+            "romaji": "hogo",
+            "meaning": "Protection, conservation",
+            "pos": "noun",
+            "example": "野生動物の保護が必要です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Politics & Government",
+        "sort_order": 14,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "政治",
+            "kana": "せいじ",
+            "romaji": "seiji",
+            "meaning": "Politics, government",
+            "pos": "noun",
+            "example": "政治に興味があります。"
+          },
+          {
+            "kanji": "政府",
+            "kana": "せいふ",
+            "romaji": "seifu",
+            "meaning": "Government",
+            "pos": "noun",
+            "example": "政府は新しい法律を作りました。"
+          },
+          {
+            "kanji": "選挙",
+            "kana": "せんきょ",
+            "romaji": "senkyo",
+            "meaning": "Election",
+            "pos": "noun",
+            "example": "来月、市長の選挙があります。"
+          },
+          {
+            "kanji": "法律",
+            "kana": "ほうりつ",
+            "romaji": "houritsu",
+            "meaning": "Law, legislation",
+            "pos": "noun",
+            "example": "その行為は法律に違反しています。"
+          },
+          {
+            "kanji": "条約",
+            "kana": "じょうやく",
+            "romaji": "jouyaku",
+            "meaning": "Treaty, international agreement",
+            "pos": "noun",
+            "example": "二国間で条約が結ばれました。"
+          },
+          {
+            "kanji": "外交",
+            "kana": "がいこう",
+            "romaji": "gaikou",
+            "meaning": "Diplomacy, foreign relations",
+            "pos": "noun",
+            "example": "外交問題について議論しています。"
+          },
+          {
+            "kanji": "税金",
+            "kana": "ぜいきん",
+            "romaji": "zeikin",
+            "meaning": "Tax",
+            "pos": "noun",
+            "example": "税金を払う義務があります。"
+          },
+          {
+            "kanji": "投票",
+            "kana": "とうひょう",
+            "romaji": "touhyou",
+            "meaning": "Voting, casting a vote",
+            "pos": "noun",
+            "example": "選挙で投票しました。"
+          },
+          {
+            "kanji": "権利",
+            "kana": "けんり",
+            "romaji": "kenri",
+            "meaning": "Right, entitlement",
+            "pos": "noun",
+            "example": "すべての人には権利があります。"
+          },
+          {
+            "kanji": "義務",
+            "kana": "ぎむ",
+            "romaji": "gimu",
+            "meaning": "Duty, obligation",
+            "pos": "noun",
+            "example": "納税は国民の義務です。"
+          },
+          {
+            "kanji": "議員",
+            "kana": "ぎいん",
+            "romaji": "giin",
+            "meaning": "Member of parliament, legislator",
+            "pos": "noun",
+            "example": "その議員は有名な演説をしました。"
+          },
+          {
+            "kanji": "国際",
+            "kana": "こくさい",
+            "romaji": "kokusai",
+            "meaning": "International",
+            "pos": "na-adj",
+            "example": "国際的な問題を解決する必要があります。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Science & Technology",
+        "sort_order": 15,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "研究",
+            "kana": "けんきゅう",
+            "romaji": "kenkyuu",
+            "meaning": "Research, study, investigation",
+            "pos": "noun",
+            "example": "新しい薬の研究を続けています。"
+          },
+          {
+            "kanji": "実験",
+            "kana": "じっけん",
+            "romaji": "jikken",
+            "meaning": "Experiment, test",
+            "pos": "noun",
+            "example": "化学の実験は面白いです。"
+          },
+          {
+            "kanji": "発明",
+            "kana": "はつめい",
+            "romaji": "hatsumei",
+            "meaning": "Invention",
+            "pos": "noun",
+            "example": "電話はすばらしい発明です。"
+          },
+          {
+            "kanji": "発見",
+            "kana": "はっけん",
+            "romaji": "hakken",
+            "meaning": "Discovery, finding",
+            "pos": "noun",
+            "example": "新しい星の発見が発表されました。"
+          },
+          {
+            "kanji": "宇宙",
+            "kana": "うちゅう",
+            "romaji": "uchuu",
+            "meaning": "Universe, outer space",
+            "pos": "noun",
+            "example": "宇宙について学ぶのが好きです。"
+          },
+          {
+            "kanji": "進化",
+            "kana": "しんか",
+            "romaji": "shinka",
+            "meaning": "Evolution, development",
+            "pos": "noun",
+            "example": "技術の進化は速いです。"
+          },
+          {
+            "kanji": "論文",
+            "kana": "ろんぶん",
+            "romaji": "ronbun",
+            "meaning": "Academic paper, thesis, essay",
+            "pos": "noun",
+            "example": "卒業論文を書いています。"
+          },
+          {
+            "kanji": "分析",
+            "kana": "ぶんせき",
+            "romaji": "bunseki",
+            "meaning": "Analysis, examination",
+            "pos": "noun",
+            "example": "データを詳しく分析しました。"
+          },
+          {
+            "kanji": "人工知能",
+            "kana": "じんこうちのう",
+            "romaji": "jinkou chinou",
+            "meaning": "Artificial intelligence (AI)",
+            "pos": "noun",
+            "example": "人工知能の利用が広がっています。"
+          },
+          {
+            "kanji": "細胞",
+            "kana": "さいぼう",
+            "romaji": "saibou",
+            "meaning": "Cell (biological)",
+            "pos": "noun",
+            "example": "細胞の研究が進んでいます。"
+          },
+          {
+            "kanji": "証明",
+            "kana": "しょうめい",
+            "romaji": "shoumei",
+            "meaning": "Proof, evidence, demonstration",
+            "pos": "noun",
+            "example": "理論を実験で証明しました。"
+          },
+          {
+            "kanji": "仮説",
+            "kana": "かせつ",
+            "romaji": "kasetsu",
+            "meaning": "Hypothesis, assumption",
+            "pos": "noun",
+            "example": "その仮説はまだ証明されていません。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Traditional Culture & Arts",
+        "sort_order": 16,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "伝統",
+            "kana": "でんとう",
+            "romaji": "dentou",
+            "meaning": "Tradition, convention",
+            "pos": "noun",
+            "example": "日本の伝統を大切にしています。"
+          },
+          {
+            "kanji": "文化",
+            "kana": "ぶんか",
+            "romaji": "bunka",
+            "meaning": "Culture, civilization",
+            "pos": "noun",
+            "example": "異文化を理解することが重要です。"
+          },
+          {
+            "kanji": "茶道",
+            "kana": "さどう",
+            "romaji": "sadou",
+            "meaning": "Tea ceremony",
+            "pos": "noun",
+            "example": "茶道を習い始めました。"
+          },
+          {
+            "kanji": "歌舞伎",
+            "kana": "かぶき",
+            "romaji": "kabuki",
+            "meaning": "Kabuki theater",
+            "pos": "noun",
+            "example": "歌舞伎を見に行きたいです。"
+          },
+          {
+            "kanji": "浴衣",
+            "kana": "ゆかた",
+            "romaji": "yukata",
+            "meaning": "Summer kimono, informal kimono",
+            "pos": "noun",
+            "example": "夏祭りで浴衣を着ました。"
+          },
+          {
+            "kanji": "俳句",
+            "kana": "はいく",
+            "romaji": "haiku",
+            "meaning": "Haiku poem",
+            "pos": "noun",
+            "example": "松尾芭蕉は有名な俳句の作家です。"
+          },
+          {
+            "kanji": "習慣",
+            "kana": "しゅうかん",
+            "romaji": "shuukan",
+            "meaning": "Habit, custom, practice",
+            "pos": "noun",
+            "example": "日本の食習慣について学びました。"
+          },
+          {
+            "kanji": "礼儀",
+            "kana": "れいぎ",
+            "romaji": "reigi",
+            "meaning": "Etiquette, manners, courtesy",
+            "pos": "noun",
+            "example": "礼儀正しい人は好かれます。"
+          },
+          {
+            "kanji": "受け継ぐ",
+            "kana": "うけつぐ",
+            "romaji": "uketsugu",
+            "meaning": "To inherit, to pass on, to succeed to",
+            "pos": "verb",
+            "example": "この技術を次世代に受け継ぎます。"
+          },
+          {
+            "kanji": "工芸",
+            "kana": "こうげい",
+            "romaji": "kougei",
+            "meaning": "Craft, handicraft",
+            "pos": "noun",
+            "example": "日本の工芸品は美しいです。"
+          },
+          {
+            "kanji": "神社",
+            "kana": "じんじゃ",
+            "romaji": "jinja",
+            "meaning": "Shinto shrine",
+            "pos": "noun",
+            "example": "新年に神社に参拝しました。"
+          },
+          {
+            "kanji": "寺",
+            "kana": "てら",
+            "romaji": "tera",
+            "meaning": "Buddhist temple",
+            "pos": "noun",
+            "example": "京都には美しい寺がたくさんあります。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Formal Language — Keigo",
+        "sort_order": 17,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "申す",
+            "kana": "もうす",
+            "romaji": "mousu",
+            "meaning": "To say, to be called (humble)",
+            "pos": "verb",
+            "example": "田中と申します。"
+          },
+          {
+            "kanji": "おっしゃる",
+            "kana": "おっしゃる",
+            "romaji": "ossharu",
+            "meaning": "To say, to speak (honorific)",
+            "pos": "verb",
+            "example": "先生がおっしゃったことを覚えています。"
+          },
+          {
+            "kanji": "いただく",
+            "kana": "いただく",
+            "romaji": "itadaku",
+            "meaning": "To receive; to eat/drink (humble)",
+            "pos": "verb",
+            "example": "ご説明をいただきありがとうございます。"
+          },
+          {
+            "kanji": "くださる",
+            "kana": "くださる",
+            "romaji": "kudasaru",
+            "meaning": "To give (honorific form of くれる)",
+            "pos": "verb",
+            "example": "先生が本をくださいました。"
+          },
+          {
+            "kanji": "なさる",
+            "kana": "なさる",
+            "romaji": "nasaru",
+            "meaning": "To do (honorific form of する)",
+            "pos": "verb",
+            "example": "どうなさいますか。"
+          },
+          {
+            "kanji": "いらっしゃる",
+            "kana": "いらっしゃる",
+            "romaji": "irassharu",
+            "meaning": "To be; to come; to go (honorific)",
+            "pos": "verb",
+            "example": "社長はいらっしゃいますか。"
+          },
+          {
+            "kanji": "拝見する",
+            "kana": "はいけんする",
+            "romaji": "haiken suru",
+            "meaning": "To look at, to read (humble)",
+            "pos": "verb",
+            "example": "資料を拝見しました。"
+          },
+          {
+            "kanji": "参る",
+            "kana": "まいる",
+            "romaji": "mairu",
+            "meaning": "To go, to come (humble form of 行く・来る)",
+            "pos": "verb",
+            "example": "明日お宅に参ります。"
+          },
+          {
+            "kanji": "存じる",
+            "kana": "ぞんじる",
+            "romaji": "zonjiru",
+            "meaning": "To know, to think (humble)",
+            "pos": "verb",
+            "example": "その件については存じております。"
+          },
+          {
+            "kanji": "伺う",
+            "kana": "うかがう",
+            "romaji": "ukagau",
+            "meaning": "To visit; to hear/ask (humble)",
+            "pos": "verb",
+            "example": "来週、貴社に伺います。"
+          },
+          {
+            "kanji": "承る",
+            "kana": "うけたまわる",
+            "romaji": "uketamawaru",
+            "meaning": "To accept, to receive humbly, to be told",
+            "pos": "verb",
+            "example": "ご注文を承りました。"
+          },
+          {
+            "kanji": "恐れ入る",
+            "kana": "おそれいる",
+            "romaji": "osore iru",
+            "meaning": "To feel grateful/sorry; to be overawed",
+            "pos": "verb",
+            "example": "お手数をかけて恐れ入ります。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Logical Connectors & Discourse",
+        "sort_order": 18,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "したがって",
+            "kana": "したがって",
+            "romaji": "shitagatte",
+            "meaning": "Therefore, accordingly, consequently",
+            "pos": "adv",
+            "example": "試験に合格した。したがって、大学に進学できます。"
+          },
+          {
+            "kanji": "ところが",
+            "kana": "ところが",
+            "romaji": "tokoro ga",
+            "meaning": "However, but (unexpected result)",
+            "pos": "adv",
+            "example": "行くつもりだった。ところが、雨が降り出しました。"
+          },
+          {
+            "kanji": "そのため",
+            "kana": "そのため",
+            "romaji": "sono tame",
+            "meaning": "For that reason, therefore, as a result",
+            "pos": "adv",
+            "example": "体調が悪い。そのため、休みを取ることにしました。"
+          },
+          {
+            "kanji": "さらに",
+            "kana": "さらに",
+            "romaji": "sara ni",
+            "meaning": "Furthermore, moreover, even more",
+            "pos": "adv",
+            "example": "彼は頭がいい。さらに、スポーツも得意だ。"
+          },
+          {
+            "kanji": "ただし",
+            "kana": "ただし",
+            "romaji": "tadashi",
+            "meaning": "However, provided that, but",
+            "pos": "adv",
+            "example": "参加できます。ただし、事前に連絡が必要です。"
+          },
+          {
+            "kanji": "すなわち",
+            "kana": "すなわち",
+            "romaji": "sunawachi",
+            "meaning": "That is, namely, in other words",
+            "pos": "adv",
+            "example": "私の母国語、すなわち日本語を教えています。"
+          },
+          {
+            "kanji": "つまり",
+            "kana": "つまり",
+            "romaji": "tsumari",
+            "meaning": "In short, that is to say, to sum up",
+            "pos": "adv",
+            "example": "つまり、あなたは行かないということですか。"
+          },
+          {
+            "kanji": "むしろ",
+            "kana": "むしろ",
+            "romaji": "mushiro",
+            "meaning": "Rather, instead, if anything",
+            "pos": "adv",
+            "example": "暑いよりも、むしろ寒い方が好きです。"
+          },
+          {
+            "kanji": "一方",
+            "kana": "いっぽう",
+            "romaji": "ippou",
+            "meaning": "On the other hand, meanwhile",
+            "pos": "noun",
+            "example": "彼は反対した。一方、彼女は賛成した。"
+          },
+          {
+            "kanji": "逆に",
+            "kana": "ぎゃくに",
+            "romaji": "gyaku ni",
+            "meaning": "Conversely, on the contrary",
+            "pos": "adv",
+            "example": "逆に、それが原因で問題が悪化しました。"
+          },
+          {
+            "kanji": "それに対して",
+            "kana": "それにたいして",
+            "romaji": "sore ni taishite",
+            "meaning": "In contrast to that, on the other hand",
+            "pos": "adv",
+            "example": "A国は賛成した。それに対して、B国は反対した。"
+          },
+          {
+            "kanji": "以上",
+            "kana": "いじょう",
+            "romaji": "ijou",
+            "meaning": "As above; that is all; more than",
+            "pos": "noun",
+            "example": "説明は以上です。ご質問はありますか。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Verbs of Cognition & Perception",
+        "sort_order": 19,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "気づく",
+            "kana": "きづく",
+            "romaji": "kiduku",
+            "meaning": "To notice, to realize, to become aware",
+            "pos": "verb",
+            "example": "財布がないことに気づきました。"
+          },
+          {
+            "kanji": "想像する",
+            "kana": "そうぞうする",
+            "romaji": "souzou suru",
+            "meaning": "To imagine, to picture",
+            "pos": "verb",
+            "example": "将来の生活を想像しています。"
+          },
+          {
+            "kanji": "判断する",
+            "kana": "はんだんする",
+            "romaji": "handan suru",
+            "meaning": "To judge, to decide, to assess",
+            "pos": "verb",
+            "example": "状況を見て判断します。"
+          },
+          {
+            "kanji": "理解する",
+            "kana": "りかいする",
+            "romaji": "rikai suru",
+            "meaning": "To understand, to comprehend",
+            "pos": "verb",
+            "example": "その説明が理解できません。"
+          },
+          {
+            "kanji": "認める",
+            "kana": "みとめる",
+            "romaji": "mitomeru",
+            "meaning": "To acknowledge, to admit, to approve",
+            "pos": "verb",
+            "example": "自分の間違いを認めました。"
+          },
+          {
+            "kanji": "疑う",
+            "kana": "うたがう",
+            "romaji": "utagau",
+            "meaning": "To doubt, to suspect, to question",
+            "pos": "verb",
+            "example": "彼の話を疑っています。"
+          },
+          {
+            "kanji": "確かめる",
+            "kana": "たしかめる",
+            "romaji": "tashikameru",
+            "meaning": "To confirm, to verify, to make sure",
+            "pos": "verb",
+            "example": "事実を確かめてから話します。"
+          },
+          {
+            "kanji": "予測する",
+            "kana": "よそくする",
+            "romaji": "yosoku suru",
+            "meaning": "To predict, to forecast, to anticipate",
+            "pos": "verb",
+            "example": "明日の天気を予測するのは難しいです。"
+          },
+          {
+            "kanji": "考慮する",
+            "kana": "こうりょする",
+            "romaji": "kouryo suru",
+            "meaning": "To consider, to take into account",
+            "pos": "verb",
+            "example": "様々な要因を考慮して決断します。"
+          },
+          {
+            "kanji": "集中する",
+            "kana": "しゅうちゅうする",
+            "romaji": "shuuchuu suru",
+            "meaning": "To concentrate, to focus",
+            "pos": "verb",
+            "example": "勉強に集中できません。"
+          },
+          {
+            "kanji": "勘違いする",
+            "kana": "かんちがいする",
+            "romaji": "kanchigai suru",
+            "meaning": "To misunderstand, to be mistaken",
+            "pos": "verb",
+            "example": "時間を勘違いして遅刻しました。"
+          },
+          {
+            "kanji": "反省する",
+            "kana": "はんせいする",
+            "romaji": "hansei suru",
+            "meaning": "To reflect, to reconsider, to regret",
+            "pos": "verb",
+            "example": "自分の行動を反省しています。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Adverbs & Intensifiers",
+        "sort_order": 20,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "非常に",
+            "kana": "ひじょうに",
+            "romaji": "hijou ni",
+            "meaning": "Extremely, very, exceedingly",
+            "pos": "adv",
+            "example": "今日の試験は非常に難しかったです。"
+          },
+          {
+            "kanji": "かなり",
+            "kana": "かなり",
+            "romaji": "kanari",
+            "meaning": "Considerably, quite, fairly",
+            "pos": "adv",
+            "example": "彼女はかなり日本語が上手です。"
+          },
+          {
+            "kanji": "まったく",
+            "kana": "まったく",
+            "romaji": "mattaku",
+            "meaning": "Completely, totally; not at all (with negative)",
+            "pos": "adv",
+            "example": "まったく理解できませんでした。"
+          },
+          {
+            "kanji": "ほとんど",
+            "kana": "ほとんど",
+            "romaji": "hotondo",
+            "meaning": "Almost, mostly, nearly",
+            "pos": "adv",
+            "example": "宿題はほとんど終わりました。"
+          },
+          {
+            "kanji": "徐々に",
+            "kana": "じょじょに",
+            "romaji": "jojo ni",
+            "meaning": "Gradually, little by little",
+            "pos": "adv",
+            "example": "日本語が徐々に上手になっています。"
+          },
+          {
+            "kanji": "突然",
+            "kana": "とつぜん",
+            "romaji": "totsuzen",
+            "meaning": "Suddenly, unexpectedly, all at once",
+            "pos": "adv",
+            "example": "突然雨が降り始めました。"
+          },
+          {
+            "kanji": "わざと",
+            "kana": "わざと",
+            "romaji": "wazato",
+            "meaning": "On purpose, deliberately, intentionally",
+            "pos": "adv",
+            "example": "わざと難しい問題を出しました。"
+          },
+          {
+            "kanji": "なかなか",
+            "kana": "なかなか",
+            "romaji": "nakanaka",
+            "meaning": "Quite, rather; (not) easily",
+            "pos": "adv",
+            "example": "なかなか眠れませんでした。"
+          },
+          {
+            "kanji": "せっかく",
+            "kana": "せっかく",
+            "romaji": "sekkaku",
+            "meaning": "Specially, with much effort, taking the trouble",
+            "pos": "adv",
+            "example": "せっかく来たのに会えませんでした。"
+          },
+          {
+            "kanji": "やはり",
+            "kana": "やはり",
+            "romaji": "yahari",
+            "meaning": "As expected, after all, still",
+            "pos": "adv",
+            "example": "やはり難しかったですね。"
+          },
+          {
+            "kanji": "あいにく",
+            "kana": "あいにく",
+            "romaji": "ainiku",
+            "meaning": "Unfortunately, as bad luck would have it",
+            "pos": "adv",
+            "example": "あいにく今日は雨ですね。"
+          },
+          {
+            "kanji": "めったに",
+            "kana": "めったに",
+            "romaji": "metta ni",
+            "meaning": "Rarely, seldom, hardly ever",
+            "pos": "adv",
+            "example": "彼はめったに連絡してきません。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Idiomatic Expressions",
+        "sort_order": 21,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "手を貸す",
+            "kana": "てをかす",
+            "romaji": "te wo kasu",
+            "meaning": "To lend a hand, to help out",
+            "pos": "verb",
+            "example": "引越しに手を貸してくれますか。"
+          },
+          {
+            "kanji": "頭を抱える",
+            "kana": "あたまをかかえる",
+            "romaji": "atama wo kakaeru",
+            "meaning": "To be at one's wits' end, to be troubled",
+            "pos": "verb",
+            "example": "難しい問題で頭を抱えています。"
+          },
+          {
+            "kanji": "腹を立てる",
+            "kana": "はらをたてる",
+            "romaji": "hara wo tateru",
+            "meaning": "To get angry, to lose one's temper",
+            "pos": "verb",
+            "example": "彼の言葉に腹を立てました。"
+          },
+          {
+            "kanji": "気が合う",
+            "kana": "きがあう",
+            "romaji": "ki ga au",
+            "meaning": "To get along well, to be on the same wavelength",
+            "pos": "verb",
+            "example": "彼女とは気が合います。"
+          },
+          {
+            "kanji": "顔が広い",
+            "kana": "かおがひろい",
+            "romaji": "kao ga hiroi",
+            "meaning": "To have a wide network, to know many people",
+            "pos": "verb",
+            "example": "彼は業界で顔が広いです。"
+          },
+          {
+            "kanji": "耳を傾ける",
+            "kana": "みみをかたむける",
+            "romaji": "mimi wo katamukeru",
+            "meaning": "To lend an ear, to listen carefully",
+            "pos": "verb",
+            "example": "相手の話に耳を傾けることが大切です。"
+          },
+          {
+            "kanji": "足を引っ張る",
+            "kana": "あしをひっぱる",
+            "romaji": "ashi wo hipparu",
+            "meaning": "To drag down, to hinder someone",
+            "pos": "verb",
+            "example": "チームの足を引っ張らないようにします。"
+          },
+          {
+            "kanji": "水に流す",
+            "kana": "みずにながす",
+            "romaji": "mizu ni nagasu",
+            "meaning": "To let bygones be bygones, to forgive and forget",
+            "pos": "verb",
+            "example": "過去のことは水に流しましょう。"
+          },
+          {
+            "kanji": "手を抜く",
+            "kana": "てをぬく",
+            "romaji": "te wo nuku",
+            "meaning": "To cut corners, to slack off, to do a sloppy job",
+            "pos": "verb",
+            "example": "仕事で手を抜いてはいけません。"
+          },
+          {
+            "kanji": "目を覚ます",
+            "kana": "めをさます",
+            "romaji": "me wo samasu",
+            "meaning": "To wake up; to come to one's senses",
+            "pos": "verb",
+            "example": "大きな失敗で目を覚ましました。"
+          },
+          {
+            "kanji": "骨が折れる",
+            "kana": "ほねがおれる",
+            "romaji": "hone ga oreru",
+            "meaning": "To be backbreaking, laborious, tough",
+            "pos": "verb",
+            "example": "この仕事は骨が折れます。"
+          },
+          {
+            "kanji": "口が堅い",
+            "kana": "くちがかたい",
+            "romaji": "kuchi ga katai",
+            "meaning": "To be tight-lipped, to be discreet",
+            "pos": "verb",
+            "example": "彼は口が堅いので秘密を話せます。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Business & Formal Contexts",
+        "sort_order": 22,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "会議",
+            "kana": "かいぎ",
+            "romaji": "kaigi",
+            "meaning": "Meeting, conference",
+            "pos": "noun",
+            "example": "午後二時に会議があります。"
+          },
+          {
+            "kanji": "報告",
+            "kana": "ほうこく",
+            "romaji": "houkoku",
+            "meaning": "Report, briefing",
+            "pos": "noun",
+            "example": "上司に結果を報告します。"
+          },
+          {
+            "kanji": "提案",
+            "kana": "ていあん",
+            "romaji": "teian",
+            "meaning": "Proposal, suggestion",
+            "pos": "noun",
+            "example": "新しい提案を会議で発表します。"
+          },
+          {
+            "kanji": "契約",
+            "kana": "けいやく",
+            "romaji": "keiyaku",
+            "meaning": "Contract, agreement",
+            "pos": "noun",
+            "example": "新しい契約を結びました。"
+          },
+          {
+            "kanji": "担当",
+            "kana": "たんとう",
+            "romaji": "tantou",
+            "meaning": "Person in charge, responsibility",
+            "pos": "noun",
+            "example": "この件の担当は山田さんです。"
+          },
+          {
+            "kanji": "費用",
+            "kana": "ひよう",
+            "romaji": "hiyou",
+            "meaning": "Cost, expense, expenditure",
+            "pos": "noun",
+            "example": "プロジェクトの費用を計算しました。"
+          },
+          {
+            "kanji": "利益",
+            "kana": "りえき",
+            "romaji": "rieki",
+            "meaning": "Profit, benefit, gain",
+            "pos": "noun",
+            "example": "今年の利益は去年より多いです。"
+          },
+          {
+            "kanji": "交渉",
+            "kana": "こうしょう",
+            "romaji": "koushou",
+            "meaning": "Negotiation, talks",
+            "pos": "noun",
+            "example": "価格について交渉しました。"
+          },
+          {
+            "kanji": "承認",
+            "kana": "しょうにん",
+            "romaji": "shounin",
+            "meaning": "Approval, authorization, consent",
+            "pos": "noun",
+            "example": "上司の承認が必要です。"
+          },
+          {
+            "kanji": "評価",
+            "kana": "ひょうか",
+            "romaji": "hyouka",
+            "meaning": "Evaluation, assessment, appraisal",
+            "pos": "noun",
+            "example": "今年の業績評価が良かったです。"
+          },
+          {
+            "kanji": "締め切り",
+            "kana": "しめきり",
+            "romaji": "shimekiri",
+            "meaning": "Deadline, closing date",
+            "pos": "noun",
+            "example": "締め切りは来週の金曜日です。"
+          },
+          {
+            "kanji": "納期",
+            "kana": "のうき",
+            "romaji": "nouki",
+            "meaning": "Delivery deadline, due date",
+            "pos": "noun",
+            "example": "納期を守ることが重要です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Law & Justice",
+        "sort_order": 23,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "裁判",
+            "kana": "さいばん",
+            "romaji": "saiban",
+            "meaning": "Trial, court case",
+            "pos": "noun",
+            "example": "裁判の結果が発表されました。"
+          },
+          {
+            "kanji": "弁護士",
+            "kana": "べんごし",
+            "romaji": "bengoshi",
+            "meaning": "Lawyer, attorney",
+            "pos": "noun",
+            "example": "弁護士に相談しました。"
+          },
+          {
+            "kanji": "犯罪",
+            "kana": "はんざい",
+            "romaji": "hanzai",
+            "meaning": "Crime, offense",
+            "pos": "noun",
+            "example": "犯罪を防ぐために警察が活動しています。"
+          },
+          {
+            "kanji": "逮捕",
+            "kana": "たいほ",
+            "romaji": "taiho",
+            "meaning": "Arrest",
+            "pos": "noun",
+            "example": "容疑者が逮捕されました。"
+          },
+          {
+            "kanji": "証拠",
+            "kana": "しょうこ",
+            "romaji": "shouko",
+            "meaning": "Evidence, proof",
+            "pos": "noun",
+            "example": "証拠がないと起訴できません。"
+          },
+          {
+            "kanji": "判決",
+            "kana": "はんけつ",
+            "romaji": "hanketsu",
+            "meaning": "Judgment, verdict, ruling",
+            "pos": "noun",
+            "example": "裁判所が判決を下しました。"
+          },
+          {
+            "kanji": "被告",
+            "kana": "ひこく",
+            "romaji": "hikoku",
+            "meaning": "Defendant, the accused",
+            "pos": "noun",
+            "example": "被告は無実を主張しています。"
+          },
+          {
+            "kanji": "違反",
+            "kana": "いはん",
+            "romaji": "ihan",
+            "meaning": "Violation, breach, infringement",
+            "pos": "noun",
+            "example": "交通違反をしてしまいました。"
+          },
+          {
+            "kanji": "禁止",
+            "kana": "きんし",
+            "romaji": "kinshi",
+            "meaning": "Prohibition, ban",
+            "pos": "noun",
+            "example": "この場所は駐車禁止です。"
+          },
+          {
+            "kanji": "正当",
+            "kana": "せいとう",
+            "romaji": "seitou",
+            "meaning": "Lawful, legitimate, just",
+            "pos": "na-adj",
+            "example": "正当な理由があれば問題ありません。"
+          },
+          {
+            "kanji": "刑罰",
+            "kana": "けいばつ",
+            "romaji": "keibatsu",
+            "meaning": "Punishment, penalty, criminal sanction",
+            "pos": "noun",
+            "example": "重い刑罰が科せられました。"
+          },
+          {
+            "kanji": "無罪",
+            "kana": "むざい",
+            "romaji": "muzai",
+            "meaning": "Not guilty, innocent",
+            "pos": "noun",
+            "example": "裁判で無罪が証明されました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Medical & Healthcare",
+        "sort_order": 24,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "症状",
+            "kana": "しょうじょう",
+            "romaji": "shoujou",
+            "meaning": "Symptom, condition",
+            "pos": "noun",
+            "example": "症状を医者に詳しく伝えました。"
+          },
+          {
+            "kanji": "診断",
+            "kana": "しんだん",
+            "romaji": "shindan",
+            "meaning": "Diagnosis",
+            "pos": "noun",
+            "example": "医者から癌と診断されました。"
+          },
+          {
+            "kanji": "治療",
+            "kana": "ちりょう",
+            "romaji": "chiryou",
+            "meaning": "Treatment, therapy, cure",
+            "pos": "noun",
+            "example": "新しい治療法が開発されました。"
+          },
+          {
+            "kanji": "処方箋",
+            "kana": "しょほうせん",
+            "romaji": "shohousen",
+            "meaning": "Prescription",
+            "pos": "noun",
+            "example": "処方箋をもらって薬局に行きました。"
+          },
+          {
+            "kanji": "副作用",
+            "kana": "ふくさよう",
+            "romaji": "fukusayou",
+            "meaning": "Side effect",
+            "pos": "noun",
+            "example": "この薬には眠気という副作用があります。"
+          },
+          {
+            "kanji": "予防",
+            "kana": "よぼう",
+            "romaji": "yobou",
+            "meaning": "Prevention, precaution",
+            "pos": "noun",
+            "example": "インフルエンザの予防接種を受けました。"
+          },
+          {
+            "kanji": "感染",
+            "kana": "かんせん",
+            "romaji": "kansen",
+            "meaning": "Infection, contagion",
+            "pos": "noun",
+            "example": "ウイルスへの感染を防ぎましょう。"
+          },
+          {
+            "kanji": "免疫",
+            "kana": "めんえき",
+            "romaji": "meneki",
+            "meaning": "Immunity, immune system",
+            "pos": "noun",
+            "example": "免疫力を高めることが大切です。"
+          },
+          {
+            "kanji": "回復",
+            "kana": "かいふく",
+            "romaji": "kaifuku",
+            "meaning": "Recovery, recuperation",
+            "pos": "noun",
+            "example": "手術後の回復が順調です。"
+          },
+          {
+            "kanji": "慢性",
+            "kana": "まんせい",
+            "romaji": "mansei",
+            "meaning": "Chronic (illness)",
+            "pos": "na-adj",
+            "example": "慢性的な腰痛で悩んでいます。"
+          },
+          {
+            "kanji": "急性",
+            "kana": "きゅうせい",
+            "romaji": "kyuusei",
+            "meaning": "Acute (illness)",
+            "pos": "na-adj",
+            "example": "急性胃炎と診断されました。"
+          },
+          {
+            "kanji": "摂取",
+            "kana": "せっしゅ",
+            "romaji": "sesshu",
+            "meaning": "Intake, ingestion, consumption",
+            "pos": "noun",
+            "example": "栄養の摂取バランスが大切です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Philosophy & Ethics",
+        "sort_order": 25,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "価値観",
+            "kana": "かちかん",
+            "romaji": "kachikan",
+            "meaning": "Values, sense of values, value system",
+            "pos": "noun",
+            "example": "人によって価値観は異なります。"
+          },
+          {
+            "kanji": "道徳",
+            "kana": "どうとく",
+            "romaji": "doutoku",
+            "meaning": "Morality, ethics",
+            "pos": "noun",
+            "example": "道徳の授業が学校にあります。"
+          },
+          {
+            "kanji": "良心",
+            "kana": "りょうしん",
+            "romaji": "ryoushin",
+            "meaning": "Conscience",
+            "pos": "noun",
+            "example": "良心に従って行動しました。"
+          },
+          {
+            "kanji": "公平",
+            "kana": "こうへい",
+            "romaji": "kouhei",
+            "meaning": "Fairness, impartiality, equity",
+            "pos": "na-adj",
+            "example": "すべての人に公平に接することが大切です。"
+          },
+          {
+            "kanji": "平等",
+            "kana": "びょうどう",
+            "romaji": "byoudou",
+            "meaning": "Equality, equal rights",
+            "pos": "noun",
+            "example": "男女平等を実現することが目標です。"
+          },
+          {
+            "kanji": "自由",
+            "kana": "じゆう",
+            "romaji": "jiyuu",
+            "meaning": "Freedom, liberty",
+            "pos": "noun",
+            "example": "表現の自由は大切な権利です。"
+          },
+          {
+            "kanji": "責任",
+            "kana": "せきにん",
+            "romaji": "sekinin",
+            "meaning": "Responsibility, duty, obligation",
+            "pos": "noun",
+            "example": "自分の行動に責任を持つべきです。"
+          },
+          {
+            "kanji": "誠実",
+            "kana": "せいじつ",
+            "romaji": "seijitsu",
+            "meaning": "Sincere, honest, faithful",
+            "pos": "na-adj",
+            "example": "彼は誠実な人だと思います。"
+          },
+          {
+            "kanji": "矛盾",
+            "kana": "むじゅん",
+            "romaji": "mujun",
+            "meaning": "Contradiction, inconsistency",
+            "pos": "noun",
+            "example": "彼の発言には矛盾があります。"
+          },
+          {
+            "kanji": "妥協",
+            "kana": "だきょう",
+            "romaji": "dakyou",
+            "meaning": "Compromise, concession",
+            "pos": "noun",
+            "example": "交渉の末、妥協点を見つけました。"
+          },
+          {
+            "kanji": "倫理",
+            "kana": "りんり",
+            "romaji": "rinri",
+            "meaning": "Ethics, morals",
+            "pos": "noun",
+            "example": "医療倫理について考えています。"
+          },
+          {
+            "kanji": "尊重",
+            "kana": "そんちょう",
+            "romaji": "sonchou",
+            "meaning": "Respect, esteem, consideration",
+            "pos": "noun",
+            "example": "他人の意見を尊重することが大切です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Communication & Language",
+        "sort_order": 26,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "表現",
+            "kana": "ひょうげん",
+            "romaji": "hyougen",
+            "meaning": "Expression, representation",
+            "pos": "noun",
+            "example": "この表現は少し難しいです。"
+          },
+          {
+            "kanji": "語彙",
+            "kana": "ごい",
+            "romaji": "goi",
+            "meaning": "Vocabulary, word stock",
+            "pos": "noun",
+            "example": "語彙を増やすために毎日単語を覚えています。"
+          },
+          {
+            "kanji": "発音",
+            "kana": "はつおん",
+            "romaji": "hatsuon",
+            "meaning": "Pronunciation",
+            "pos": "noun",
+            "example": "正しい発音を練習しています。"
+          },
+          {
+            "kanji": "会話",
+            "kana": "かいわ",
+            "romaji": "kaiwa",
+            "meaning": "Conversation, dialogue",
+            "pos": "noun",
+            "example": "日本語の会話が上手になりました。"
+          },
+          {
+            "kanji": "議論",
+            "kana": "ぎろん",
+            "romaji": "giron",
+            "meaning": "Argument, discussion, debate",
+            "pos": "noun",
+            "example": "この問題について活発な議論が行われました。"
+          },
+          {
+            "kanji": "通訳",
+            "kana": "つうやく",
+            "romaji": "tsuuyaku",
+            "meaning": "Interpretation (spoken), interpreter",
+            "pos": "noun",
+            "example": "会議で通訳が必要でした。"
+          },
+          {
+            "kanji": "翻訳",
+            "kana": "ほんやく",
+            "romaji": "honyaku",
+            "meaning": "Translation (written), translator",
+            "pos": "noun",
+            "example": "この本を日本語に翻訳しました。"
+          },
+          {
+            "kanji": "曖昧",
+            "kana": "あいまい",
+            "romaji": "aimai",
+            "meaning": "Ambiguous, vague, unclear",
+            "pos": "na-adj",
+            "example": "彼の返事は曖昧でした。"
+          },
+          {
+            "kanji": "省略",
+            "kana": "しょうりゃく",
+            "romaji": "shouryaku",
+            "meaning": "Abbreviation, omission",
+            "pos": "noun",
+            "example": "詳しい説明は省略します。"
+          },
+          {
+            "kanji": "誤解",
+            "kana": "ごかい",
+            "romaji": "gokai",
+            "meaning": "Misunderstanding",
+            "pos": "noun",
+            "example": "言葉の誤解から喧嘩になりました。"
+          },
+          {
+            "kanji": "主張",
+            "kana": "しゅちょう",
+            "romaji": "shuchou",
+            "meaning": "Claim, assertion, argument",
+            "pos": "noun",
+            "example": "自分の意見を主張することが大切です。"
+          },
+          {
+            "kanji": "説得",
+            "kana": "せっとく",
+            "romaji": "settoku",
+            "meaning": "Persuasion, convincing",
+            "pos": "noun",
+            "example": "友人を説得して一緒に行くことになりました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Art & Literature",
+        "sort_order": 27,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "小説",
+            "kana": "しょうせつ",
+            "romaji": "shousetsu",
+            "meaning": "Novel, fiction",
+            "pos": "noun",
+            "example": "彼女の書いた小説はベストセラーです。"
+          },
+          {
+            "kanji": "詩",
+            "kana": "し",
+            "romaji": "shi",
+            "meaning": "Poem, poetry",
+            "pos": "noun",
+            "example": "美しい詩を暗記しました。"
+          },
+          {
+            "kanji": "芸術",
+            "kana": "げいじゅつ",
+            "romaji": "geijutsu",
+            "meaning": "Art, fine arts",
+            "pos": "noun",
+            "example": "芸術は心を豊かにします。"
+          },
+          {
+            "kanji": "絵画",
+            "kana": "かいが",
+            "romaji": "kaiga",
+            "meaning": "Painting, picture",
+            "pos": "noun",
+            "example": "美術館で有名な絵画を鑑賞しました。"
+          },
+          {
+            "kanji": "彫刻",
+            "kana": "ちょうこく",
+            "romaji": "choukoku",
+            "meaning": "Sculpture, carving",
+            "pos": "noun",
+            "example": "ミケランジェロの彫刻は有名です。"
+          },
+          {
+            "kanji": "作品",
+            "kana": "さくひん",
+            "romaji": "sakuhin",
+            "meaning": "Work (of art/literature/music)",
+            "pos": "noun",
+            "example": "彼の作品は世界中で高く評価されています。"
+          },
+          {
+            "kanji": "著者",
+            "kana": "ちょしゃ",
+            "romaji": "chosha",
+            "meaning": "Author, writer",
+            "pos": "noun",
+            "example": "この本の著者はだれですか。"
+          },
+          {
+            "kanji": "出版",
+            "kana": "しゅっぱん",
+            "romaji": "shuppan",
+            "meaning": "Publication, publishing",
+            "pos": "noun",
+            "example": "新しい本が出版されました。"
+          },
+          {
+            "kanji": "批評",
+            "kana": "ひひょう",
+            "romaji": "hihyou",
+            "meaning": "Criticism, critique, review",
+            "pos": "noun",
+            "example": "映画批評家が高く評価しました。"
+          },
+          {
+            "kanji": "描写",
+            "kana": "びょうしゃ",
+            "romaji": "byousha",
+            "meaning": "Description, depiction, portrayal",
+            "pos": "noun",
+            "example": "自然の描写が美しい小説です。"
+          },
+          {
+            "kanji": "登場人物",
+            "kana": "とうじょうじんぶつ",
+            "romaji": "toujou jinbutsu",
+            "meaning": "Character (in a story/film)",
+            "pos": "noun",
+            "example": "この小説の登場人物はとても個性的です。"
+          },
+          {
+            "kanji": "鑑賞",
+            "kana": "かんしょう",
+            "romaji": "kanshou",
+            "meaning": "Appreciation (of art/music), viewing",
+            "pos": "noun",
+            "example": "美術館で絵画を鑑賞しました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Urban Life & Infrastructure",
+        "sort_order": 28,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "交差点",
+            "kana": "こうさてん",
+            "romaji": "kousaten",
+            "meaning": "Intersection, crossroads",
+            "pos": "noun",
+            "example": "次の交差点を左に曲がってください。"
+          },
+          {
+            "kanji": "信号",
+            "kana": "しんごう",
+            "romaji": "shingou",
+            "meaning": "Traffic light, signal",
+            "pos": "noun",
+            "example": "信号が赤になったので止まりました。"
+          },
+          {
+            "kanji": "渋滞",
+            "kana": "じゅうたい",
+            "romaji": "juutai",
+            "meaning": "Traffic jam, congestion",
+            "pos": "noun",
+            "example": "道路が渋滞していて遅刻しました。"
+          },
+          {
+            "kanji": "商店街",
+            "kana": "しょうてんがい",
+            "romaji": "shoutengai",
+            "meaning": "Shopping street, covered arcade",
+            "pos": "noun",
+            "example": "駅前の商店街は賑やかです。"
+          },
+          {
+            "kanji": "駐車場",
+            "kana": "ちゅうしゃじょう",
+            "romaji": "chuushajou",
+            "meaning": "Parking lot, car park",
+            "pos": "noun",
+            "example": "無料の駐車場はありますか。"
+          },
+          {
+            "kanji": "避難",
+            "kana": "ひなん",
+            "romaji": "hinan",
+            "meaning": "Evacuation, taking refuge",
+            "pos": "noun",
+            "example": "災害時には速やかに避難してください。"
+          },
+          {
+            "kanji": "防犯",
+            "kana": "ぼうはん",
+            "romaji": "bouhan",
+            "meaning": "Crime prevention, security",
+            "pos": "noun",
+            "example": "防犯カメラが設置されています。"
+          },
+          {
+            "kanji": "再開発",
+            "kana": "さいかいはつ",
+            "romaji": "saikaihatsu",
+            "meaning": "Redevelopment, urban renewal",
+            "pos": "noun",
+            "example": "駅周辺の再開発が進んでいます。"
+          },
+          {
+            "kanji": "公共施設",
+            "kana": "こうきょうしせつ",
+            "romaji": "koukyou shisetsu",
+            "meaning": "Public facility",
+            "pos": "noun",
+            "example": "図書館などの公共施設を利用できます。"
+          },
+          {
+            "kanji": "歩道",
+            "kana": "ほどう",
+            "romaji": "hodou",
+            "meaning": "Sidewalk, pavement",
+            "pos": "noun",
+            "example": "歩道を安全に歩いてください。"
+          },
+          {
+            "kanji": "騒音",
+            "kana": "そうおん",
+            "romaji": "souon",
+            "meaning": "Noise, noise pollution",
+            "pos": "noun",
+            "example": "工事の騒音がうるさいです。"
+          },
+          {
+            "kanji": "インフラ",
+            "kana": "インフラ",
+            "romaji": "infura",
+            "meaning": "Infrastructure",
+            "pos": "noun",
+            "example": "インフラの整備が地域発展に重要です。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Verbs — Change & Transformation",
+        "sort_order": 29,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "変わる",
+            "kana": "かわる",
+            "romaji": "kawaru",
+            "meaning": "To change, to transform, to vary",
+            "pos": "verb",
+            "example": "彼の態度がずいぶん変わりました。"
+          },
+          {
+            "kanji": "増える",
+            "kana": "ふえる",
+            "romaji": "fueru",
+            "meaning": "To increase, to multiply",
+            "pos": "verb",
+            "example": "最近、観光客が増えています。"
+          },
+          {
+            "kanji": "減る",
+            "kana": "へる",
+            "romaji": "heru",
+            "meaning": "To decrease, to diminish",
+            "pos": "verb",
+            "example": "人口が年々減っています。"
+          },
+          {
+            "kanji": "広がる",
+            "kana": "ひろがる",
+            "romaji": "hirogaru",
+            "meaning": "To spread, to expand, to widen",
+            "pos": "verb",
+            "example": "火事が広がる前に消防車が来ました。"
+          },
+          {
+            "kanji": "縮む",
+            "kana": "ちぢむ",
+            "romaji": "chijimu",
+            "meaning": "To shrink, to contract, to become smaller",
+            "pos": "verb",
+            "example": "洗濯したらセーターが縮みました。"
+          },
+          {
+            "kanji": "高まる",
+            "kana": "たかまる",
+            "romaji": "takamaru",
+            "meaning": "To rise, to heighten, to grow (in intensity)",
+            "pos": "verb",
+            "example": "試合への期待が高まっています。"
+          },
+          {
+            "kanji": "深まる",
+            "kana": "ふかまる",
+            "romaji": "fukamaru",
+            "meaning": "To deepen, to grow deeper",
+            "pos": "verb",
+            "example": "秋が深まってきました。"
+          },
+          {
+            "kanji": "育つ",
+            "kana": "そだつ",
+            "romaji": "sodatsu",
+            "meaning": "To grow up, to be raised, to develop",
+            "pos": "verb",
+            "example": "子供が元気に育っています。"
+          },
+          {
+            "kanji": "発展する",
+            "kana": "はってんする",
+            "romaji": "hatten suru",
+            "meaning": "To develop, to grow, to advance",
+            "pos": "verb",
+            "example": "この地域は急速に発展しています。"
+          },
+          {
+            "kanji": "衰える",
+            "kana": "おとろえる",
+            "romaji": "otoroeru",
+            "meaning": "To decline, to weaken, to deteriorate",
+            "pos": "verb",
+            "example": "年を取ると体力が衰えます。"
+          },
+          {
+            "kanji": "崩れる",
+            "kana": "くずれる",
+            "romaji": "kuzureru",
+            "meaning": "To collapse, to crumble, to fall apart",
+            "pos": "verb",
+            "example": "大雨で山が崩れました。"
+          },
+          {
+            "kanji": "整う",
+            "kana": "ととのう",
+            "romaji": "totonou",
+            "meaning": "To be in order, to be arranged, to be prepared",
+            "pos": "verb",
+            "example": "準備が整いました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Abstract Nouns — Concepts",
+        "sort_order": 30,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "影響",
+            "kana": "えいきょう",
+            "romaji": "eikyou",
+            "meaning": "Influence, effect, impact",
+            "pos": "noun",
+            "example": "彼の言葉は私に大きな影響を与えました。"
+          },
+          {
+            "kanji": "原因",
+            "kana": "げんいん",
+            "romaji": "genin",
+            "meaning": "Cause, reason, root cause",
+            "pos": "noun",
+            "example": "火事の原因を調べています。"
+          },
+          {
+            "kanji": "結果",
+            "kana": "けっか",
+            "romaji": "kekka",
+            "meaning": "Result, outcome, consequence",
+            "pos": "noun",
+            "example": "努力した結果、合格できました。"
+          },
+          {
+            "kanji": "目的",
+            "kana": "もくてき",
+            "romaji": "mokuteki",
+            "meaning": "Purpose, goal, objective",
+            "pos": "noun",
+            "example": "旅行の目的は何ですか。"
+          },
+          {
+            "kanji": "手段",
+            "kana": "しゅだん",
+            "romaji": "shudan",
+            "meaning": "Means, method, way",
+            "pos": "noun",
+            "example": "目的のためには手段を選びません。"
+          },
+          {
+            "kanji": "効果",
+            "kana": "こうか",
+            "romaji": "kouka",
+            "meaning": "Effect, efficacy, result",
+            "pos": "noun",
+            "example": "この薬の効果はすぐに現れます。"
+          },
+          {
+            "kanji": "可能性",
+            "kana": "かのうせい",
+            "romaji": "kanousei",
+            "meaning": "Possibility, potential, chance",
+            "pos": "noun",
+            "example": "成功の可能性は高いです。"
+          },
+          {
+            "kanji": "必要性",
+            "kana": "ひつようせい",
+            "romaji": "hitsuyousei",
+            "meaning": "Necessity, need",
+            "pos": "noun",
+            "example": "改革の必要性を感じています。"
+          },
+          {
+            "kanji": "重要性",
+            "kana": "じゅうようせい",
+            "romaji": "juuyousei",
+            "meaning": "Importance, significance",
+            "pos": "noun",
+            "example": "教育の重要性は言うまでもありません。"
+          },
+          {
+            "kanji": "危険性",
+            "kana": "きけんせい",
+            "romaji": "kikensei",
+            "meaning": "Danger, risk, hazard",
+            "pos": "noun",
+            "example": "この化学物質には危険性があります。"
+          },
+          {
+            "kanji": "解決策",
+            "kana": "かいけつさく",
+            "romaji": "kaiketsusaku",
+            "meaning": "Solution, remedy",
+            "pos": "noun",
+            "example": "問題の解決策を考えています。"
+          },
+          {
+            "kanji": "問題点",
+            "kana": "もんだいてん",
+            "romaji": "mondaiten",
+            "meaning": "Problem point, issue, flaw",
+            "pos": "noun",
+            "example": "この計画の問題点を指摘しました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Time & History",
+        "sort_order": 31,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "時代",
+            "kana": "じだい",
+            "romaji": "jidai",
+            "meaning": "Era, age, period, epoch",
+            "pos": "noun",
+            "example": "江戸時代の文化を学んでいます。"
+          },
+          {
+            "kanji": "歴史",
+            "kana": "れきし",
+            "romaji": "rekishi",
+            "meaning": "History",
+            "pos": "noun",
+            "example": "日本の歴史はとても長いです。"
+          },
+          {
+            "kanji": "古代",
+            "kana": "こだい",
+            "romaji": "kodai",
+            "meaning": "Ancient times, antiquity",
+            "pos": "noun",
+            "example": "古代ローマの文明は有名です。"
+          },
+          {
+            "kanji": "近代",
+            "kana": "きんだい",
+            "romaji": "kindai",
+            "meaning": "Modern times (roughly 18th–20th c.)",
+            "pos": "noun",
+            "example": "近代化によって生活が大きく変わりました。"
+          },
+          {
+            "kanji": "現代",
+            "kana": "げんだい",
+            "romaji": "gendai",
+            "meaning": "Contemporary, present day, modern era",
+            "pos": "noun",
+            "example": "現代社会では技術の進歩が速いです。"
+          },
+          {
+            "kanji": "未来",
+            "kana": "みらい",
+            "romaji": "mirai",
+            "meaning": "Future",
+            "pos": "noun",
+            "example": "子供たちの未来のために努力しています。"
+          },
+          {
+            "kanji": "過去",
+            "kana": "かこ",
+            "romaji": "kako",
+            "meaning": "The past, past events",
+            "pos": "noun",
+            "example": "過去を振り返って反省しました。"
+          },
+          {
+            "kanji": "世紀",
+            "kana": "せいき",
+            "romaji": "seiki",
+            "meaning": "Century",
+            "pos": "noun",
+            "example": "21世紀に入って多くのことが変わりました。"
+          },
+          {
+            "kanji": "年代",
+            "kana": "ねんだい",
+            "romaji": "nendai",
+            "meaning": "Generation, era, decade",
+            "pos": "noun",
+            "example": "1980年代の音楽が好きです。"
+          },
+          {
+            "kanji": "記念",
+            "kana": "きねん",
+            "romaji": "kinen",
+            "meaning": "Commemoration, memorial, anniversary",
+            "pos": "noun",
+            "example": "創立100周年を記念するイベントがあります。"
+          },
+          {
+            "kanji": "遺産",
+            "kana": "いさん",
+            "romaji": "isan",
+            "meaning": "Heritage, legacy, inheritance",
+            "pos": "noun",
+            "example": "世界文化遺産に登録されました。"
+          },
+          {
+            "kanji": "伝承",
+            "kana": "でんしょう",
+            "romaji": "denshou",
+            "meaning": "Oral tradition, passing down (knowledge/culture)",
+            "pos": "noun",
+            "example": "昔話が口頭で伝承されてきました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Quantity & Degree",
+        "sort_order": 32,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "割合",
+            "kana": "わりあい",
+            "romaji": "wariai",
+            "meaning": "Ratio, proportion, percentage",
+            "pos": "noun",
+            "example": "女性の割合が増えています。"
+          },
+          {
+            "kanji": "程度",
+            "kana": "ていど",
+            "romaji": "teido",
+            "meaning": "Degree, extent, level",
+            "pos": "noun",
+            "example": "ある程度の経験が必要です。"
+          },
+          {
+            "kanji": "以上",
+            "kana": "いじょう",
+            "romaji": "ijou",
+            "meaning": "More than, over, above; that is all",
+            "pos": "noun",
+            "example": "18歳以上の方が参加できます。"
+          },
+          {
+            "kanji": "以下",
+            "kana": "いか",
+            "romaji": "ika",
+            "meaning": "Less than, below, under; the following",
+            "pos": "noun",
+            "example": "気温が0度以下になりました。"
+          },
+          {
+            "kanji": "約",
+            "kana": "やく",
+            "romaji": "yaku",
+            "meaning": "About, approximately",
+            "pos": "noun",
+            "example": "約100人が参加しました。"
+          },
+          {
+            "kanji": "最大",
+            "kana": "さいだい",
+            "romaji": "saidai",
+            "meaning": "Maximum, largest, greatest",
+            "pos": "noun",
+            "example": "これが最大の問題です。"
+          },
+          {
+            "kanji": "最小",
+            "kana": "さいしょう",
+            "romaji": "saishou",
+            "meaning": "Minimum, smallest, least",
+            "pos": "noun",
+            "example": "最小限のリスクに抑えたいです。"
+          },
+          {
+            "kanji": "全体",
+            "kana": "ぜんたい",
+            "romaji": "zentai",
+            "meaning": "Whole, entirety, overall",
+            "pos": "noun",
+            "example": "全体の60%が賛成しました。"
+          },
+          {
+            "kanji": "一部",
+            "kana": "いちぶ",
+            "romaji": "ichibu",
+            "meaning": "Part, portion, some",
+            "pos": "noun",
+            "example": "一部の人だけが知っています。"
+          },
+          {
+            "kanji": "複数",
+            "kana": "ふくすう",
+            "romaji": "fukusuu",
+            "meaning": "Plural, multiple, several",
+            "pos": "noun",
+            "example": "複数の候補者から選びます。"
+          },
+          {
+            "kanji": "平均",
+            "kana": "へいきん",
+            "romaji": "heikin",
+            "meaning": "Average, mean",
+            "pos": "noun",
+            "example": "日本人の平均寿命は長いです。"
+          },
+          {
+            "kanji": "倍",
+            "kana": "ばい",
+            "romaji": "bai",
+            "meaning": "Times (multiplication), double",
+            "pos": "noun",
+            "example": "去年の2倍の売上がありました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Appearance & Description",
+        "sort_order": 33,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "外見",
+            "kana": "がいけん",
+            "romaji": "gaiken",
+            "meaning": "Outward appearance, looks",
+            "pos": "noun",
+            "example": "外見だけで人を判断してはいけません。"
+          },
+          {
+            "kanji": "表情",
+            "kana": "ひょうじょう",
+            "romaji": "hyoujou",
+            "meaning": "Facial expression",
+            "pos": "noun",
+            "example": "彼は悲しそうな表情をしていました。"
+          },
+          {
+            "kanji": "印象",
+            "kana": "いんしょう",
+            "romaji": "inshou",
+            "meaning": "Impression",
+            "pos": "noun",
+            "example": "第一印象はとても大切です。"
+          },
+          {
+            "kanji": "雰囲気",
+            "kana": "ふんいき",
+            "romaji": "fun'iki",
+            "meaning": "Atmosphere, ambiance, mood",
+            "pos": "noun",
+            "example": "このカフェは落ち着いた雰囲気です。"
+          },
+          {
+            "kanji": "特徴",
+            "kana": "とくちょう",
+            "romaji": "tokuchou",
+            "meaning": "Feature, characteristic, trait",
+            "pos": "noun",
+            "example": "彼女の特徴はとても明るいことです。"
+          },
+          {
+            "kanji": "個性",
+            "kana": "こせい",
+            "romaji": "kosei",
+            "meaning": "Individuality, personality, uniqueness",
+            "pos": "noun",
+            "example": "子供の個性を大切にしてあげましょう。"
+          },
+          {
+            "kanji": "地味",
+            "kana": "じみ",
+            "romaji": "jimi",
+            "meaning": "Plain, modest, subdued, understated",
+            "pos": "na-adj",
+            "example": "彼女はいつも地味な服を着ています。"
+          },
+          {
+            "kanji": "派手",
+            "kana": "はで",
+            "romaji": "hade",
+            "meaning": "Flashy, showy, gaudy, loud",
+            "pos": "na-adj",
+            "example": "彼は派手な車に乗っています。"
+          },
+          {
+            "kanji": "清潔感",
+            "kana": "せいけつかん",
+            "romaji": "seiketsukan",
+            "meaning": "Sense of cleanliness, clean appearance",
+            "pos": "noun",
+            "example": "清潔感のある人は好まれます。"
+          },
+          {
+            "kanji": "容姿",
+            "kana": "ようし",
+            "romaji": "youshi",
+            "meaning": "Appearance, looks (of a person)",
+            "pos": "noun",
+            "example": "容姿より中身が大切だと思います。"
+          },
+          {
+            "kanji": "体型",
+            "kana": "たいけい",
+            "romaji": "taikei",
+            "meaning": "Body shape, physique, build",
+            "pos": "noun",
+            "example": "運動して体型を維持しています。"
+          },
+          {
+            "kanji": "身なり",
+            "kana": "みなり",
+            "romaji": "minari",
+            "meaning": "Appearance, dress, attire",
+            "pos": "noun",
+            "example": "面接には身なりを整えていきましょう。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Verbs — Cause & Effect",
+        "sort_order": 34,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "引き起こす",
+            "kana": "ひきおこす",
+            "romaji": "hikiokosu",
+            "meaning": "To cause, to bring about, to trigger",
+            "pos": "verb",
+            "example": "その事故は大きな問題を引き起こしました。"
+          },
+          {
+            "kanji": "招く",
+            "kana": "まねく",
+            "romaji": "maneku",
+            "meaning": "To invite; to cause, to bring about",
+            "pos": "verb",
+            "example": "不注意が失敗を招きました。"
+          },
+          {
+            "kanji": "生じる",
+            "kana": "しょうじる",
+            "romaji": "shoujiru",
+            "meaning": "To occur, to arise, to come about",
+            "pos": "verb",
+            "example": "様々な問題が生じました。"
+          },
+          {
+            "kanji": "及ぼす",
+            "kana": "およぼす",
+            "romaji": "oyobosu",
+            "meaning": "To exert (influence), to have an effect on",
+            "pos": "verb",
+            "example": "喫煙は健康に悪影響を及ぼします。"
+          },
+          {
+            "kanji": "もたらす",
+            "kana": "もたらす",
+            "romaji": "motarasu",
+            "meaning": "To bring, to cause, to result in",
+            "pos": "verb",
+            "example": "技術の進化は多くの変化をもたらしました。"
+          },
+          {
+            "kanji": "導く",
+            "kana": "みちびく",
+            "romaji": "michibiku",
+            "meaning": "To lead, to guide, to bring about",
+            "pos": "verb",
+            "example": "努力が成功に導きました。"
+          },
+          {
+            "kanji": "伴う",
+            "kana": "ともなう",
+            "romaji": "tomonau",
+            "meaning": "To accompany, to entail, to be accompanied by",
+            "pos": "verb",
+            "example": "責任の大きな仕事には苦労が伴います。"
+          },
+          {
+            "kanji": "反映する",
+            "kana": "はんえいする",
+            "romaji": "han'ei suru",
+            "meaning": "To reflect, to be reflected in",
+            "pos": "verb",
+            "example": "その作品には作者の考えが反映されています。"
+          },
+          {
+            "kanji": "促す",
+            "kana": "うながす",
+            "romaji": "unagasu",
+            "meaning": "To urge, to promote, to encourage",
+            "pos": "verb",
+            "example": "先生が学生に質問を促しました。"
+          },
+          {
+            "kanji": "妨げる",
+            "kana": "さまたげる",
+            "romaji": "samatageru",
+            "meaning": "To obstruct, to interfere, to hinder",
+            "pos": "verb",
+            "example": "騒音が集中を妨げています。"
+          },
+          {
+            "kanji": "阻む",
+            "kana": "はばむ",
+            "romaji": "habamu",
+            "meaning": "To block, to hinder, to prevent",
+            "pos": "verb",
+            "example": "壁が進むのを阻みました。"
+          },
+          {
+            "kanji": "支える",
+            "kana": "ささえる",
+            "romaji": "sasaeru",
+            "meaning": "To support, to sustain, to prop up",
+            "pos": "verb",
+            "example": "家族が彼の挑戦を支えてくれました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Comparison & Contrast",
+        "sort_order": 35,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "同様に",
+            "kana": "どうように",
+            "romaji": "dou you ni",
+            "meaning": "Similarly, in the same way, likewise",
+            "pos": "adv",
+            "example": "彼と同様に、私も賛成です。"
+          },
+          {
+            "kanji": "異なる",
+            "kana": "ことなる",
+            "romaji": "kotonaru",
+            "meaning": "To differ, to be different, to vary",
+            "pos": "verb",
+            "example": "二人の意見は大きく異なります。"
+          },
+          {
+            "kanji": "共通する",
+            "kana": "きょうつうする",
+            "romaji": "kyoutsuu suru",
+            "meaning": "To have in common, to be shared",
+            "pos": "verb",
+            "example": "二つの言語には共通する点があります。"
+          },
+          {
+            "kanji": "比較する",
+            "kana": "ひかくする",
+            "romaji": "hikaku suru",
+            "meaning": "To compare, to make a comparison",
+            "pos": "verb",
+            "example": "二つの製品を比較してみました。"
+          },
+          {
+            "kanji": "優れる",
+            "kana": "すぐれる",
+            "romaji": "sugureru",
+            "meaning": "To be superior, to excel, to surpass",
+            "pos": "verb",
+            "example": "彼は数学において優れています。"
+          },
+          {
+            "kanji": "劣る",
+            "kana": "おとる",
+            "romaji": "otoru",
+            "meaning": "To be inferior, to be worse than",
+            "pos": "verb",
+            "example": "品質が他の製品より劣っています。"
+          },
+          {
+            "kanji": "一致する",
+            "kana": "いっちする",
+            "romaji": "icchi suru",
+            "meaning": "To agree, to match, to coincide",
+            "pos": "verb",
+            "example": "二人の意見が一致しました。"
+          },
+          {
+            "kanji": "対照的",
+            "kana": "たいしょうてき",
+            "romaji": "taishou teki",
+            "meaning": "Contrasting, in contrast, the opposite",
+            "pos": "na-adj",
+            "example": "二人は対照的な性格です。"
+          },
+          {
+            "kanji": "双方",
+            "kana": "そうほう",
+            "romaji": "souhou",
+            "meaning": "Both sides, both parties",
+            "pos": "noun",
+            "example": "双方の意見を聞きました。"
+          },
+          {
+            "kanji": "同等",
+            "kana": "どうとう",
+            "romaji": "doutou",
+            "meaning": "Equal, equivalent, on the same level",
+            "pos": "na-adj",
+            "example": "二人の能力はほぼ同等です。"
+          },
+          {
+            "kanji": "類似",
+            "kana": "るいじ",
+            "romaji": "ruiji",
+            "meaning": "Similarity, resemblance",
+            "pos": "noun",
+            "example": "この二つの事件には類似点があります。"
+          },
+          {
+            "kanji": "相違",
+            "kana": "そうい",
+            "romaji": "soui",
+            "meaning": "Difference, discrepancy",
+            "pos": "noun",
+            "example": "両者には大きな相違があります。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Sports & Competition",
+        "sort_order": 36,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "競技",
+            "kana": "きょうぎ",
+            "romaji": "kyougi",
+            "meaning": "Competitive sport, athletic event",
+            "pos": "noun",
+            "example": "オリンピックでは様々な競技があります。"
+          },
+          {
+            "kanji": "選手",
+            "kana": "せんしゅ",
+            "romaji": "senshu",
+            "meaning": "Player, athlete, competitor",
+            "pos": "noun",
+            "example": "代表選手として試合に出ます。"
+          },
+          {
+            "kanji": "監督",
+            "kana": "かんとく",
+            "romaji": "kantoku",
+            "meaning": "Coach, manager, director",
+            "pos": "noun",
+            "example": "監督の指示に従いました。"
+          },
+          {
+            "kanji": "記録",
+            "kana": "きろく",
+            "romaji": "kiroku",
+            "meaning": "Record, achievement, score",
+            "pos": "noun",
+            "example": "世界記録を更新しました。"
+          },
+          {
+            "kanji": "優勝",
+            "kana": "ゆうしょう",
+            "romaji": "yuushou",
+            "meaning": "Championship, winning first place",
+            "pos": "noun",
+            "example": "チームが全国大会で優勝しました。"
+          },
+          {
+            "kanji": "敗北",
+            "kana": "はいぼく",
+            "romaji": "haiboku",
+            "meaning": "Defeat, loss",
+            "pos": "noun",
+            "example": "惜しい敗北でした。"
+          },
+          {
+            "kanji": "審判",
+            "kana": "しんぱん",
+            "romaji": "shinpan",
+            "meaning": "Referee, judge, umpire",
+            "pos": "noun",
+            "example": "審判の判定に不満があります。"
+          },
+          {
+            "kanji": "体力",
+            "kana": "たいりょく",
+            "romaji": "tairyoku",
+            "meaning": "Physical strength, stamina",
+            "pos": "noun",
+            "example": "毎日トレーニングして体力をつけています。"
+          },
+          {
+            "kanji": "応援",
+            "kana": "おうえん",
+            "romaji": "ouen",
+            "meaning": "Support, cheering, encouragement",
+            "pos": "noun",
+            "example": "スタジアムで選手を応援しました。"
+          },
+          {
+            "kanji": "挑戦",
+            "kana": "ちょうせん",
+            "romaji": "chousen",
+            "meaning": "Challenge, attempt, taking on a challenge",
+            "pos": "noun",
+            "example": "新しいことに挑戦するのが好きです。"
+          },
+          {
+            "kanji": "引き分け",
+            "kana": "ひきわけ",
+            "romaji": "hikiwake",
+            "meaning": "Draw, tie (in sports)",
+            "pos": "noun",
+            "example": "試合は引き分けに終わりました。"
+          },
+          {
+            "kanji": "得点",
+            "kana": "とくてん",
+            "romaji": "tokuten",
+            "meaning": "Score, points, goal",
+            "pos": "noun",
+            "example": "最後の1分で得点しました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Food & Cuisine",
+        "sort_order": 37,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "食材",
+            "kana": "しょくざい",
+            "romaji": "shokuzai",
+            "meaning": "Ingredients, food materials",
+            "pos": "noun",
+            "example": "新鮮な食材を使って料理しました。"
+          },
+          {
+            "kanji": "調味料",
+            "kana": "ちょうみりょう",
+            "romaji": "choumiryou",
+            "meaning": "Seasoning, condiments, flavouring",
+            "pos": "noun",
+            "example": "このスープは調味料が少なめです。"
+          },
+          {
+            "kanji": "栄養",
+            "kana": "えいよう",
+            "romaji": "eiyou",
+            "meaning": "Nutrition, nourishment",
+            "pos": "noun",
+            "example": "栄養バランスのよい食事を心がけています。"
+          },
+          {
+            "kanji": "食欲",
+            "kana": "しょくよく",
+            "romaji": "shokuyoku",
+            "meaning": "Appetite",
+            "pos": "noun",
+            "example": "秋になると食欲が増します。"
+          },
+          {
+            "kanji": "発酵",
+            "kana": "はっこう",
+            "romaji": "hakkou",
+            "meaning": "Fermentation",
+            "pos": "noun",
+            "example": "納豆は発酵食品です。"
+          },
+          {
+            "kanji": "産地",
+            "kana": "さんち",
+            "romaji": "sanchi",
+            "meaning": "Production area, place of origin",
+            "pos": "noun",
+            "example": "この野菜の産地は北海道です。"
+          },
+          {
+            "kanji": "旬",
+            "kana": "しゅん",
+            "romaji": "shun",
+            "meaning": "In season, peak season (for food)",
+            "pos": "noun",
+            "example": "旬の野菜はおいしいです。"
+          },
+          {
+            "kanji": "風味",
+            "kana": "ふうみ",
+            "romaji": "fuumi",
+            "meaning": "Flavor, taste, aroma",
+            "pos": "noun",
+            "example": "このだしは風味が豊かです。"
+          },
+          {
+            "kanji": "食文化",
+            "kana": "しょくぶんか",
+            "romaji": "shoku bunka",
+            "meaning": "Food culture, culinary culture",
+            "pos": "noun",
+            "example": "日本の食文化は世界で人気があります。"
+          },
+          {
+            "kanji": "精進料理",
+            "kana": "しょうじんりょうり",
+            "romaji": "shoujin ryouri",
+            "meaning": "Vegetarian cuisine (Buddhist style)",
+            "pos": "noun",
+            "example": "お寺で精進料理をいただきました。"
+          },
+          {
+            "kanji": "盛り付け",
+            "kana": "もりつけ",
+            "romaji": "moritsuke",
+            "meaning": "Plating, food presentation",
+            "pos": "noun",
+            "example": "盛り付けが美しい料理に感動しました。"
+          },
+          {
+            "kanji": "賞味期限",
+            "kana": "しょうみきげん",
+            "romaji": "shoumi kigen",
+            "meaning": "Best-before date, expiry date",
+            "pos": "noun",
+            "example": "賞味期限が切れた食品は食べないでください。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Fashion & Clothing",
+        "sort_order": 38,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "流行",
+            "kana": "りゅうこう",
+            "romaji": "ryuukou",
+            "meaning": "Fashion, trend, vogue, fad",
+            "pos": "noun",
+            "example": "今年の流行はどんなスタイルですか。"
+          },
+          {
+            "kanji": "着こなす",
+            "kana": "きこなす",
+            "romaji": "kikonasu",
+            "meaning": "To wear well, to dress stylishly",
+            "pos": "verb",
+            "example": "彼女はどんな服でもうまく着こなします。"
+          },
+          {
+            "kanji": "縫う",
+            "kana": "ぬう",
+            "romaji": "nuu",
+            "meaning": "To sew, to stitch",
+            "pos": "verb",
+            "example": "ボタンが取れたので縫いました。"
+          },
+          {
+            "kanji": "染める",
+            "kana": "そめる",
+            "romaji": "someru",
+            "meaning": "To dye (hair/fabric)",
+            "pos": "verb",
+            "example": "髪を青色に染めました。"
+          },
+          {
+            "kanji": "模様",
+            "kana": "もよう",
+            "romaji": "moyou",
+            "meaning": "Pattern, design, motif",
+            "pos": "noun",
+            "example": "花模様のワンピースを買いました。"
+          },
+          {
+            "kanji": "鮮やか",
+            "kana": "あざやか",
+            "romaji": "azayaka",
+            "meaning": "Vivid, bright, brilliant (colour)",
+            "pos": "na-adj",
+            "example": "鮮やかな赤いドレスが目立ちます。"
+          },
+          {
+            "kanji": "着用",
+            "kana": "ちゃくよう",
+            "romaji": "chakuyou",
+            "meaning": "Wearing, putting on (clothing)",
+            "pos": "noun",
+            "example": "制服の着用が義務付けられています。"
+          },
+          {
+            "kanji": "装飾",
+            "kana": "そうしょく",
+            "romaji": "soushoku",
+            "meaning": "Decoration, ornament, adornment",
+            "pos": "noun",
+            "example": "シンプルな装飾が好みです。"
+          },
+          {
+            "kanji": "衣装",
+            "kana": "いしょう",
+            "romaji": "ishou",
+            "meaning": "Costume, outfit, attire",
+            "pos": "noun",
+            "example": "舞台の衣装を手作りしました。"
+          },
+          {
+            "kanji": "洗濯",
+            "kana": "せんたく",
+            "romaji": "sentaku",
+            "meaning": "Laundry, washing clothes",
+            "pos": "noun",
+            "example": "毎週末に洗濯をします。"
+          },
+          {
+            "kanji": "仕立て",
+            "kana": "したて",
+            "romaji": "shitate",
+            "meaning": "Tailoring, sewing (custom made)",
+            "pos": "noun",
+            "example": "オーダーメイドで仕立てたスーツです。"
+          },
+          {
+            "kanji": "素材",
+            "kana": "そざい",
+            "romaji": "sozai",
+            "meaning": "Material, fabric, raw material",
+            "pos": "noun",
+            "example": "天然素材の服は着心地がいいです。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Animals & Ecology",
+        "sort_order": 39,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "生物",
+            "kana": "せいぶつ",
+            "romaji": "seibutsu",
+            "meaning": "Living thing, organism, creature",
+            "pos": "noun",
+            "example": "地球には様々な生物が存在します。"
+          },
+          {
+            "kanji": "哺乳類",
+            "kana": "ほにゅうるい",
+            "romaji": "honyuurui",
+            "meaning": "Mammals",
+            "pos": "noun",
+            "example": "クジラは哺乳類です。"
+          },
+          {
+            "kanji": "植物",
+            "kana": "しょくぶつ",
+            "romaji": "shokubutsu",
+            "meaning": "Plant, vegetation, flora",
+            "pos": "noun",
+            "example": "熱帯雨林には多様な植物があります。"
+          },
+          {
+            "kanji": "天敵",
+            "kana": "てんてき",
+            "romaji": "tenteki",
+            "meaning": "Natural enemy, predator",
+            "pos": "noun",
+            "example": "キツネはウサギの天敵です。"
+          },
+          {
+            "kanji": "共生",
+            "kana": "きょうせい",
+            "romaji": "kyousei",
+            "meaning": "Coexistence, symbiosis",
+            "pos": "noun",
+            "example": "人間と自然が共生することが大切です。"
+          },
+          {
+            "kanji": "繁殖",
+            "kana": "はんしょく",
+            "romaji": "hanshoku",
+            "meaning": "Breeding, reproduction, propagation",
+            "pos": "noun",
+            "example": "春は鳥の繁殖の季節です。"
+          },
+          {
+            "kanji": "絶滅危惧種",
+            "kana": "ぜつめつきぐしゅ",
+            "romaji": "zetsumetsu kigu shu",
+            "meaning": "Endangered species",
+            "pos": "noun",
+            "example": "パンダは絶滅危惧種に指定されています。"
+          },
+          {
+            "kanji": "野生",
+            "kana": "やせい",
+            "romaji": "yasei",
+            "meaning": "Wild, feral, wild state",
+            "pos": "noun",
+            "example": "野生の動物に餌を与えてはいけません。"
+          },
+          {
+            "kanji": "生息",
+            "kana": "せいそく",
+            "romaji": "seisoku",
+            "meaning": "Inhabiting, living (in a habitat)",
+            "pos": "noun",
+            "example": "この鳥は熱帯に生息しています。"
+          },
+          {
+            "kanji": "捕食",
+            "kana": "ほしょく",
+            "romaji": "hoshoku",
+            "meaning": "Predation, preying on",
+            "pos": "noun",
+            "example": "ライオンはシマウマを捕食します。"
+          },
+          {
+            "kanji": "食物連鎖",
+            "kana": "しょくもつれんさ",
+            "romaji": "shokumotsurensa",
+            "meaning": "Food chain",
+            "pos": "noun",
+            "example": "食物連鎖が崩れると生態系に影響します。"
+          },
+          {
+            "kanji": "生態",
+            "kana": "せいたい",
+            "romaji": "seitai",
+            "meaning": "Ecology, living habits, way of life (animal)",
+            "pos": "noun",
+            "example": "この魚の生態はまだ解明されていません。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Verbs — Formal Actions",
+        "sort_order": 40,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "設置する",
+            "kana": "せっちする",
+            "romaji": "secchi suru",
+            "meaning": "To install, to establish, to set up",
+            "pos": "verb",
+            "example": "新しい委員会が設置されました。"
+          },
+          {
+            "kanji": "撤去する",
+            "kana": "てっきょする",
+            "romaji": "tekkyo suru",
+            "meaning": "To remove, to dismantle, to demolish",
+            "pos": "verb",
+            "example": "古い建物が撤去されました。"
+          },
+          {
+            "kanji": "実施する",
+            "kana": "じっしする",
+            "romaji": "jisshi suru",
+            "meaning": "To carry out, to implement, to put into practice",
+            "pos": "verb",
+            "example": "新しい政策が実施されます。"
+          },
+          {
+            "kanji": "採用する",
+            "kana": "さいようする",
+            "romaji": "saiyou suru",
+            "meaning": "To adopt, to hire, to employ",
+            "pos": "verb",
+            "example": "新しいシステムを採用しました。"
+          },
+          {
+            "kanji": "申請する",
+            "kana": "しんせいする",
+            "romaji": "shinsei suru",
+            "meaning": "To apply for, to petition, to file a request",
+            "pos": "verb",
+            "example": "ビザを申請しました。"
+          },
+          {
+            "kanji": "許可する",
+            "kana": "きょかする",
+            "romaji": "kyoka suru",
+            "meaning": "To permit, to allow, to authorize",
+            "pos": "verb",
+            "example": "上司が休暇を許可してくれました。"
+          },
+          {
+            "kanji": "拒否する",
+            "kana": "きょひする",
+            "romaji": "kyohi suru",
+            "meaning": "To refuse, to reject, to decline",
+            "pos": "verb",
+            "example": "彼はその提案を拒否しました。"
+          },
+          {
+            "kanji": "廃止する",
+            "kana": "はいしする",
+            "romaji": "haishi suru",
+            "meaning": "To abolish, to discontinue, to do away with",
+            "pos": "verb",
+            "example": "その規則は廃止されました。"
+          },
+          {
+            "kanji": "制定する",
+            "kana": "せいていする",
+            "romaji": "seitei suru",
+            "meaning": "To establish (a rule/law), to enact, to lay down",
+            "pos": "verb",
+            "example": "新しい法律が制定されました。"
+          },
+          {
+            "kanji": "施行する",
+            "kana": "しこうする",
+            "romaji": "shikou suru",
+            "meaning": "To enforce, to put into effect, to implement",
+            "pos": "verb",
+            "example": "来月から新法が施行されます。"
+          },
+          {
+            "kanji": "調整する",
+            "kana": "ちょうせいする",
+            "romaji": "chousei suru",
+            "meaning": "To adjust, to coordinate, to regulate",
+            "pos": "verb",
+            "example": "スケジュールを調整しました。"
+          },
+          {
+            "kanji": "解雇する",
+            "kana": "かいこする",
+            "romaji": "kaiko suru",
+            "meaning": "To fire, to dismiss an employee",
+            "pos": "verb",
+            "example": "不正行為により解雇されました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Emotions & Psychology",
+        "sort_order": 41,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "不安",
+            "kana": "ふあん",
+            "romaji": "fuan",
+            "meaning": "Anxiety, unease, worry",
+            "pos": "noun",
+            "example": "将来に対して不安を感じています。"
+          },
+          {
+            "kanji": "憂鬱",
+            "kana": "ゆううつ",
+            "romaji": "yuuutsu",
+            "meaning": "Melancholy, depression, gloominess",
+            "pos": "na-adj",
+            "example": "雨の日は気分が憂鬱になります。"
+          },
+          {
+            "kanji": "高揚感",
+            "kana": "こうようかん",
+            "romaji": "kouyou kan",
+            "meaning": "Elation, excitement, uplift",
+            "pos": "noun",
+            "example": "試合に勝って高揚感を覚えました。"
+          },
+          {
+            "kanji": "達成感",
+            "kana": "たっせいかん",
+            "romaji": "tassei kan",
+            "meaning": "Sense of accomplishment, fulfillment",
+            "pos": "noun",
+            "example": "目標を達成した時の達成感は格別です。"
+          },
+          {
+            "kanji": "充実感",
+            "kana": "じゅうじつかん",
+            "romaji": "juujitsu kan",
+            "meaning": "Sense of fulfillment, satisfaction",
+            "pos": "noun",
+            "example": "仕事にやりがいを感じて充実感があります。"
+          },
+          {
+            "kanji": "失望",
+            "kana": "しつぼう",
+            "romaji": "shitsubou",
+            "meaning": "Disappointment, disillusionment, despair",
+            "pos": "noun",
+            "example": "期待していたのに、結果に失望しました。"
+          },
+          {
+            "kanji": "期待",
+            "kana": "きたい",
+            "romaji": "kitai",
+            "meaning": "Expectation, hope, anticipation",
+            "pos": "noun",
+            "example": "大きな期待を持って新しい仕事を始めました。"
+          },
+          {
+            "kanji": "恐怖",
+            "kana": "きょうふ",
+            "romaji": "kyoufu",
+            "meaning": "Fear, terror, dread",
+            "pos": "noun",
+            "example": "暗い場所への恐怖があります。"
+          },
+          {
+            "kanji": "嫉妬",
+            "kana": "しっと",
+            "romaji": "shitto",
+            "meaning": "Jealousy, envy",
+            "pos": "noun",
+            "example": "友達の成功に嫉妬してしまいました。"
+          },
+          {
+            "kanji": "罪悪感",
+            "kana": "ざいあくかん",
+            "romaji": "zaiakukan",
+            "meaning": "Guilt, sense of guilt",
+            "pos": "noun",
+            "example": "嘘をついて罪悪感を感じています。"
+          },
+          {
+            "kanji": "苛立ち",
+            "kana": "いらだち",
+            "romaji": "iradachi",
+            "meaning": "Irritation, frustration, impatience",
+            "pos": "noun",
+            "example": "渋滞で苛立ちを感じました。"
+          },
+          {
+            "kanji": "安堵",
+            "kana": "あんど",
+            "romaji": "ando",
+            "meaning": "Relief, reassurance",
+            "pos": "noun",
+            "example": "無事帰宅して安堵しました。"
+          }
+        ]
+      },
+      {
+        "title": "N3: Social Issues & Current Affairs",
+        "sort_order": 42,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "少子化",
+            "kana": "しょうしか",
+            "romaji": "shoushika",
+            "meaning": "Declining birthrate, falling birthrate",
+            "pos": "noun",
+            "example": "少子化問題は深刻になっています。"
+          },
+          {
+            "kanji": "高齢化",
+            "kana": "こうれいか",
+            "romaji": "koureika",
+            "meaning": "Aging (of a population), greying society",
+            "pos": "noun",
+            "example": "日本では高齢化が急速に進んでいます。"
+          },
+          {
+            "kanji": "格差",
+            "kana": "かくさ",
+            "romaji": "kakusa",
+            "meaning": "Gap, disparity, inequality",
+            "pos": "noun",
+            "example": "所得格差が広がっています。"
+          },
+          {
+            "kanji": "差別",
+            "kana": "さべつ",
+            "romaji": "sabetsu",
+            "meaning": "Discrimination, prejudice",
+            "pos": "noun",
+            "example": "あらゆる差別をなくすべきです。"
+          },
+          {
+            "kanji": "多様性",
+            "kana": "たようせい",
+            "romaji": "tayousei",
+            "meaning": "Diversity",
+            "pos": "noun",
+            "example": "多様性を尊重する社会を目指しています。"
+          },
+          {
+            "kanji": "福祉",
+            "kana": "ふくし",
+            "romaji": "fukushi",
+            "meaning": "Welfare, social welfare",
+            "pos": "noun",
+            "example": "社会福祉の充実が必要です。"
+          },
+          {
+            "kanji": "貧困",
+            "kana": "ひんこん",
+            "romaji": "hinkon",
+            "meaning": "Poverty, destitution",
+            "pos": "noun",
+            "example": "子供の貧困問題に取り組んでいます。"
+          },
+          {
+            "kanji": "難民",
+            "kana": "なんみん",
+            "romaji": "nanmin",
+            "meaning": "Refugee",
+            "pos": "noun",
+            "example": "難民への支援活動をしています。"
+          },
+          {
+            "kanji": "過労",
+            "kana": "かろう",
+            "romaji": "karou",
+            "meaning": "Overwork, excessive labour",
+            "pos": "noun",
+            "example": "過労による健康被害が問題です。"
+          },
+          {
+            "kanji": "いじめ",
+            "kana": "いじめ",
+            "romaji": "ijime",
+            "meaning": "Bullying, harassment",
+            "pos": "noun",
+            "example": "学校でのいじめをなくしましょう。"
+          },
+          {
+            "kanji": "ボランティア",
+            "kana": "ボランティア",
+            "romaji": "borantia",
+            "meaning": "Volunteer, voluntary work",
+            "pos": "noun",
+            "example": "週末にボランティア活動をしています。"
+          },
+          {
+            "kanji": "共生社会",
+            "kana": "きょうせいしゃかい",
+            "romaji": "kyousei shakai",
+            "meaning": "Inclusive society, society of coexistence",
+            "pos": "noun",
+            "example": "障害者も暮らしやすい共生社会を目指しています。"
+          }
+        ]
+      }
+    ]
+  }
+]

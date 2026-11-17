@@ -1,0 +1,296 @@
+[
+  {
+    "kanji": "大きい",
+    "reading": "おおきい",
+    "meaning_en": "big, large, great; loud",
+    "meaning_id": "besar, agung, raya"
+  },
+  {
+    "kanji": "",
+    "reading": "オーケストラ",
+    "meaning_en": "orchestra",
+    "meaning_id": "orkestra, orkes"
+  },
+  {
+    "kanji": "大勢",
+    "reading": "おおぜい",
+    "meaning_en": "crowd of people, great number of people; in great numbers",
+    "meaning_id": "ramai; banyak"
+  },
+  {
+    "kanji": "",
+    "reading": "オートメーション",
+    "meaning_en": "automation",
+    "meaning_id": "otomatisasi, automasi"
+  },
+  {
+    "kanji": "",
+    "reading": "オートバイ",
+    "meaning_en": "motorcycle, motorbike",
+    "meaning_id": "sepeda motor"
+  },
+  {
+    "kanji": "",
+    "reading": "オーバー",
+    "meaning_en": "overcoat; exceeding, going over, going beyond",
+    "meaning_id": "mantel; berlebihan"
+  },
+  {
+    "kanji": "",
+    "reading": "オーバーコート",
+    "meaning_en": "overcoat",
+    "meaning_id": "mantel"
+  },
+  {
+    "kanji": "大凡",
+    "reading": "おおよそ",
+    "meaning_en": "about, roughly, approximately; generally, on the whole, as a rule",
+    "meaning_id": "perkiraan; sekitar"
+  },
+  {
+    "kanji": "丘",
+    "reading": "おか",
+    "meaning_en": "hill, height, knoll, rising ground; bonus points awarded to the winner at the end of a game",
+    "meaning_id": "bukit"
+  },
+  {
+    "kanji": "お母さん",
+    "reading": "おかあさん",
+    "meaning_en": "mother, mom, mum, ma; wife",
+    "meaning_id": "mami, mama; ibu, bunda"
+  },
+  {
+    "kanji": "お帰り",
+    "reading": "おかえり",
+    "meaning_en": "return; welcome home",
+    "meaning_id": "selamat datang di rumah; kembali"
+  },
+  {
+    "kanji": "お陰",
+    "reading": "おかげ",
+    "meaning_en": "grace (of God), benevolence (of Buddha), blessing; assistance, help, aid",
+    "meaning_id": "berkat"
+  },
+  {
+    "kanji": "お掛け下さい",
+    "reading": "おかけください",
+    "meaning_en": "please sit down, please have a seat",
+    "meaning_id": "silakan duduk; silahkan duduk"
+  },
+  {
+    "kanji": "お陰様で",
+    "reading": "おかげさまで",
+    "meaning_en": "thankfully, fortunately, luckily, by God's grace, under the gods' shadow; thanks to your (his, their, everyone's, etc.) kindness, thanks to your assistance, thanks to your support, thanks to your efforts",
+    "meaning_id": "syukur; berkat anda"
+  },
+  {
+    "kanji": "可笑しい",
+    "reading": "おかしい",
+    "meaning_en": "funny, amusing, comical, laughable, ridiculous; strange, odd, funny, peculiar, weird, wrong, unusual, eccentric",
+    "meaning_id": "lucu; aneh"
+  },
+  {
+    "kanji": "お菜",
+    "reading": "おかず",
+    "meaning_en": "small dish (usu. one of several accompanying rice), side dish; fill, fill-in (drumming)",
+    "meaning_id": "sayuran; lauk pauk"
+  },
+  {
+    "kanji": "お構いなく",
+    "reading": "おかまいなく",
+    "meaning_en": "please don't fuss over me, don't go to any trouble, don't bother",
+    "meaning_id": "tidak masalah; jangan repot-repot"
+  },
+  {
+    "kanji": "お代わり",
+    "reading": "おかわり",
+    "meaning_en": "another helping, second helping, seconds, refill; other paw!",
+    "meaning_id": "Membantu; tambah"
+  },
+  {
+    "kanji": "お気の毒に",
+    "reading": "おきのどくに",
+    "meaning_en": "my sympathies, that's too bad, my condolences",
+    "meaning_id": "simpati saya; belasungkawa"
+  },
+  {
+    "kanji": "置く",
+    "reading": "おく",
+    "meaning_en": "to put, to place; to leave (behind)",
+    "meaning_id": "rebah; taruh, letak"
+  },
+  {
+    "kanji": "奥さん",
+    "reading": "おくさん",
+    "meaning_en": "wife, your wife, his wife, married lady, madam",
+    "meaning_id": "nyonya, puan; istri orang"
+  },
+  {
+    "kanji": "送り仮名",
+    "reading": "おくりがな",
+    "meaning_en": "kana written after a kanji to complete the full (usually kun) reading of the word, declensional kana ending",
+    "meaning_id": ""
+  },
+  {
+    "kanji": "送る",
+    "reading": "おくる",
+    "meaning_en": "to send, to dispatch, to forward, to transmit, to ship, to remit; to see (someone) off, to escort, to accompany, to take",
+    "meaning_id": "kirim, mengirim; mengirim (barang)"
+  },
+  {
+    "kanji": "贈る",
+    "reading": "おくる",
+    "meaning_en": "to give (as a gift), to present; to confer, to bestow, to award",
+    "meaning_id": "mempersembahkan, memperkenalkan"
+  },
+  {
+    "kanji": "お子さん",
+    "reading": "おこさん",
+    "meaning_en": "child",
+    "meaning_id": "anak (orang lain)"
+  },
+  {
+    "kanji": "行う",
+    "reading": "おこなう",
+    "meaning_en": "to perform, to do, to conduct oneself, to carry out",
+    "meaning_id": "lakukan; melakukan diri sendiri"
+  },
+  {
+    "kanji": "押さえる",
+    "reading": "おさえる",
+    "meaning_en": "to pin down, to hold down, to press down, to hold in place, to hold steady; to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part)",
+    "meaning_id": "menahan diri; menahan sesuatu"
+  },
+  {
+    "kanji": "お先に",
+    "reading": "おさきに",
+    "meaning_en": "before, previously; ahead",
+    "meaning_id": "sebelumnya; dahulu"
+  },
+  {
+    "kanji": "お祖父さん",
+    "reading": "おじいさん",
+    "meaning_en": "grandfather; male senior-citizen, old man",
+    "meaning_id": "kakek, eyang, datuk, engkong, angku"
+  },
+  {
+    "kanji": "押入れ",
+    "reading": "おしいれ",
+    "meaning_en": "closet (built into the wall, usu. with sliding doors), (built-in) wardrobe",
+    "meaning_id": "kloset; lemari dinding"
+  },
+  {
+    "kanji": "伯父さん",
+    "reading": "おじさん",
+    "meaning_en": "uncle; old man, mister",
+    "meaning_id": "paman"
+  },
+  {
+    "kanji": "お洒落",
+    "reading": "おしゃれ",
+    "meaning_en": "stylish, fashionable, trendy, chic, smartly dressed, careful about one's appearance; dressing (oneself) up, dressing smartly, dressing nicely, making oneself look attractive",
+    "meaning_id": "berpakaian rapi; modis"
+  },
+  {
+    "kanji": "お喋り",
+    "reading": "おしゃべり",
+    "meaning_en": "chattering, talk, idle talk, chat, chitchat, gossip; chatty, talkative, chatterbox, blabbermouth",
+    "meaning_id": "mengobrol; bawel"
+  },
+  {
+    "kanji": "お邪魔します",
+    "reading": "おじゃまします",
+    "meaning_en": "please excuse the intrusion, I'm coming in",
+    "meaning_id": "permisi; mengganggu"
+  },
+  {
+    "kanji": "雄",
+    "reading": "おす",
+    "meaning_en": "male (animal, plant)",
+    "meaning_id": "jantan"
+  },
+  {
+    "kanji": "汚染",
+    "reading": "おせん",
+    "meaning_en": "pollution, contamination; to pollute, to contaminate",
+    "meaning_id": "pencemaran, polusi; kontaminasi"
+  },
+  {
+    "kanji": "お大事に",
+    "reading": "おだいじに",
+    "meaning_en": "take care of yourself, get well soon",
+    "meaning_id": "cepat sembuh; semoga cepat sembuh"
+  },
+  {
+    "kanji": "お互い",
+    "reading": "おたがい",
+    "meaning_en": "each other, one another",
+    "meaning_id": "saling; satu sama lain"
+  },
+  {
+    "kanji": "仰る",
+    "reading": "おっしゃる",
+    "meaning_en": "to say, to speak, to tell; to be called",
+    "meaning_id": "ngomong; memberi tahu"
+  },
+  {
+    "kanji": "夫",
+    "reading": "おっと",
+    "meaning_en": "husband",
+    "meaning_id": "suami"
+  },
+  {
+    "kanji": "お手洗い",
+    "reading": "おてあらい",
+    "meaning_en": "toilet, restroom, lavatory, bathroom",
+    "meaning_id": "toilet, kamar kecil; kamar mandi"
+  },
+  {
+    "kanji": "お出かけ",
+    "reading": "おでかけ",
+    "meaning_en": "about to start out, just about to leave or go out; outing, trip",
+    "meaning_id": "akan pergi atau keluar"
+  },
+  {
+    "kanji": "お手伝いさん",
+    "reading": "おてつだいさん",
+    "meaning_en": "maid",
+    "meaning_id": "pembantu"
+  },
+  {
+    "kanji": "音",
+    "reading": "おと",
+    "meaning_en": "sound, noise; (musical) note",
+    "meaning_id": "bunyi; suara"
+  },
+  {
+    "kanji": "お父さん",
+    "reading": "おとうさん",
+    "meaning_en": "father, dad, papa, pa, pop, daddy, dada; husband",
+    "meaning_id": "bapa, bapak, ayah, ayahanda; papa"
+  },
+  {
+    "kanji": "弟",
+    "reading": "おとうと",
+    "meaning_en": "younger brother, little brother, kid brother; brother-in-law (spouse's younger brother or younger sister's husband)",
+    "meaning_id": "adik; adik laki-laki"
+  },
+  {
+    "kanji": "脅かす",
+    "reading": "おどかす",
+    "meaning_en": "to threaten, to menace, to intimidate; to startle, to frighten, to scare",
+    "meaning_id": "mengancam; menakut-nakuti"
+  },
+  {
+    "kanji": "男",
+    "reading": "おとこ",
+    "meaning_en": "man, male; fellow, guy, chap, bloke",
+    "meaning_id": "pria, laki-laki; cowok"
+  },
+  {
+    "kanji": "男の子",
+    "reading": "おとこのこ",
+    "meaning_en": "boy, son, baby boy; young man",
+    "meaning_id": "anak laki-laki, anak lelaki"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "お茶",
+    "reading": "おちゃ",
+    "meaning_en": "tea (esp. green or barley); tea break (at work)",
+    "meaning_id": "upacara teh; teh jepang"
+  },
+  {
+    "kanji": "お手洗い",
+    "reading": "おてあらい",
+    "meaning_en": "toilet, restroom, lavatory, bathroom",
+    "meaning_id": "toilet, kamar kecil; kamar mandi"
+  },
+  {
+    "kanji": "お父さん",
+    "reading": "おとうさん",
+    "meaning_en": "father, dad, papa, pa, pop, daddy, dada; husband",
+    "meaning_id": "bapa, bapak, ayah, ayahanda; papa"
+  },
+  {
+    "kanji": "弟",
+    "reading": "おとうと",
+    "meaning_en": "younger brother, little brother, kid brother; brother-in-law (spouse's younger brother or younger sister's husband)",
+    "meaning_id": "adik; adik laki-laki"
+  },
+  {
+    "kanji": "男",
+    "reading": "おとこ",
+    "meaning_en": "man, male; fellow, guy, chap, bloke",
+    "meaning_id": "pria, laki-laki; cowok"
+  },
+  {
+    "kanji": "男の子",
+    "reading": "おとこのこ",
+    "meaning_en": "boy, son, baby boy; young man",
+    "meaning_id": "anak laki-laki, anak lelaki"
+  },
+  {
+    "kanji": "一昨日",
+    "reading": "おととい",
+    "meaning_en": "day before yesterday",
+    "meaning_id": "kemarin dulu; kemarin lusa"
+  },
+  {
+    "kanji": "一昨年",
+    "reading": "おととし",
+    "meaning_en": "year before last",
+    "meaning_id": "indonesia; tahun lalu"
+  },
+  {
+    "kanji": "大人",
+    "reading": "おとな",
+    "meaning_en": "adult, grown-up",
+    "meaning_id": "dewasa"
+  },
+  {
+    "kanji": "お腹",
+    "reading": "おなか",
+    "meaning_en": "belly, abdomen, stomach",
+    "meaning_id": "perut; lambung"
+  },
+  {
+    "kanji": "同じ",
+    "reading": "おなじ",
+    "meaning_en": "same, identical, equal, alike, equivalent; anyway, in any case, if one must ..., if one has to ..., as long as ...",
+    "meaning_id": "sama; serupa"
+  },
+  {
+    "kanji": "お兄さん",
+    "reading": "おにいさん",
+    "meaning_en": "older brother, elder brother; young man, buddy, fella, laddie",
+    "meaning_id": "kakak; kakak laki-laki"
+  },
+  {
+    "kanji": "お姉さん",
+    "reading": "おねえさん",
+    "meaning_en": "older sister, elder sister; young lady",
+    "meaning_id": "kakak perempuan"
+  },
+  {
+    "kanji": "お祖母さん",
+    "reading": "おばあさん",
+    "meaning_en": "grandmother; old woman, female senior citizen",
+    "meaning_id": "nenek"
+  },
+  {
+    "kanji": "お風呂",
+    "reading": "おふろ",
+    "meaning_en": "bath",
+    "meaning_id": "mandi; pemandian"
+  },
+  {
+    "kanji": "お弁当",
+    "reading": "おべんとう",
+    "meaning_en": "bento, Japanese box lunch",
+    "meaning_id": "kotak makan siang; bekal"
+  },
+  {
+    "kanji": "覚える",
+    "reading": "おぼえる",
+    "meaning_en": "to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember; to learn, to pick up, to acquire",
+    "meaning_id": "ingat; hafal"
+  },
+  {
+    "kanji": "お巡りさん",
+    "reading": "おまわりさん",
+    "meaning_en": "police officer",
+    "meaning_id": "polisi"
+  },
+  {
+    "kanji": "重い",
+    "reading": "おもい",
+    "meaning_en": "heavy, weighty; heavy (feeling), depressed, gloomy, blue, uneasy",
+    "meaning_id": "berat"
+  },
+  {
+    "kanji": "面白い",
+    "reading": "おもしろい",
+    "meaning_en": "interesting, fascinating, intriguing, enthralling; amusing, funny, comical",
+    "meaning_id": "lucu; menarik"
+  },
+  {
+    "kanji": "泳ぐ",
+    "reading": "およぐ",
+    "meaning_en": "to swim; to struggle through (a crowd)",
+    "meaning_id": "renang; berenang"
+  },
+  {
+    "kanji": "降りる",
+    "reading": "おりる",
+    "meaning_en": "to descend (e.g. a mountain), to go down, to come down; to alight (e.g. from bus), to get off, to disembark, to dismount",
+    "meaning_id": "turun; turun (misalnya gunung)"
+  },
+  {
+    "kanji": "終わる",
+    "reading": "おわる",
+    "meaning_en": "to end, to come to an end, to finish, to close, to be over; to finish, to complete, to conclude",
+    "meaning_id": "akhir, tamat, selesai, habis; menyelesaikan"
+  },
+  {
+    "kanji": "音楽",
+    "reading": "おんがく",
+    "meaning_en": "music",
+    "meaning_id": "musik"
+  },
+  {
+    "kanji": "女",
+    "reading": "おんな",
+    "meaning_en": "woman, female; female lover, girlfriend, mistress, (someone's) woman",
+    "meaning_id": "perempuan, wanita"
+  },
+  {
+    "kanji": "女の子",
+    "reading": "おんなのこ",
+    "meaning_en": "girl, daughter, baby girl; young woman",
+    "meaning_id": "anak perempuan; gadis"
+  },
+  {
+    "kanji": "外国",
+    "reading": "がいこく",
+    "meaning_en": "foreign country",
+    "meaning_id": "luar negeri; asing"
+  },
+  {
+    "kanji": "外国人",
+    "reading": "がいこくじん",
+    "meaning_en": "foreigner, foreign citizen, foreign national, alien, non-Japanese",
+    "meaning_id": "orang asing"
+  },
+  {
+    "kanji": "会社",
+    "reading": "かいしゃ",
+    "meaning_en": "company, corporation, firm; one's workplace",
+    "meaning_id": "perusahaan, firma, syarikat; kantor"
+  },
+  {
+    "kanji": "階段",
+    "reading": "かいだん",
+    "meaning_en": "stairs, stairway, staircase",
+    "meaning_id": "tangga"
+  },
+  {
+    "kanji": "買い物",
+    "reading": "かいもの",
+    "meaning_en": "shopping, purchased goods",
+    "meaning_id": "belanja; barang belanjaan"
+  },
+  {
+    "kanji": "買う",
+    "reading": "かう",
+    "meaning_en": "to buy, to purchase; to value (highly), to think highly of, to have a high opinion of, to appreciate, to recognize",
+    "meaning_id": "beli; membeli"
+  },
+  {
+    "kanji": "返す",
+    "reading": "かえす",
+    "meaning_en": "to return (something), to restore, to put back; to turn over, to turn upside down, to overturn",
+    "meaning_id": "untuk mengembalikan; mengembalikan (sesuatu)"
+  },
+  {
+    "kanji": "帰る",
+    "reading": "かえる",
+    "meaning_en": "to return, to come home, to go home, to go back; to leave (of a guest, customer, etc.)",
+    "meaning_id": "balik, membalik, pulang; kembali"
+  },
+  {
+    "kanji": "書く",
+    "reading": "かく",
+    "meaning_en": "to write, to compose, to pen; to draw, to paint",
+    "meaning_id": "menulis; penulisan, kepenulisan"
+  },
+  {
+    "kanji": "学生",
+    "reading": "がくせい",
+    "meaning_en": "student (esp. a university student)",
+    "meaning_id": "murid, pelajar, siswa, siswi; mahasiswa, mahasiswi"
+  },
+  {
+    "kanji": "傘",
+    "reading": "かさ",
+    "meaning_en": "umbrella, parasol; something shaped like an umbrella or a conical hat, shade (of a lamp), mushroom cap, pileus",
+    "meaning_id": "payung"
+  },
+  {
+    "kanji": "貸す",
+    "reading": "かす",
+    "meaning_en": "to lend, to loan; to rent out, to hire out",
+    "meaning_id": "mengembalikan; meminjamkan"
+  },
+  {
+    "kanji": "風",
+    "reading": "かぜ",
+    "meaning_en": "wind, breeze, draught, draft; manner, behaviour, behavior",
+    "meaning_id": "angin"
+  },
+  {
+    "kanji": "風邪",
+    "reading": "かぜ",
+    "meaning_en": "(common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)",
+    "meaning_id": "pilek; flu"
+  },
+  {
+    "kanji": "家族",
+    "reading": "かぞく",
+    "meaning_en": "family",
+    "meaning_id": "keluarga, famili"
+  },
+  {
+    "kanji": "方",
+    "reading": "かた",
+    "meaning_en": "direction, way; person, lady, gentleman",
+    "meaning_id": "jalan; orang"
+  },
+  {
+    "kanji": "学校",
+    "reading": "がっこう",
+    "meaning_en": "school",
+    "meaning_id": "sekolah; sekolahan"
+  },
+  {
+    "kanji": "",
+    "reading": "カップ",
+    "meaning_en": "cup (drinking vessel, measure, brassiere, prize, etc.)",
+    "meaning_id": "cangkir"
+  },
+  {
+    "kanji": "家庭",
+    "reading": "かてい",
+    "meaning_en": "home, household, family, hearth",
+    "meaning_id": "keluarga, famili; kerabat"
+  },
+  {
+    "kanji": "角",
+    "reading": "かど",
+    "meaning_en": "corner, edge; (street) corner, turning",
+    "meaning_id": "sudu; tikungan"
+  },
+  {
+    "kanji": "花瓶",
+    "reading": "かびん",
+    "meaning_en": "(flower) vase",
+    "meaning_id": "vas; vas bunga"
+  },
+  {
+    "kanji": "紙",
+    "reading": "かみ",
+    "meaning_en": "paper",
+    "meaning_id": "kertas"
+  },
+  {
+    "kanji": "",
+    "reading": "カメラ",
+    "meaning_en": "camera",
+    "meaning_id": "kamera, tustel; kamera video"
+  },
+  {
+    "kanji": "火曜日",
+    "reading": "かようび",
+    "meaning_en": "Tuesday",
+    "meaning_id": "hari selasa"
+  }
+]

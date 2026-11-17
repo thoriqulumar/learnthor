@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "星",
+    "hiragana": "ほし",
+    "meaning": "bintang"
+  },
+  {
+    "kanji": "晴れる",
+    "hiragana": "はれる",
+    "meaning": "cerah"
+  },
+  {
+    "kanji": "製品",
+    "hiragana": "せいひん",
+    "meaning": "produk"
+  },
+  {
+    "kanji": "日本製",
+    "hiragana": "にほんせい",
+    "meaning": "buatan jepang"
+  },
+  {
+    "kanji": "静かな",
+    "hiragana": "しずかな",
+    "meaning": "tenang, sunyi"
+  },
+  {
+    "kanji": "整理",
+    "hiragana": "せいり",
+    "meaning": "merapikan"
+  },
+  {
+    "kanji": "調整",
+    "hiragana": "ちょうせい",
+    "meaning": "penyesuaian"
+  },
+  {
+    "kanji": "税金",
+    "hiragana": "ぜいきん",
+    "meaning": "pajak"
+  },
+  {
+    "kanji": "消費税",
+    "hiragana": "しょうひぜい",
+    "meaning": "pajak konsumsi"
+  },
+  {
+    "kanji": "性格",
+    "hiragana": "せいかく",
+    "meaning": "kepribadian, sifat"
+  },
+  {
+    "kanji": "性質",
+    "hiragana": "せいしつ",
+    "meaning": "sifat (dari benda)"
+  },
+  {
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "meaning": "pria"
+  },
+  {
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "meaning": "wanita"
+  },
+  {
+    "kanji": "反省",
+    "hiragana": "はんせい",
+    "meaning": "refleksi diri\n\nintrospeksi diri"
+  },
+  {
+    "kanji": "省略する",
+    "hiragana": "しょうりゃくする",
+    "meaning": "menyingkat"
+  },
+  {
+    "kanji": "省く",
+    "hiragana": "はぶく",
+    "meaning": "mengurangi, menghilangkan"
+  },
+  {
+    "kanji": "石炭",
+    "hiragana": "せきたん",
+    "meaning": "batubara"
+  },
+  {
+    "kanji": "石油",
+    "hiragana": "せきゆ",
+    "meaning": "minyak bumi"
+  },
+  {
+    "kanji": "宝石",
+    "hiragana": "ほうせき",
+    "meaning": "permata"
+  },
+  {
+    "kanji": "磁石",
+    "hiragana": "じしゃく",
+    "meaning": "magnet"
+  },
+  {
+    "kanji": "石けん",
+    "hiragana": "せっけん",
+    "meaning": "sabun"
+  },
+  {
+    "kanji": "石",
+    "hiragana": "いし",
+    "meaning": "batu"
+  },
+  {
+    "kanji": "座席",
+    "hiragana": "ざせき",
+    "meaning": "tempat duduk"
+  },
+  {
+    "kanji": "指定席",
+    "hiragana": "していせき",
+    "meaning": "reserved seat"
+  },
+  {
+    "kanji": "席",
+    "hiragana": "せき",
+    "meaning": "tempat duduk"
+  },
+  {
+    "kanji": "昔",
+    "hiragana": "むかし",
+    "meaning": "dulu"
+  },
+  {
+    "kanji": "折る",
+    "hiragana": "おる",
+    "meaning": "mematahkan, melipat"
+  },
+  {
+    "kanji": "折れる",
+    "hiragana": "おれる",
+    "meaning": "patah, terlipat"
+  },
+  {
+    "kanji": "面接",
+    "hiragana": "めんせつ",
+    "meaning": "wawancara"
+  },
+  {
+    "kanji": "直接",
+    "hiragana": "ちょくせつ",
+    "meaning": "langsung"
+  },
+  {
+    "kanji": "大雪",
+    "hiragana": "おおゆき",
+    "meaning": "salju lebat"
+  },
+  {
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "meaning": "salju"
+  },
+  {
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "meaning": "musim"
+  },
+  {
+    "kanji": "専攻する",
+    "hiragana": "せんこうする",
+    "meaning": "mengambil jurusan"
+  },
+  {
+    "kanji": "専門",
+    "hiragana": "せんもん",
+    "meaning": "keahlian"
+  },
+  {
+    "kanji": "専門家",
+    "hiragana": "せんもんか",
+    "meaning": "ahli"
+  },
+  {
+    "kanji": "船",
+    "hiragana": "ふね",
+    "meaning": "kapal laut"
+  },
+  {
+    "kanji": "戦う",
+    "hiragana": "たたかう",
+    "meaning": "bertarung"
+  },
+  {
+    "kanji": "戦争",
+    "hiragana": "せんそう",
+    "meaning": "perang"
+  },
+  {
+    "kanji": "線路",
+    "hiragana": "せんろ",
+    "meaning": "rel kereta"
+  },
+  {
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "meaning": "shinkansen"
+  },
+  {
+    "kanji": "直線",
+    "hiragana": "ちょくせん",
+    "meaning": "garis lurus"
+  },
+  {
+    "kanji": "下線",
+    "hiragana": "かせん",
+    "meaning": "garis bawah"
+  },
+  {
+    "kanji": "線",
+    "hiragana": "せん",
+    "meaning": "garis"
+  },
+  {
+    "kanji": "選挙",
+    "hiragana": "せんきょ",
+    "meaning": "pemilu"
+  },
+  {
+    "kanji": "選手",
+    "hiragana": "せんしゅ",
+    "meaning": "atlet"
+  },
+  {
+    "kanji": "選ぶ",
+    "hiragana": "えらぶ",
+    "meaning": "memilih"
+  },
+  {
+    "kanji": "全く",
+    "hiragana": "まったく",
+    "meaning": "(tidak) sama sekali"
+  },
+  {
+    "kanji": "全て",
+    "hiragana": "すべて",
+    "meaning": "semua"
+  },
+  {
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "meaning": "semua"
+  },
+  {
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "meaning": "alam, alami"
+  },
+  {
+    "kanji": "当然",
+    "hiragana": "とうぜん",
+    "meaning": "tentu saja, sudah jelas"
+  },
+  {
+    "kanji": "浅い",
+    "hiragana": "あさい",
+    "meaning": "dangkal"
+  },
+  {
+    "kanji": "組",
+    "hiragana": "くみ",
+    "meaning": "kelompok"
+  },
+  {
+    "kanji": "組む",
+    "hiragana": "くむ",
+    "meaning": "merakit, menggabungkan"
+  },
+  {
+    "kanji": "争う",
+    "hiragana": "あらそう",
+    "meaning": "bertarung, bersaing bertempur"
+  },
+  {
+    "kanji": "競争",
+    "hiragana": "きょうそう",
+    "meaning": "kompetisi, perlombaan"
+  },
+  {
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "meaning": "lawan/partner"
+  },
+  {
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "meaning": "konsultasi"
+  },
+  {
+    "kanji": "草",
+    "hiragana": "くさ",
+    "meaning": "rumput"
+  }
+]

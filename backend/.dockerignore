@@ -1,0 +1,27 @@
+# Build artifacts and local state — keep the build context lean.
+*.exe
+*.exe~
+*.dll
+*.so
+*.dyd
+*.test
+*.out
+
+# Local environment (secrets — never bake into an image)
+.env
+.env.*
+!.env.example
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Go workspace files (not used in container build)
+go.work
+go.work.sum

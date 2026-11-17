@@ -1,0 +1,87 @@
+# Learnthor — single-host Docker Compose stack
+#
+# Services:
+#   db        PostgreSQL 16 (data persists in a named volume)
+#   backend   Go API server (internal only, not exposed to the host)
+#   frontend  nginx serving the Vite build + proxying /api → backend:8080
+#   seed      one-shot: runs the seeder then exits (use: docker compose run --rm seed)
+#
+# Quick start:
+#   1. cp .env.docker.example .env.docker  &&  edit secrets
+#   2. docker compose up -d --build
+#   3. docker compose run --rm seed           # safe first-time seed or content update
+#   4. open http://<vps-ip>/
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-learnthor}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+      POSTGRES_DB: ${POSTGRES_DB:-learnthor}
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-learnthor} -d ${POSTGRES_DB:-learnthor}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    # Not exposed to the host — only the backend container reaches it via
+    # the compose network's DNS name "db".
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env.docker
+    # Internal only. The frontend container proxies /api here.
+    # If you need direct access for debugging, uncomment the port map:
+    # ports:
+    #   - "8080:8080"
+    networks:
+      - default
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "80:80"
+    networks:
+      - default
+
+  # One-shot seeder. Run manually:
+  #   docker compose run --rm seed             # idempotent upsert
+  #   docker compose run --rm seed --reset --confirm-reset # explicitly delete curriculum + progress
+  seed:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    entrypoint: ["/app/learnthor-seed"]
+    command: []
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env.docker
+    profiles:
+      - seed   # not started by `docker compose up`; only by `run --rm seed`
+    networks:
+      - default
+
+volumes:
+  pgdata:
+    driver: local
+
+networks:
+  default:
+    driver: bridge

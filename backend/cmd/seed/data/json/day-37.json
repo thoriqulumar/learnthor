@@ -1,0 +1,266 @@
+[
+  {
+    "intransitive": {
+      "kanji": "入る",
+      "hiragana": "はいる",
+      "meaning": "masuk"
+    },
+    "transitive": {
+      "kanji": "入れる",
+      "hiragana": "いれる",
+      "meaning": "memasukkan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "出る",
+      "hiragana": "でる",
+      "meaning": "keluar"
+    },
+    "transitive": {
+      "kanji": "出す",
+      "hiragana": "だす",
+      "meaning": "mengeluarkan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "始まる",
+      "hiragana": "はじまる",
+      "meaning": "mulai"
+    },
+    "transitive": {
+      "kanji": "始める",
+      "hiragana": "はじめる",
+      "meaning": "memulai"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "動く",
+      "hiragana": "うごく",
+      "meaning": "bergerak"
+    },
+    "transitive": {
+      "kanji": "動かす",
+      "hiragana": "うごかす",
+      "meaning": "menggerakkan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "止まる",
+      "hiragana": "とまる",
+      "meaning": "berhenti"
+    },
+    "transitive": {
+      "kanji": "止める",
+      "hiragana": "とめる",
+      "meaning": "menghentikan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "付く",
+      "hiragana": "つく",
+      "meaning": "tertempel"
+    },
+    "transitive": {
+      "kanji": "付ける",
+      "hiragana": "つける",
+      "meaning": "menempelkan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "点く",
+      "hiragana": "つく",
+      "meaning": "menyala"
+    },
+    "transitive": {
+      "kanji": "点ける",
+      "hiragana": "つける",
+      "meaning": "menyalakan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "決まる",
+      "hiragana": "きまる",
+      "meaning": "ditentukan"
+    },
+    "transitive": {
+      "kanji": "決める",
+      "hiragana": "きめる",
+      "meaning": "menentukan"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "亡くす",
+      "hiragana": "なくす",
+      "meaning": "kehilangan karena meninggal"
+    },
+    "intransitive": {
+      "kanji": "亡くなる",
+      "hiragana": "なくなる",
+      "meaning": "meninggal"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "無くす",
+      "hiragana": "なくす",
+      "meaning": "menghilangkan"
+    },
+    "intransitive": {
+      "kanji": "無くなる",
+      "hiragana": "なくなる",
+      "meaning": "hilang, habis"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "消える",
+      "hiragana": "きえる",
+      "meaning": "menghilang"
+    },
+    "transitive": {
+      "kanji": "消す",
+      "hiragana": "けす",
+      "meaning": "menghapus, mematikan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "見つかる",
+      "hiragana": "みつかる",
+      "meaning": "ketemu"
+    },
+    "transitive": {
+      "kanji": "見つける",
+      "hiragana": "みつける",
+      "meaning": "menemukan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "並ぶ",
+      "hiragana": "ならぶ",
+      "meaning": "berjajar"
+    },
+    "transitive": {
+      "kanji": "並べる",
+      "hiragana": "ならべる",
+      "meaning": "menjajarkan"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "残す",
+      "hiragana": "のこす",
+      "meaning": "menyisakan"
+    },
+    "intransitive": {
+      "kanji": "残る",
+      "hiragana": "のこる",
+      "meaning": "tersisa"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "取る",
+      "hiragana": "とる",
+      "meaning": "mengambil"
+    },
+    "intransitive": {
+      "kanji": "取れる",
+      "hiragana": "とれる",
+      "meaning": "terlepas"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "売る",
+      "hiragana": "うる",
+      "meaning": "menjual"
+    },
+    "intransitive": {
+      "kanji": "売れる",
+      "hiragana": "うれる",
+      "meaning": "terjual"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "届く",
+      "hiragana": "とどく",
+      "meaning": "sampai"
+    },
+    "transitive": {
+      "kanji": "届ける",
+      "hiragana": "とどける",
+      "meaning": "mengantar"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "建てる",
+      "hiragana": "たてる",
+      "meaning": "membangun"
+    },
+    "intransitive": {
+      "kanji": "建つ",
+      "hiragana": "たつ",
+      "meaning": "dibangun"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "捕まえる",
+      "hiragana": "つかまえる",
+      "meaning": "menangkap"
+    },
+    "intransitive": {
+      "kanji": "捕まる",
+      "hiragana": "つかまる",
+      "meaning": "tertangkap"
+    }
+  },
+  {
+    "transitive": {
+      "kanji": "焼く",
+      "hiragana": "やく",
+      "meaning": "memanggang"
+    },
+    "intransitive": {
+      "kanji": "焼ける",
+      "hiragana": "やける",
+      "meaning": "terpanggang"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "片付く",
+      "hiragana": "かたづく",
+      "meaning": "menjadi rapi"
+    },
+    "transitive": {
+      "kanji": "片付ける",
+      "hiragana": "かたづける",
+      "meaning": "merapikan"
+    }
+  },
+  {
+    "intransitive": {
+      "kanji": "降りる",
+      "hiragana": "おりる",
+      "meaning": "turun"
+    },
+    "transitive": {
+      "kanji": "降ろす",
+      "hiragana": "おろす",
+      "meaning": "menurunkan"
+    }
+  }
+]

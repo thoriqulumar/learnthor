@@ -1,0 +1,242 @@
+[
+  {
+    "word": "この間",
+    "reading": "このあいだ",
+    "meaning": "waktu itu, tempo hari"
+  },
+  {
+    "word": "この前",
+    "reading": "このまえ",
+    "meaning": "waktu itu, tempo hari"
+  },
+  {
+    "word": "この頃",
+    "reading": "このごろ",
+    "meaning": "belakangan ini"
+  },
+  {
+    "word": "さっき",
+    "reading": "さっき",
+    "meaning": "tadi"
+  },
+  {
+    "word": "たった今",
+    "reading": "たったいま",
+    "meaning": "baru saja"
+  },
+  {
+    "word": "最近",
+    "reading": "さいきん",
+    "meaning": "akhir-akhir ini"
+  },
+  {
+    "word": "これから",
+    "reading": "これから",
+    "meaning": "mulai sekarang"
+  },
+  {
+    "word": "今回",
+    "reading": "こんかい",
+    "meaning": "kali ini"
+  },
+  {
+    "word": "今度",
+    "reading": "こんど",
+    "meaning": "lain kali, next time"
+  },
+  {
+    "word": "一度",
+    "reading": "いちど",
+    "meaning": "sekali"
+  },
+  {
+    "word": "何度も",
+    "reading": "なんども",
+    "meaning": "berkali-kali"
+  },
+  {
+    "word": "もう一度",
+    "reading": "もういちど",
+    "meaning": "sekali lagi"
+  },
+  {
+    "word": "もうすぐ",
+    "reading": "もうすぐ",
+    "meaning": "sebentar lagi"
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "meaning": "sebentar lagi, segera setelah itu"
+  },
+  {
+    "word": "しばらく",
+    "reading": "しばらく",
+    "meaning": "sementara waktu"
+  },
+  {
+    "word": "そろそろ",
+    "reading": "そろそろ",
+    "meaning": "sebentar lagi, segera"
+  },
+  {
+    "word": "とうとう",
+    "reading": "とうとう",
+    "meaning": "akhirnya (hal negatif)"
+  },
+  {
+    "word": "やっと",
+    "reading": "やっと",
+    "meaning": "akhirnya (hal positif)"
+  },
+  {
+    "word": "なかなか〜ない",
+    "reading": "なかなか〜ない",
+    "meaning": "sulit untuk, tidak kunjung"
+  },
+  {
+    "word": "あまり〜ない",
+    "reading": "あまり〜ない",
+    "meaning": "tidak terlalu"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meaning": "sangat"
+  },
+  {
+    "word": "めっちゃ",
+    "reading": "めっちゃ",
+    "meaning": "sangat"
+  },
+  {
+    "word": "非常に",
+    "reading": "ひじょうに",
+    "meaning": "sangat"
+  },
+  {
+    "word": "本当に",
+    "reading": "ほんとうに",
+    "meaning": "sangat, benar-benar"
+  },
+  {
+    "word": "随分",
+    "reading": "ずいぶん",
+    "meaning": "lumayan"
+  },
+  {
+    "word": "大分",
+    "reading": "だいぶ",
+    "meaning": "lumayan"
+  },
+  {
+    "word": "かなり",
+    "reading": "かなり",
+    "meaning": "lumayan"
+  },
+  {
+    "word": "結構",
+    "reading": "けっこう",
+    "meaning": "lumayan"
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "meaning": "lagi, lebih lagi"
+  },
+  {
+    "word": "たくさん",
+    "reading": "たくさん",
+    "meaning": "banyak"
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "meaning": "sedikit, sebentar"
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meaning": "sedikit"
+  },
+  {
+    "word": "ずっと",
+    "reading": "ずっと",
+    "meaning": "terus-terusan, jauh lebih"
+  },
+  {
+    "word": "最も",
+    "reading": "もっとも",
+    "meaning": "paling"
+  },
+  {
+    "word": "特に",
+    "reading": "とくに",
+    "meaning": "terutama"
+  },
+  {
+    "word": "普通",
+    "reading": "ふつう",
+    "meaning": "biasanya"
+  },
+  {
+    "word": "ほとんど",
+    "reading": "ほとんど",
+    "meaning": "sebagian besar"
+  },
+  {
+    "word": "ほとんど〜ない",
+    "reading": "ほとんど〜ない",
+    "meaning": "hampir tidak ada"
+  },
+  {
+    "word": "大体",
+    "reading": "だいたい",
+    "meaning": "kurang lebih"
+  },
+  {
+    "word": "大抵",
+    "reading": "たいてい",
+    "meaning": "sebagian besar"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meaning": "selalu"
+  },
+  {
+    "word": "たまに",
+    "reading": "たまに",
+    "meaning": "jarang, kadang-kadang"
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "meaning": "jarang, kadang-kadang"
+  },
+  {
+    "word": "こんなに",
+    "reading": "こんなに",
+    "meaning": "seperti ini, segininya"
+  },
+  {
+    "word": "そんなに",
+    "reading": "そんなに",
+    "meaning": "seperti itu, segitunya"
+  },
+  {
+    "word": "あんなに",
+    "reading": "あんなに",
+    "meaning": "seperti itu, segitunya"
+  },
+  {
+    "word": "十分に",
+    "reading": "じゅうぶんに",
+    "meaning": "dengan cukup"
+  },
+  {
+    "word": "多分",
+    "reading": "たぶん",
+    "meaning": "mungkin"
+  }
+]

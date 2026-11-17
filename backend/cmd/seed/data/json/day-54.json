@@ -1,0 +1,327 @@
+[
+  {
+    "kanji": "窓口",
+    "hiragana": "まどぐち",
+    "meaning": "loket"
+  },
+  {
+    "kanji": "窓",
+    "hiragana": "まど",
+    "meaning": "jendela"
+  },
+  {
+    "kanji": "感想",
+    "hiragana": "かんそう",
+    "meaning": "kesan"
+  },
+  {
+    "kanji": "造る",
+    "hiragana": "つくる",
+    "meaning": "membuat"
+  },
+  {
+    "kanji": "増やす",
+    "hiragana": "ふやす",
+    "meaning": "menambah"
+  },
+  {
+    "kanji": "増える",
+    "hiragana": "ふえる",
+    "meaning": "bertambah"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "meaning": "kulkas"
+  },
+  {
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "meaning": "janji"
+  },
+  {
+    "kanji": "息",
+    "hiragana": "いき",
+    "meaning": "nafas"
+  },
+  {
+    "kanji": "速度",
+    "hiragana": "そくど",
+    "meaning": "kecepatan"
+  },
+  {
+    "kanji": "高速道路",
+    "hiragana": "こうそくどうろ",
+    "meaning": "jalan tol"
+  },
+  {
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "meaning": "cepat"
+  },
+  {
+    "kanji": "右側",
+    "hiragana": "みぎがわ",
+    "meaning": "sisi kanan, bagian kanan"
+  },
+  {
+    "kanji": "東側",
+    "hiragana": "ひがしがわ",
+    "meaning": "sisi timur, bagian timur"
+  },
+  {
+    "kanji": "続き",
+    "hiragana": "つづき",
+    "meaning": "kelanjutan"
+  },
+  {
+    "kanji": "続く",
+    "hiragana": "つづく",
+    "meaning": "berlanjut"
+  },
+  {
+    "kanji": "続ける",
+    "hiragana": "つづける",
+    "meaning": "melanjutkan"
+  },
+  {
+    "kanji": "卒業",
+    "hiragana": "そつぎょう",
+    "meaning": "kelulusan"
+  },
+  {
+    "kanji": "子孫",
+    "hiragana": "しそん",
+    "meaning": "keturunan"
+  },
+  {
+    "kanji": "孫",
+    "hiragana": "まご",
+    "meaning": "cucu"
+  },
+  {
+    "kanji": "損",
+    "hiragana": "そん",
+    "meaning": "kerugian"
+  },
+  {
+    "kanji": "得",
+    "hiragana": "とく",
+    "meaning": "keuntungan"
+  },
+  {
+    "kanji": "保存する",
+    "hiragana": "ほぞんする",
+    "meaning": "menyimpan (save)"
+  },
+  {
+    "kanji": "他人",
+    "hiragana": "たにん",
+    "meaning": "orang lain"
+  },
+  {
+    "kanji": "その他",
+    "hiragana": "そのた",
+    "meaning": "yang lain"
+  },
+  {
+    "kanji": "打つ",
+    "hiragana": "うつ",
+    "meaning": "memukul"
+  },
+  {
+    "kanji": "反対",
+    "hiragana": "はんたい",
+    "meaning": "menentang, tidak setuju, berlawanan"
+  },
+  {
+    "kanji": "賛成",
+    "hiragana": "さんせい",
+    "meaning": "setuju"
+  },
+  {
+    "kanji": "地帯",
+    "hiragana": "ちたい",
+    "meaning": "zona, area"
+  },
+  {
+    "kanji": "両替",
+    "hiragana": "りょうがえ",
+    "meaning": "penukaran uang"
+  },
+  {
+    "kanji": "着替える",
+    "hiragana": "きがえる",
+    "meaning": "berganti pakaian"
+  },
+  {
+    "kanji": "第一に",
+    "hiragana": "だいいちに",
+    "meaning": "pertama-tama"
+  },
+  {
+    "kanji": "ごみ袋",
+    "hiragana": "ごみぶくろ",
+    "meaning": "kantong sampah"
+  },
+  {
+    "kanji": "手袋",
+    "hiragana": "てぶくろ",
+    "meaning": "sarung tangan"
+  },
+  {
+    "kanji": "自宅",
+    "hiragana": "じたく",
+    "meaning": "rumah sendiri"
+  },
+  {
+    "kanji": "帰宅",
+    "hiragana": "きたく",
+    "meaning": "pulang ke rumah"
+  },
+  {
+    "kanji": "配達",
+    "hiragana": "はいたつ",
+    "meaning": "pengiriman barang"
+  },
+  {
+    "kanji": "簡単な",
+    "hiragana": "かんたんな",
+    "meaning": "mudah, gampang"
+  },
+  {
+    "kanji": "団体",
+    "hiragana": "だんたい",
+    "meaning": "kelompok, grup"
+  },
+  {
+    "kanji": "個人",
+    "hiragana": "こじん",
+    "meaning": "individu"
+  },
+  {
+    "kanji": "段階",
+    "hiragana": "だんかい",
+    "meaning": "tahap"
+  },
+  {
+    "kanji": "普段",
+    "hiragana": "ふだん",
+    "meaning": "biasanya"
+  },
+  {
+    "kanji": "手段",
+    "hiragana": "しゅだん",
+    "meaning": "cara"
+  },
+  {
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "meaning": "tangga"
+  },
+  {
+    "kanji": "横断する",
+    "hiragana": "おうだん",
+    "meaning": "menyeberang"
+  },
+  {
+    "kanji": "断る",
+    "hiragana": "ことわる",
+    "meaning": "menolak"
+  },
+  {
+    "kanji": "暖かな",
+    "hiragana": "あたたかな",
+    "meaning": "hangat"
+  },
+  {
+    "kanji": "暖める",
+    "hiragana": "あたためる",
+    "meaning": "menghangatkan"
+  },
+  {
+    "kanji": "暖房",
+    "hiragana": "だんぼう",
+    "meaning": "pemanas ruangan (AC)"
+  },
+  {
+    "kanji": "暖かい",
+    "hiragana": "あたたかい",
+    "meaning": "hangat"
+  },
+  {
+    "kanji": "冗談",
+    "hiragana": "じょうだん",
+    "meaning": "candaan, bercanda"
+  },
+  {
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "meaning": "konsultasi"
+  },
+  {
+    "kanji": "遅刻",
+    "hiragana": "ちこく",
+    "meaning": "terlambat"
+  },
+  {
+    "kanji": "遅れる",
+    "hiragana": "おくれる",
+    "meaning": "terlambat"
+  },
+  {
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "meaning": "lambat"
+  },
+  {
+    "kanji": "位置",
+    "hiragana": "いち",
+    "meaning": "posisi, lokasi"
+  },
+  {
+    "kanji": "置く",
+    "hiragana": "おく",
+    "meaning": "menaruh, meletakkan"
+  },
+  {
+    "kanji": "虫",
+    "hiragana": "むし",
+    "meaning": "serangga"
+  },
+  {
+    "kanji": "電柱",
+    "hiragana": "でんちゅう",
+    "meaning": "tiang listrik"
+  },
+  {
+    "kanji": "駐車",
+    "hiragana": "ちゅうしゃ",
+    "meaning": "parkir"
+  },
+  {
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "meaning": "kondisi (manusia, mesin)\n\n・調子が良い（ちょうしがいい）- kondisi badan bagus (manusia), bekerja dengan baik/lancar (mesin)"
+  },
+  {
+    "kanji": "調査",
+    "hiragana": "ちょうさ",
+    "meaning": "penyelidikan"
+  },
+  {
+    "kanji": "調整",
+    "hiragana": "ちょうせい",
+    "meaning": "penyesuaian"
+  },
+  {
+    "kanji": "強調する",
+    "hiragana": "きょうちょう",
+    "meaning": "menekankan"
+  },
+  {
+    "kanji": "調べる",
+    "hiragana": "しらべる",
+    "meaning": "mencari tahu, menyelidiki"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "masu_form": "叩きます",
+    "jisho_kei": "叩く",
+    "hiragana": "たたく",
+    "meaning": "menampar, menepuk"
+  },
+  {
+    "masu_form": "畳みます",
+    "jisho_kei": "畳む",
+    "hiragana": "たたむ",
+    "meaning": "melipat"
+  },
+  {
+    "masu_form": "立ち上がります",
+    "jisho_kei": "立ち上がる",
+    "hiragana": "たちあがる",
+    "meaning": "berdiri"
+  },
+  {
+    "masu_form": "立ち止まります",
+    "jisho_kei": "立ち止まる",
+    "hiragana": "たちどまる",
+    "meaning": "berhenti (dari jalan)"
+  },
+  {
+    "masu_form": "楽しみます",
+    "jisho_kei": "楽しむ",
+    "hiragana": "たのしむ",
+    "meaning": "menikmati"
+  },
+  {
+    "masu_form": "黙ります",
+    "jisho_kei": "黙る",
+    "hiragana": "だまる",
+    "meaning": "diam"
+  },
+  {
+    "masu_form": "貯めます",
+    "jisho_kei": "貯める",
+    "hiragana": "ためる",
+    "meaning": "menabung, mengumpulkan"
+  },
+  {
+    "masu_form": "足ります",
+    "jisho_kei": "足りる",
+    "hiragana": "たりる",
+    "meaning": "cukup"
+  },
+  {
+    "masu_form": "近づきます",
+    "jisho_kei": "近づく",
+    "hiragana": "ちかづく",
+    "meaning": "mendekat"
+  },
+  {
+    "masu_form": "近寄ります",
+    "jisho_kei": "近寄る",
+    "hiragana": "ちかよる",
+    "meaning": "mendekati"
+  },
+  {
+    "masu_form": "散らかります",
+    "jisho_kei": "散らかる",
+    "hiragana": "ちらかる",
+    "meaning": "berantakan, berhamburan"
+  },
+  {
+    "masu_form": "散ります",
+    "jisho_kei": "散る",
+    "hiragana": "ちる",
+    "meaning": "berguguran"
+  },
+  {
+    "masu_form": "通じます",
+    "jisho_kei": "通じる",
+    "hiragana": "つうじる",
+    "meaning": "nyambung (telpon, percakapan)"
+  },
+  {
+    "masu_form": "捕まります",
+    "jisho_kei": "捕まる",
+    "hiragana": "つかまる",
+    "meaning": "tertangkap"
+  },
+  {
+    "masu_form": "つかみます",
+    "jisho_kei": "つかむ",
+    "hiragana": "つかむ",
+    "meaning": "menangkap, menggenggam"
+  },
+  {
+    "masu_form": "付き合います",
+    "jisho_kei": "付き合う",
+    "hiragana": "つきあう",
+    "meaning": "berpacaran"
+  },
+  {
+    "masu_form": "付きます",
+    "jisho_kei": "付く",
+    "hiragana": "つく",
+    "meaning": "menempel"
+  },
+  {
+    "masu_form": "伝わります",
+    "jisho_kei": "伝わる",
+    "hiragana": "つたわる",
+    "meaning": "tersampaikan"
+  },
+  {
+    "masu_form": "潰れます",
+    "jisho_kei": "潰れる",
+    "hiragana": "つぶれる",
+    "meaning": "hancur"
+  },
+  {
+    "masu_form": "積みます",
+    "jisho_kei": "積む",
+    "hiragana": "つむ",
+    "meaning": "menumpuk (ke atas)"
+  },
+  {
+    "masu_form": "積もります",
+    "jisho_kei": "積もる",
+    "hiragana": "つもる",
+    "meaning": "bertumpukan"
+  },
+  {
+    "masu_form": "詰めます",
+    "jisho_kei": "詰める",
+    "hiragana": "つめる",
+    "meaning": "memasukkan sesuatu (biasanya sampai penuh)"
+  },
+  {
+    "masu_form": "出会います",
+    "jisho_kei": "出会う",
+    "hiragana": "であう",
+    "meaning": "bertemu (pertama kali)"
+  },
+  {
+    "masu_form": "出来上がります",
+    "jisho_kei": "出来上がる",
+    "hiragana": "できあがる",
+    "meaning": "jadi (masakan, tugas, dll)"
+  },
+  {
+    "masu_form": "照ります",
+    "jisho_kei": "照る",
+    "hiragana": "てる",
+    "meaning": "bersinar"
+  },
+  {
+    "masu_form": "溶きます",
+    "jisho_kei": "溶く",
+    "hiragana": "とく",
+    "meaning": "melelehkan, mencairkan"
+  },
+  {
+    "masu_form": "溶けます",
+    "jisho_kei": "溶ける",
+    "hiragana": "とける",
+    "meaning": "meleleh, mencair"
+  },
+  {
+    "masu_form": "どきます",
+    "jisho_kei": "どく",
+    "hiragana": "どく",
+    "meaning": "minggir"
+  },
+  {
+    "masu_form": "どけます",
+    "jisho_kei": "どける",
+    "hiragana": "どける",
+    "meaning": "meminggirkan"
+  },
+  {
+    "masu_form": "閉じます",
+    "jisho_kei": "閉じる",
+    "hiragana": "とじる",
+    "meaning": "menutup"
+  },
+  {
+    "masu_form": "飛び込みます",
+    "jisho_kei": "飛び込む",
+    "hiragana": "とびこむ",
+    "meaning": "lompat masuk (biasanya kolam berenang)"
+  },
+  {
+    "masu_form": "飛び出します",
+    "jisho_kei": "飛び出す",
+    "hiragana": "とびだす",
+    "meaning": "lompat keluar (dari suatu tempat)"
+  },
+  {
+    "masu_form": "取り上げます",
+    "jisho_kei": "取り上げる",
+    "hiragana": "とりあげる",
+    "meaning": "mengangkat"
+  },
+  {
+    "masu_form": "取り消します",
+    "jisho_kei": "取り消す",
+    "hiragana": "とりけす",
+    "meaning": "meng-cancel"
+  },
+  {
+    "masu_form": "取り出します",
+    "jisho_kei": "取り出す",
+    "hiragana": "とりだす",
+    "meaning": "mengeluarkan dari dalam"
+  },
+  {
+    "masu_form": "捕ります",
+    "jisho_kei": "捕る",
+    "hiragana": "とる",
+    "meaning": "menangkap"
+  },
+  {
+    "masu_form": "取れます",
+    "jisho_kei": "取れる",
+    "hiragana": "とれる",
+    "meaning": "lepas"
+  },
+  {
+    "masu_form": "流れます",
+    "jisho_kei": "流れる",
+    "hiragana": "ながれる",
+    "meaning": "mengalir"
+  },
+  {
+    "masu_form": "殴ります",
+    "jisho_kei": "殴る",
+    "hiragana": "なぐる",
+    "meaning": "memukul (dengan genggaman)"
+  },
+  {
+    "masu_form": "悩みます",
+    "jisho_kei": "悩む",
+    "hiragana": "なやむ",
+    "meaning": "bingung harus melakukan apa"
+  },
+  {
+    "masu_form": "似合います",
+    "jisho_kei": "似合う",
+    "hiragana": "にあう",
+    "meaning": "cocok (biasanya fashion)"
+  },
+  {
+    "masu_form": "握ります",
+    "jisho_kei": "握る",
+    "hiragana": "にぎる",
+    "meaning": "menggenggam"
+  },
+  {
+    "masu_form": "煮ます",
+    "jisho_kei": "煮る",
+    "hiragana": "にる",
+    "meaning": "merebus dengan waktu lama dan ada rasanya"
+  },
+  {
+    "masu_form": "縫います",
+    "jisho_kei": "縫う",
+    "hiragana": "ぬう",
+    "meaning": "menjahit"
+  },
+  {
+    "masu_form": "抜きます",
+    "jisho_kei": "抜く",
+    "hiragana": "ぬく",
+    "meaning": "mencabut"
+  },
+  {
+    "masu_form": "願います",
+    "jisho_kei": "願う",
+    "hiragana": "ねがう",
+    "meaning": "memohon, berharap"
+  },
+  {
+    "masu_form": "残します",
+    "jisho_kei": "残す",
+    "hiragana": "のこす",
+    "meaning": "menyisakan"
+  },
+  {
+    "masu_form": "載せます",
+    "jisho_kei": "載せる",
+    "hiragana": "のせる",
+    "meaning": "menaikkan barang"
+  },
+  {
+    "masu_form": "伸びます",
+    "jisho_kei": "伸びる",
+    "hiragana": "のびる",
+    "meaning": "tumbuh, menjadi tinggi, menjadi panjang"
+  },
+  {
+    "masu_form": "延びます",
+    "jisho_kei": "延びる",
+    "hiragana": "のびる",
+    "meaning": "memanjang (waktu), menjadi lebih lama"
+  },
+  {
+    "masu_form": "昇ります",
+    "jisho_kei": "昇る",
+    "hiragana": "のぼる",
+    "meaning": "naik, terbit (matahari)"
+  },
+  {
+    "masu_form": "生えます",
+    "jisho_kei": "生える",
+    "hiragana": "はえる",
+    "meaning": "tumbuh (gigi, rumput, rambut)"
+  },
+  {
+    "masu_form": "測ります／量ります／計ります",
+    "jisho_kei": "測る／量る／計る",
+    "hiragana": "はかる",
+    "meaning": "mengukur"
+  },
+  {
+    "masu_form": "掃きます",
+    "jisho_kei": "掃く",
+    "hiragana": "はく",
+    "meaning": "menyapu"
+  },
+  {
+    "masu_form": "吐きます",
+    "jisho_kei": "吐く",
+    "hiragana": "はく",
+    "meaning": "muntah"
+  },
+  {
+    "masu_form": "挟みます",
+    "jisho_kei": "挟む",
+    "hiragana": "はさむ",
+    "meaning": "menjepit, menghempit"
+  },
+  {
+    "masu_form": "外します",
+    "jisho_kei": "外す",
+    "hiragana": "はずす",
+    "meaning": "melepaskan"
+  },
+  {
+    "masu_form": "外れます",
+    "jisho_kei": "外れる",
+    "hiragana": "はずれる",
+    "meaning": "lepas"
+  },
+  {
+    "masu_form": "話し合います",
+    "jisho_kei": "話し合う",
+    "hiragana": "はなしあう",
+    "meaning": "diskusi"
+  },
+  {
+    "masu_form": "話し掛けます",
+    "jisho_kei": "話し掛ける",
+    "hiragana": "はなしかける",
+    "meaning": "menyapa, mengajak bicara"
+  }
+]

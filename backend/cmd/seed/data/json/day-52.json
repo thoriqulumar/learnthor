@@ -1,0 +1,322 @@
+[
+  {
+    "kanji": "初級",
+    "hiragana": "しょきゅう",
+    "meaning": "tingkat dasar"
+  },
+  {
+    "kanji": "初旬",
+    "hiragana": "しょじゅん",
+    "meaning": "awal bulan"
+  },
+  {
+    "kanji": "初め",
+    "hiragana": "はじめ",
+    "meaning": "permulaan"
+  },
+  {
+    "kanji": "初めて",
+    "hiragana": "はじめて",
+    "meaning": "pertama kali"
+  },
+  {
+    "kanji": "助ける",
+    "hiragana": "たすける",
+    "meaning": "menolong"
+  },
+  {
+    "kanji": "助かる",
+    "hiragana": "たすかる",
+    "meaning": "tertolong"
+  },
+  {
+    "kanji": "取り消す",
+    "hiragana": "とりけす",
+    "meaning": "membatalkan"
+  },
+  {
+    "kanji": "消費",
+    "hiragana": "しょうひ",
+    "meaning": "konsumsi"
+  },
+  {
+    "kanji": "生産",
+    "hiragana": "せいさん",
+    "meaning": "produksi"
+  },
+  {
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "meaning": "menghilang"
+  },
+  {
+    "kanji": "消す",
+    "hiragana": "けす",
+    "meaning": "memadamkan, menghapus"
+  },
+  {
+    "kanji": "笑顔",
+    "hiragana": "えがお",
+    "meaning": "senyum"
+  },
+  {
+    "kanji": "微笑む",
+    "hiragana": "ほほえむ",
+    "meaning": "tersenyum"
+  },
+  {
+    "kanji": "笑う",
+    "hiragana": "わらう",
+    "meaning": "tertawa"
+  },
+  {
+    "kanji": "商売",
+    "hiragana": "しょうばい",
+    "meaning": "perdagangan"
+  },
+  {
+    "kanji": "商品",
+    "hiragana": "しょうひん",
+    "meaning": "barang dagangan"
+  },
+  {
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "meaning": "menang"
+  },
+  {
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "meaning": "memanggang, membakar"
+  },
+  {
+    "kanji": "焼ける",
+    "hiragana": "やける",
+    "meaning": "terpanggang, terbakar"
+  },
+  {
+    "kanji": "賞",
+    "hiragana": "しょう",
+    "meaning": "hadiah"
+  },
+  {
+    "kanji": "賞品",
+    "hiragana": "しょうひん",
+    "meaning": "barang hadiah"
+  },
+  {
+    "kanji": "日常",
+    "hiragana": "にちじょう",
+    "meaning": "sehari-hari"
+  },
+  {
+    "kanji": "常識",
+    "hiragana": "じょうしき",
+    "meaning": "pengetahuan umum"
+  },
+  {
+    "kanji": "常に",
+    "hiragana": "つねに",
+    "meaning": "selalu"
+  },
+  {
+    "kanji": "非常",
+    "hiragana": "ひじょう",
+    "meaning": "darurat"
+  },
+  {
+    "kanji": "情報",
+    "hiragana": "じょうほう",
+    "meaning": "informasi"
+  },
+  {
+    "kanji": "表情",
+    "hiragana": "ひょうじょう",
+    "meaning": "ekspresi"
+  },
+  {
+    "kanji": "感情",
+    "hiragana": "かんじょう",
+    "meaning": "perasaan"
+  },
+  {
+    "kanji": "召し上がる",
+    "hiragana": "めしあがる",
+    "meaning": "makan (sonkeigo)"
+  },
+  {
+    "kanji": "植物",
+    "hiragana": "しょくぶつ",
+    "meaning": "tanaman, tumbuhan"
+  },
+  {
+    "kanji": "田植え",
+    "hiragana": "たうえ",
+    "meaning": "menanam padi"
+  },
+  {
+    "kanji": "職業",
+    "hiragana": "しょくぎょう",
+    "meaning": "pekerjaan"
+  },
+  {
+    "kanji": "就職する",
+    "hiragana": "しゅうしょくする",
+    "meaning": "mendapat pekerjaan"
+  },
+  {
+    "kanji": "申請する",
+    "hiragana": "しんせいする",
+    "meaning": "mengajukan permohonan, apply"
+  },
+  {
+    "kanji": "申し込む",
+    "hiragana": "もうしこむ",
+    "meaning": "mendaftar"
+  },
+  {
+    "kanji": "身長",
+    "hiragana": "しんちょう",
+    "meaning": "tinggi badan"
+  },
+  {
+    "kanji": "中身",
+    "hiragana": "なかみ",
+    "meaning": "isi"
+  },
+  {
+    "kanji": "自信",
+    "hiragana": "じしん",
+    "meaning": "percaya diri"
+  },
+  {
+    "kanji": "通信",
+    "hiragana": "つうしん",
+    "meaning": "komunikasi (elektronik)"
+  },
+  {
+    "kanji": "信じる",
+    "hiragana": "しんじる",
+    "meaning": "mempercayai, percaya"
+  },
+  {
+    "kanji": "神",
+    "hiragana": "かみ",
+    "meaning": "tuhan, dewa"
+  },
+  {
+    "kanji": "深夜",
+    "hiragana": "しんや",
+    "meaning": "tengah malam"
+  },
+  {
+    "kanji": "深まる",
+    "hiragana": "ふかまる",
+    "meaning": "menjadi lebih dalam"
+  },
+  {
+    "kanji": "深い",
+    "hiragana": "ふかい",
+    "meaning": "dalam"
+  },
+  {
+    "kanji": "寝坊",
+    "hiragana": "ねぼう",
+    "meaning": "kesiangan, telat bangun"
+  },
+  {
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "meaning": "tidur"
+  },
+  {
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "meaning": "gempa bumi"
+  },
+  {
+    "kanji": "吹く",
+    "hiragana": "ふく",
+    "meaning": "meniup"
+  },
+  {
+    "kanji": "数字",
+    "hiragana": "すうじ",
+    "meaning": "angka"
+  },
+  {
+    "kanji": "数",
+    "hiragana": "かず",
+    "meaning": "jumlah"
+  },
+  {
+    "kanji": "枚数",
+    "hiragana": "まいすう",
+    "meaning": "jumlah lembar"
+  },
+  {
+    "kanji": "回数",
+    "hiragana": "かいすう",
+    "meaning": "jumlah kali (berapa kali)"
+  },
+  {
+    "kanji": "数える",
+    "hiragana": "かぞえる",
+    "meaning": "menghitung"
+  },
+  {
+    "kanji": "数学",
+    "hiragana": "すうがく",
+    "meaning": "matematika"
+  },
+  {
+    "kanji": "成功",
+    "hiragana": "せいこう",
+    "meaning": "kesuksesan"
+  },
+  {
+    "kanji": "成長",
+    "hiragana": "せいちょう",
+    "meaning": "pertumbuhan"
+  },
+  {
+    "kanji": "成人",
+    "hiragana": "せいじん",
+    "meaning": "dewasa"
+  },
+  {
+    "kanji": "成人式",
+    "hiragana": "せいじんしき",
+    "meaning": "upacara kedewasaan"
+  },
+  {
+    "kanji": "完成",
+    "hiragana": "かんせい",
+    "meaning": "selesai, beres, jadi"
+  },
+  {
+    "kanji": "未完成",
+    "hiragana": "みかんせい",
+    "meaning": "belum selesai"
+  },
+  {
+    "kanji": "成る",
+    "hiragana": "なる",
+    "meaning": "menjadi"
+  },
+  {
+    "kanji": "政治家",
+    "hiragana": "せいじか",
+    "meaning": "politisi"
+  },
+  {
+    "kanji": "政府",
+    "hiragana": "せいふ",
+    "meaning": "pemerintah"
+  },
+  {
+    "kanji": "政治",
+    "hiragana": "せいじ",
+    "meaning": "politik"
+  }
+]

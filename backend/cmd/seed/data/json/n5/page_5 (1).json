@@ -1,0 +1,302 @@
+[
+  {
+    "kanji": "消す",
+    "reading": "けす",
+    "meaning_en": "to erase, to rub out, to rub off, to cross out, to delete; to turn off (a light, TV, heater, etc.), to switch off",
+    "meaning_id": "menghapus; matikan"
+  },
+  {
+    "kanji": "結構",
+    "reading": "けっこう",
+    "meaning_en": "splendid, nice, wonderful, delightful, lovely, excellent, fine; sufficient, satisfactory, enough, fine, all right, OK",
+    "meaning_id": "bagus; enak"
+  },
+  {
+    "kanji": "結婚",
+    "reading": "けっこん",
+    "meaning_en": "marriage; to get married, to marry",
+    "meaning_id": "pernikahan, perkawinan, nikah; menikah"
+  },
+  {
+    "kanji": "月曜日",
+    "reading": "げつようび",
+    "meaning_en": "Monday",
+    "meaning_id": "Senin"
+  },
+  {
+    "kanji": "玄関",
+    "reading": "げんかん",
+    "meaning_en": "entrance, front door, entryway, entranceway, entry hall, vestibule, porch, foyer, mud room",
+    "meaning_id": "teras; jalan masuk"
+  },
+  {
+    "kanji": "元気",
+    "reading": "げんき",
+    "meaning_en": "lively, full of spirit, energetic, vigorous, vital, spirited; healthy, well, fit, in good health",
+    "meaning_id": "fit, sehat, segar bugar; giat"
+  },
+  {
+    "kanji": "五",
+    "reading": "ご",
+    "meaning_en": "five, 5",
+    "meaning_id": "lima"
+  },
+  {
+    "kanji": "公園",
+    "reading": "こうえん",
+    "meaning_en": "(public) park",
+    "meaning_id": "taman; (publik)"
+  },
+  {
+    "kanji": "交差点",
+    "reading": "こうさてん",
+    "meaning_en": "crossing, intersection",
+    "meaning_id": "persimpangan; perempatan"
+  },
+  {
+    "kanji": "紅茶",
+    "reading": "こうちゃ",
+    "meaning_en": "black tea",
+    "meaning_id": "teh hitam; teh merah"
+  },
+  {
+    "kanji": "交番",
+    "reading": "こうばん",
+    "meaning_en": "police box, koban, small neighborhood police station; alternation",
+    "meaning_id": "pos polisi; kantor polisi"
+  },
+  {
+    "kanji": "声",
+    "reading": "こえ",
+    "meaning_en": "voice; singing (of a bird), chirping (of an insect), hoot",
+    "meaning_id": "suara"
+  },
+  {
+    "kanji": "",
+    "reading": "コート",
+    "meaning_en": "coat; coating",
+    "meaning_id": "mantel; lapangan"
+  },
+  {
+    "kanji": "珈琲",
+    "reading": "コーヒー",
+    "meaning_en": "coffee",
+    "meaning_id": "kopi"
+  },
+  {
+    "kanji": "午後",
+    "reading": "ごご",
+    "meaning_en": "afternoon, p.m.",
+    "meaning_id": "sore; siang"
+  },
+  {
+    "kanji": "９日",
+    "reading": "ここのか",
+    "meaning_en": "9th day of the month; nine days",
+    "meaning_id": ""
+  },
+  {
+    "kanji": "九つ",
+    "reading": "ここのつ",
+    "meaning_en": "nine; nine years of age",
+    "meaning_id": "sembilan"
+  },
+  {
+    "kanji": "午前",
+    "reading": "ごぜん",
+    "meaning_en": "morning, a.m.",
+    "meaning_id": "subuh; pagi"
+  },
+  {
+    "kanji": "答える",
+    "reading": "こたえる",
+    "meaning_en": "to answer, to reply",
+    "meaning_id": "menjawab; membalas"
+  },
+  {
+    "kanji": "此方",
+    "reading": "こちら",
+    "meaning_en": "this way, this direction; here",
+    "meaning_id": "jalan ini; sebelah sini"
+  },
+  {
+    "kanji": "洋杯",
+    "reading": "コップ",
+    "meaning_en": "glass (drinking vessel), tumbler; cups (suit)",
+    "meaning_id": "gelas"
+  },
+  {
+    "kanji": "今年",
+    "reading": "ことし",
+    "meaning_en": "this year",
+    "meaning_id": "indonesia; tahun ini"
+  },
+  {
+    "kanji": "言葉",
+    "reading": "ことば",
+    "meaning_en": "language, dialect; word, phrase, expression, term",
+    "meaning_id": "kata; istilah"
+  },
+  {
+    "kanji": "子供",
+    "reading": "こども",
+    "meaning_en": "child, children",
+    "meaning_id": "anak, kanak; (anak) balita"
+  },
+  {
+    "kanji": "ご飯",
+    "reading": "ごはん",
+    "meaning_en": "cooked rice; meal",
+    "meaning_id": "makanan; nasi"
+  },
+  {
+    "kanji": "困る",
+    "reading": "こまる",
+    "meaning_en": "to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed; to be bothered, to be inconvenienced, to be annoyed",
+    "meaning_id": "menjadi gelisah; kesulitan"
+  },
+  {
+    "kanji": "今月",
+    "reading": "こんげつ",
+    "meaning_en": "this month",
+    "meaning_id": "bulan ini"
+  },
+  {
+    "kanji": "今週",
+    "reading": "こんしゅう",
+    "meaning_en": "this week",
+    "meaning_id": "minggu ini"
+  },
+  {
+    "kanji": "",
+    "reading": "こんな",
+    "meaning_en": "this sort of, this kind of, like this, such",
+    "meaning_id": "seperti ini; seperti itu"
+  },
+  {
+    "kanji": "今晩",
+    "reading": "こんばん",
+    "meaning_en": "tonight, this evening",
+    "meaning_id": "nanti malam; malam ini"
+  },
+  {
+    "kanji": "",
+    "reading": "さあ",
+    "meaning_en": "come (on), come now, come along, here; all right, right, okay, now, here goes",
+    "meaning_id": "ayo; Tidak tahu"
+  },
+  {
+    "kanji": "財布",
+    "reading": "さいふ",
+    "meaning_en": "wallet, purse, coin purse, billfold, pocketbook",
+    "meaning_id": "dompet"
+  },
+  {
+    "kanji": "魚",
+    "reading": "さかな",
+    "meaning_en": "fish",
+    "meaning_id": "ikan"
+  },
+  {
+    "kanji": "先",
+    "reading": "さき",
+    "meaning_en": "point, tip, end, nozzle; head (of a line), front",
+    "meaning_id": "ujung; terdahulu"
+  },
+  {
+    "kanji": "咲く",
+    "reading": "さく",
+    "meaning_en": "to bloom, to flower, to blossom, to open; to rise up (of breaking waves)",
+    "meaning_id": "berkembang, mekar; bermekaran"
+  },
+  {
+    "kanji": "作文",
+    "reading": "さくぶん",
+    "meaning_en": "writing (an essay, prose, etc.), composition; formal writing with little real meaning",
+    "meaning_id": "tulisan; karangan"
+  },
+  {
+    "kanji": "差す",
+    "reading": "さす",
+    "meaning_en": "to shine; to be visible",
+    "meaning_id": "menunjuk; terlihat"
+  },
+  {
+    "kanji": "雑誌",
+    "reading": "ざっし",
+    "meaning_en": "magazine, journal, periodical",
+    "meaning_id": "majalah"
+  },
+  {
+    "kanji": "砂糖",
+    "reading": "さとう",
+    "meaning_en": "sugar",
+    "meaning_id": "gula, sakar"
+  },
+  {
+    "kanji": "寒い",
+    "reading": "さむい",
+    "meaning_en": "cold (e.g. weather); uninteresting (esp. joke), lame, dull, weak, corny",
+    "meaning_id": "dingin"
+  },
+  {
+    "kanji": "再来年",
+    "reading": "さらいねん",
+    "meaning_en": "year after next",
+    "meaning_id": "TAHUN DEPAN"
+  },
+  {
+    "kanji": "三",
+    "reading": "さん",
+    "meaning_en": "three, 3",
+    "meaning_id": "tiga"
+  },
+  {
+    "kanji": "塩",
+    "reading": "しお",
+    "meaning_en": "salt, common salt, table salt, sodium chloride; hardship, toil, trouble",
+    "meaning_id": "garam; garam dapur"
+  },
+  {
+    "kanji": "時間",
+    "reading": "じかん",
+    "meaning_en": "time; hour",
+    "meaning_id": "waktu; jam"
+  },
+  {
+    "kanji": "仕事",
+    "reading": "しごと",
+    "meaning_en": "work, job, labor, labour, business, task, assignment, occupation, employment; to work",
+    "meaning_id": "kerjaan, pekerjaan, profesi; kerja"
+  },
+  {
+    "kanji": "辞書",
+    "reading": "じしょ",
+    "meaning_en": "dictionary, lexicon; letter of resignation",
+    "meaning_id": "kamus, bausastra"
+  },
+  {
+    "kanji": "静か",
+    "reading": "しずか",
+    "meaning_en": "quiet, silent; slow, unhurried",
+    "meaning_id": "tenteram; diam"
+  },
+  {
+    "kanji": "下",
+    "reading": "した",
+    "meaning_en": "below, down, under, younger (e.g. daughter); bottom",
+    "meaning_id": "di bawah; muda (mis. anak perempuan)"
+  },
+  {
+    "kanji": "質問",
+    "reading": "しつもん",
+    "meaning_en": "question, inquiry, enquiry; to ask a question",
+    "meaning_id": "pertanyaan, soal; tanya"
+  },
+  {
+    "kanji": "自転車",
+    "reading": "じてんしゃ",
+    "meaning_en": "bicycle, bike",
+    "meaning_id": "sepeda, pis, kereta angin"
+  }
+]

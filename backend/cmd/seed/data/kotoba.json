@@ -1,0 +1,3261 @@
+[
+  {
+    "section": "JLPT N5 Vocabulary (Kotoba)",
+    "sort_order": 7,
+    "modules": [
+      {
+        "title": "People & Pronouns",
+        "sort_order": 1,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "私",
+            "kana": "わたし",
+            "romaji": "watashi",
+            "meaning": "I, me",
+            "pos": "pronoun",
+            "example": "私は学生です。"
+          },
+          {
+            "kanji": "僕",
+            "kana": "ぼく",
+            "romaji": "boku",
+            "meaning": "I, me (masculine)",
+            "pos": "pronoun",
+            "example": "僕は日本人です。"
+          },
+          {
+            "kanji": "あなた",
+            "kana": "あなた",
+            "romaji": "anata",
+            "meaning": "You",
+            "pos": "pronoun",
+            "example": "あなたの名前は？"
+          },
+          {
+            "kanji": "彼",
+            "kana": "かれ",
+            "romaji": "kare",
+            "meaning": "He, him, boyfriend",
+            "pos": "pronoun",
+            "example": "彼は背が高いです。"
+          },
+          {
+            "kanji": "彼女",
+            "kana": "かのじょ",
+            "romaji": "kanojo",
+            "meaning": "She, her, girlfriend",
+            "pos": "pronoun",
+            "example": "彼女はきれいです。"
+          },
+          {
+            "kanji": "人",
+            "kana": "ひと",
+            "romaji": "hito",
+            "meaning": "Person",
+            "pos": "noun",
+            "example": "あの人は誰ですか？"
+          },
+          {
+            "kanji": "友達",
+            "kana": "ともだち",
+            "romaji": "tomodachi",
+            "meaning": "Friend",
+            "pos": "noun",
+            "example": "友達と遊びます。"
+          },
+          {
+            "kanji": "先生",
+            "kana": "せんせい",
+            "romaji": "sensei",
+            "meaning": "Teacher",
+            "pos": "noun",
+            "example": "先生はやさしいです。"
+          },
+          {
+            "kanji": "学生",
+            "kana": "がくせい",
+            "romaji": "gakusei",
+            "meaning": "Student",
+            "pos": "noun",
+            "example": "私は学生です。"
+          },
+          {
+            "kanji": "会社員",
+            "kana": "かいしゃいん",
+            "romaji": "kaishain",
+            "meaning": "Office worker",
+            "pos": "noun",
+            "example": "父は会社員です。"
+          }
+        ]
+      },
+      {
+        "title": "Places & Locations",
+        "sort_order": 2,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "学校",
+            "kana": "がっこう",
+            "romaji": "gakkou",
+            "meaning": "School",
+            "pos": "noun",
+            "example": "学校へ行きます。"
+          },
+          {
+            "kanji": "家",
+            "kana": "いえ",
+            "romaji": "ie",
+            "meaning": "House, home",
+            "pos": "noun",
+            "example": "家に帰ります。"
+          },
+          {
+            "kanji": "駅",
+            "kana": "えき",
+            "romaji": "eki",
+            "meaning": "Train station",
+            "pos": "noun",
+            "example": "駅はどこですか？"
+          },
+          {
+            "kanji": "病院",
+            "kana": "びょういん",
+            "romaji": "byouin",
+            "meaning": "Hospital",
+            "pos": "noun",
+            "example": "病院に行きます。"
+          },
+          {
+            "kanji": "銀行",
+            "kana": "ぎんこう",
+            "romaji": "ginkou",
+            "meaning": "Bank",
+            "pos": "noun",
+            "example": "銀行でお金をおろします。"
+          },
+          {
+            "kanji": "店",
+            "kana": "みせ",
+            "romaji": "mise",
+            "meaning": "Shop, store",
+            "pos": "noun",
+            "example": "あの店はおいしいです。"
+          },
+          {
+            "kanji": "図書館",
+            "kana": "としょかん",
+            "romaji": "toshokan",
+            "meaning": "Library",
+            "pos": "noun",
+            "example": "図書館で本を読みます。"
+          },
+          {
+            "kanji": "公園",
+            "kana": "こうえん",
+            "romaji": "kouen",
+            "meaning": "Park",
+            "pos": "noun",
+            "example": "公園で遊びます。"
+          },
+          {
+            "kanji": "部屋",
+            "kana": "へや",
+            "romaji": "heya",
+            "meaning": "Room",
+            "pos": "noun",
+            "example": "部屋を掃除します。"
+          },
+          {
+            "kanji": "国",
+            "kana": "くに",
+            "romaji": "kuni",
+            "meaning": "Country",
+            "pos": "noun",
+            "example": "あなたの国はどこですか？"
+          }
+        ]
+      },
+      {
+        "title": "Things & Objects",
+        "sort_order": 3,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "本",
+            "kana": "ほん",
+            "romaji": "hon",
+            "meaning": "Book",
+            "pos": "noun",
+            "example": "本を読みます。"
+          },
+          {
+            "kanji": "車",
+            "kana": "くるま",
+            "romaji": "kuruma",
+            "meaning": "Car",
+            "pos": "noun",
+            "example": "車で来ました。"
+          },
+          {
+            "kanji": "電車",
+            "kana": "でんしゃ",
+            "romaji": "densha",
+            "meaning": "Train",
+            "pos": "noun",
+            "example": "電車に乗ります。"
+          },
+          {
+            "kanji": "電話",
+            "kana": "でんわ",
+            "romaji": "denwa",
+            "meaning": "Telephone",
+            "pos": "noun",
+            "example": "電話をかけます。"
+          },
+          {
+            "kanji": "時計",
+            "kana": "とけい",
+            "romaji": "tokei",
+            "meaning": "Clock, watch",
+            "pos": "noun",
+            "example": "時計を見ます。"
+          },
+          {
+            "kanji": "鞄",
+            "kana": "かばん",
+            "romaji": "kaban",
+            "meaning": "Bag",
+            "pos": "noun",
+            "example": "鞄はどこですか？"
+          },
+          {
+            "kanji": "服",
+            "kana": "ふく",
+            "romaji": "fuku",
+            "meaning": "Clothes",
+            "pos": "noun",
+            "example": "服を着ます。"
+          },
+          {
+            "kanji": "お金",
+            "kana": "おかね",
+            "romaji": "okane",
+            "meaning": "Money",
+            "pos": "noun",
+            "example": "お金がありません。"
+          },
+          {
+            "kanji": "写真",
+            "kana": "しゃしん",
+            "romaji": "shashin",
+            "meaning": "Photo, photograph",
+            "pos": "noun",
+            "example": "写真を撮ります。"
+          },
+          {
+            "kanji": "新聞",
+            "kana": "しんぶん",
+            "romaji": "shinbun",
+            "meaning": "Newspaper",
+            "pos": "noun",
+            "example": "新聞を読みます。"
+          }
+        ]
+      },
+      {
+        "title": "Nature & Weather",
+        "sort_order": 4,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "天気",
+            "kana": "てんき",
+            "romaji": "tenki",
+            "meaning": "Weather",
+            "pos": "noun",
+            "example": "今日はいい天気です。"
+          },
+          {
+            "kanji": "雨",
+            "kana": "あめ",
+            "romaji": "ame",
+            "meaning": "Rain",
+            "pos": "noun",
+            "example": "雨が降っています。"
+          },
+          {
+            "kanji": "雪",
+            "kana": "ゆき",
+            "romaji": "yuki",
+            "meaning": "Snow",
+            "pos": "noun",
+            "example": "雪が降りました。"
+          },
+          {
+            "kanji": "風",
+            "kana": "かぜ",
+            "romaji": "kaze",
+            "meaning": "Wind",
+            "pos": "noun",
+            "example": "風が強いです。"
+          },
+          {
+            "kanji": "太陽",
+            "kana": "たいよう",
+            "romaji": "taiyou",
+            "meaning": "Sun",
+            "pos": "noun",
+            "example": "太陽が眩しいです。"
+          },
+          {
+            "kanji": "海",
+            "kana": "うみ",
+            "romaji": "umi",
+            "meaning": "Sea, ocean",
+            "pos": "noun",
+            "example": "海で泳ぎます。"
+          },
+          {
+            "kanji": "空",
+            "kana": "そら",
+            "romaji": "sora",
+            "meaning": "Sky",
+            "pos": "noun",
+            "example": "空が青いです。"
+          },
+          {
+            "kanji": "木",
+            "kana": "き",
+            "romaji": "ki",
+            "meaning": "Tree",
+            "pos": "noun",
+            "example": "木の下で休みます。"
+          },
+          {
+            "kanji": "花",
+            "kana": "はな",
+            "romaji": "hana",
+            "meaning": "Flower",
+            "pos": "noun",
+            "example": "花がきれいです。"
+          },
+          {
+            "kanji": "犬",
+            "kana": "いぬ",
+            "romaji": "inu",
+            "meaning": "Dog",
+            "pos": "noun",
+            "example": "犬が好きです。"
+          },
+          {
+            "kanji": "猫",
+            "kana": "ねこ",
+            "romaji": "neko",
+            "meaning": "Cat",
+            "pos": "noun",
+            "example": "猫が可愛いです。"
+          }
+        ]
+      },
+      {
+        "title": "Adjectives: i-adjectives",
+        "sort_order": 5,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "大きい",
+            "kana": "おおきい",
+            "romaji": "ookii",
+            "meaning": "Big, large",
+            "pos": "i-adj",
+            "example": "大きい犬です。"
+          },
+          {
+            "kanji": "小さい",
+            "kana": "ちいさい",
+            "romaji": "chiisai",
+            "meaning": "Small, little",
+            "pos": "i-adj",
+            "example": "小さい猫です。"
+          },
+          {
+            "kanji": "新しい",
+            "kana": "あたらしい",
+            "romaji": "atarashii",
+            "meaning": "New",
+            "pos": "i-adj",
+            "example": "新しい車を買いました。"
+          },
+          {
+            "kanji": "古い",
+            "kana": "ふるい",
+            "romaji": "furui",
+            "meaning": "Old (things)",
+            "pos": "i-adj",
+            "example": "古い本があります。"
+          },
+          {
+            "kanji": "高い",
+            "kana": "たかい",
+            "romaji": "takai",
+            "meaning": "Expensive, tall",
+            "pos": "i-adj",
+            "example": "あの山は高いです。"
+          },
+          {
+            "kanji": "安い",
+            "kana": "やすい",
+            "romaji": "yasui",
+            "meaning": "Cheap, inexpensive",
+            "pos": "i-adj",
+            "example": "このお店は安いです。"
+          },
+          {
+            "kanji": "良い",
+            "kana": "いい",
+            "romaji": "ii",
+            "meaning": "Good",
+            "pos": "i-adj",
+            "example": "いい天気ですね。"
+          },
+          {
+            "kanji": "悪い",
+            "kana": "わるい",
+            "romaji": "warui",
+            "meaning": "Bad",
+            "pos": "i-adj",
+            "example": "天気が悪いです。"
+          },
+          {
+            "kanji": "暑い",
+            "kana": "あつい",
+            "romaji": "atsui",
+            "meaning": "Hot (weather)",
+            "pos": "i-adj",
+            "example": "今日は暑いです。"
+          },
+          {
+            "kanji": "寒い",
+            "kana": "さむい",
+            "romaji": "samui",
+            "meaning": "Cold (weather)",
+            "pos": "i-adj",
+            "example": "冬は寒いです。"
+          },
+          {
+            "kanji": "楽しい",
+            "kana": "たのしい",
+            "romaji": "tanoshii",
+            "meaning": "Fun, enjoyable",
+            "pos": "i-adj",
+            "example": "旅行は楽しいです。"
+          },
+          {
+            "kanji": "難しい",
+            "kana": "むずかしい",
+            "romaji": "muzukashii",
+            "meaning": "Difficult",
+            "pos": "i-adj",
+            "example": "日本語は難しいです。"
+          }
+        ]
+      },
+      {
+        "title": "Adjectives: na-adjectives",
+        "sort_order": 6,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "綺麗",
+            "kana": "きれい",
+            "romaji": "kirei",
+            "meaning": "Beautiful, clean",
+            "pos": "na-adj",
+            "example": "きれいな花です。"
+          },
+          {
+            "kanji": "静か",
+            "kana": "しずか",
+            "romaji": "shizuka",
+            "meaning": "Quiet",
+            "pos": "na-adj",
+            "example": "静かな部屋です。"
+          },
+          {
+            "kanji": "賑やか",
+            "kana": "にぎやか",
+            "romaji": "nigiyaka",
+            "meaning": "Lively, bustling",
+            "pos": "na-adj",
+            "example": "にぎやかな街です。"
+          },
+          {
+            "kanji": "有名",
+            "kana": "ゆうめい",
+            "romaji": "yuumei",
+            "meaning": "Famous",
+            "pos": "na-adj",
+            "example": "有名な先生です。"
+          },
+          {
+            "kanji": "親切",
+            "kana": "しんせつ",
+            "romaji": "shinsetsu",
+            "meaning": "Kind, helpful",
+            "pos": "na-adj",
+            "example": "親切な人です。"
+          },
+          {
+            "kanji": "元気",
+            "kana": "げんき",
+            "romaji": "genki",
+            "meaning": "Healthy, energetic",
+            "pos": "na-adj",
+            "example": "お元気ですか？"
+          },
+          {
+            "kanji": "大切",
+            "kana": "たいせつ",
+            "romaji": "taisetsu",
+            "meaning": "Important, precious",
+            "pos": "na-adj",
+            "example": "大切な友達です。"
+          },
+          {
+            "kanji": "好き",
+            "kana": "すき",
+            "romaji": "suki",
+            "meaning": "Like, fond of",
+            "pos": "na-adj",
+            "example": "猫が好きです。"
+          },
+          {
+            "kanji": "嫌い",
+            "kana": "きらい",
+            "romaji": "kirai",
+            "meaning": "Dislike",
+            "pos": "na-adj",
+            "example": "虫が嫌いです。"
+          },
+          {
+            "kanji": "便利",
+            "kana": "べんり",
+            "romaji": "benri",
+            "meaning": "Convenient",
+            "pos": "na-adj",
+            "example": "便利なアプリです。"
+          }
+        ]
+      },
+      {
+        "title": "Verbs: Movement & State",
+        "sort_order": 7,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "行く",
+            "kana": "いく",
+            "romaji": "iku",
+            "meaning": "To go",
+            "pos": "verb",
+            "example": "学校へ行きます。"
+          },
+          {
+            "kanji": "来る",
+            "kana": "くる",
+            "romaji": "kuru",
+            "meaning": "To come",
+            "pos": "verb",
+            "example": "友達が来ます。"
+          },
+          {
+            "kanji": "帰る",
+            "kana": "かえる",
+            "romaji": "kaeru",
+            "meaning": "To return home",
+            "pos": "verb",
+            "example": "家に帰ります。"
+          },
+          {
+            "kanji": "乗る",
+            "kana": "のる",
+            "romaji": "noru",
+            "meaning": "To ride, board",
+            "pos": "verb",
+            "example": "電車に乗ります。"
+          },
+          {
+            "kanji": "歩く",
+            "kana": "あるく",
+            "romaji": "aruku",
+            "meaning": "To walk",
+            "pos": "verb",
+            "example": "駅まで歩きます。"
+          },
+          {
+            "kanji": "走る",
+            "kana": "はしる",
+            "romaji": "hashiru",
+            "meaning": "To run",
+            "pos": "verb",
+            "example": "公園で走ります。"
+          },
+          {
+            "kanji": "起きる",
+            "kana": "おきる",
+            "romaji": "okiru",
+            "meaning": "To wake up",
+            "pos": "verb",
+            "example": "七時に起きます。"
+          },
+          {
+            "kanji": "寝る",
+            "kana": "ねる",
+            "romaji": "neru",
+            "meaning": "To sleep",
+            "pos": "verb",
+            "example": "十一時に寝ます。"
+          },
+          {
+            "kanji": "いる",
+            "kana": "いる",
+            "romaji": "iru",
+            "meaning": "To exist (animate)",
+            "pos": "verb",
+            "example": "猫がいます。"
+          },
+          {
+            "kanji": "ある",
+            "kana": "ある",
+            "romaji": "aru",
+            "meaning": "To exist (inanimate)",
+            "pos": "verb",
+            "example": "本があります。"
+          }
+        ]
+      },
+      {
+        "title": "Verbs: Actions",
+        "sort_order": 8,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "食べる",
+            "kana": "たべる",
+            "romaji": "taberu",
+            "meaning": "To eat",
+            "pos": "verb",
+            "example": "ご飯を食べます。"
+          },
+          {
+            "kanji": "飲む",
+            "kana": "のむ",
+            "romaji": "nomu",
+            "meaning": "To drink",
+            "pos": "verb",
+            "example": "お茶を飲みます。"
+          },
+          {
+            "kanji": "買う",
+            "kana": "かう",
+            "romaji": "kau",
+            "meaning": "To buy",
+            "pos": "verb",
+            "example": "本を買います。"
+          },
+          {
+            "kanji": "売る",
+            "kana": "うる",
+            "romaji": "uru",
+            "meaning": "To sell",
+            "pos": "verb",
+            "example": "本を売ります。"
+          },
+          {
+            "kanji": "使う",
+            "kana": "つかう",
+            "romaji": "tsukau",
+            "meaning": "To use",
+            "pos": "verb",
+            "example": "パソコンを使います。"
+          },
+          {
+            "kanji": "作る",
+            "kana": "つくる",
+            "romaji": "tsukuru",
+            "meaning": "To make",
+            "pos": "verb",
+            "example": "料理を作ります。"
+          },
+          {
+            "kanji": "会う",
+            "kana": "あう",
+            "romaji": "au",
+            "meaning": "To meet",
+            "pos": "verb",
+            "example": "友達に会います。"
+          },
+          {
+            "kanji": "待つ",
+            "kana": "まつ",
+            "romaji": "matsu",
+            "meaning": "To wait",
+            "pos": "verb",
+            "example": "バスを待ちます。"
+          },
+          {
+            "kanji": "知る",
+            "kana": "しる",
+            "romaji": "shiru",
+            "meaning": "To know",
+            "pos": "verb",
+            "example": "彼を知っています。"
+          },
+          {
+            "kanji": "分かる",
+            "kana": "わかる",
+            "romaji": "wakaru",
+            "meaning": "To understand",
+            "pos": "verb",
+            "example": "日本語が分かります。"
+          }
+        ]
+      },
+      {
+        "title": "Time & Frequency",
+        "sort_order": 9,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "毎日",
+            "kana": "まいにち",
+            "romaji": "mainichi",
+            "meaning": "Every day",
+            "pos": "noun/adv",
+            "example": "毎日勉強します。"
+          },
+          {
+            "kanji": "毎朝",
+            "kana": "まいあさ",
+            "romaji": "maiasa",
+            "meaning": "Every morning",
+            "pos": "noun/adv",
+            "example": "毎朝ジョギングします。"
+          },
+          {
+            "kanji": "毎晩",
+            "kana": "まいばん",
+            "romaji": "maiban",
+            "meaning": "Every evening",
+            "pos": "noun/adv",
+            "example": "毎晩テレビを見ます。"
+          },
+          {
+            "kanji": "今",
+            "kana": "いま",
+            "romaji": "ima",
+            "meaning": "Now",
+            "pos": "noun/adv",
+            "example": "今何時ですか？"
+          },
+          {
+            "kanji": "後で",
+            "kana": "あとで",
+            "romaji": "atode",
+            "meaning": "Later, afterwards",
+            "pos": "adv",
+            "example": "後で電話します。"
+          },
+          {
+            "kanji": "前",
+            "kana": "まえ",
+            "romaji": "mae",
+            "meaning": "Before, in front",
+            "pos": "noun",
+            "example": "食事の前に手を洗います。"
+          },
+          {
+            "kanji": "来年",
+            "kana": "らいねん",
+            "romaji": "rainen",
+            "meaning": "Next year",
+            "pos": "noun",
+            "example": "来年日本へ行きます。"
+          },
+          {
+            "kanji": "去年",
+            "kana": "きょねん",
+            "romaji": "kyonen",
+            "meaning": "Last year",
+            "pos": "noun",
+            "example": "去年日本語を始めました。"
+          },
+          {
+            "kanji": "来月",
+            "kana": "らいげつ",
+            "romaji": "raigetsu",
+            "meaning": "Next month",
+            "pos": "noun",
+            "example": "来月試験があります。"
+          },
+          {
+            "kanji": "先月",
+            "kana": "せんげつ",
+            "romaji": "sengetsu",
+            "meaning": "Last month",
+            "pos": "noun",
+            "example": "先月旅行しました。"
+          }
+        ]
+      },
+      {
+        "title": "Question Words",
+        "sort_order": 10,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "何",
+            "kana": "なに・なん",
+            "romaji": "nani / nan",
+            "meaning": "What",
+            "pos": "pronoun",
+            "example": "これは何ですか？"
+          },
+          {
+            "kanji": "誰",
+            "kana": "だれ",
+            "romaji": "dare",
+            "meaning": "Who",
+            "pos": "pronoun",
+            "example": "あの人は誰ですか？"
+          },
+          {
+            "kanji": "どこ",
+            "kana": "どこ",
+            "romaji": "doko",
+            "meaning": "Where",
+            "pos": "pronoun",
+            "example": "トイレはどこですか？"
+          },
+          {
+            "kanji": "いつ",
+            "kana": "いつ",
+            "romaji": "itsu",
+            "meaning": "When",
+            "pos": "pronoun",
+            "example": "いつ来ますか？"
+          },
+          {
+            "kanji": "どうして",
+            "kana": "どうして",
+            "romaji": "doushite",
+            "meaning": "Why",
+            "pos": "pronoun",
+            "example": "どうして泣いていますか？"
+          },
+          {
+            "kanji": "どう",
+            "kana": "どう",
+            "romaji": "dou",
+            "meaning": "How",
+            "pos": "pronoun",
+            "example": "気分はどうですか？"
+          },
+          {
+            "kanji": "どれ",
+            "kana": "どれ",
+            "romaji": "dore",
+            "meaning": "Which one",
+            "pos": "pronoun",
+            "example": "どれが好きですか？"
+          },
+          {
+            "kanji": "いくら",
+            "kana": "いくら",
+            "romaji": "ikura",
+            "meaning": "How much",
+            "pos": "pronoun",
+            "example": "これはいくらですか？"
+          },
+          {
+            "kanji": "いくつ",
+            "kana": "いくつ",
+            "romaji": "ikutsu",
+            "meaning": "How many",
+            "pos": "pronoun",
+            "example": "りんごはいくつありますか？"
+          },
+          {
+            "kanji": "何時",
+            "kana": "なんじ",
+            "romaji": "nanji",
+            "meaning": "What time",
+            "pos": "noun",
+            "example": "今何時ですか？"
+          }
+        ]
+      },
+      {
+        "title": "Body Parts",
+        "sort_order": 11,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "頭",
+            "kana": "あたま",
+            "romaji": "atama",
+            "meaning": "Head",
+            "pos": "noun",
+            "example": "頭が痛いです。"
+          },
+          {
+            "kanji": "顔",
+            "kana": "かお",
+            "romaji": "kao",
+            "meaning": "Face",
+            "pos": "noun",
+            "example": "顔を洗います。"
+          },
+          {
+            "kanji": "目",
+            "kana": "め",
+            "romaji": "me",
+            "meaning": "Eye",
+            "pos": "noun",
+            "example": "目が大きいです。"
+          },
+          {
+            "kanji": "耳",
+            "kana": "みみ",
+            "romaji": "mimi",
+            "meaning": "Ear",
+            "pos": "noun",
+            "example": "耳が痛いです。"
+          },
+          {
+            "kanji": "鼻",
+            "kana": "はな",
+            "romaji": "hana",
+            "meaning": "Nose",
+            "pos": "noun",
+            "example": "鼻が高いです。"
+          },
+          {
+            "kanji": "口",
+            "kana": "くち",
+            "romaji": "kuchi",
+            "meaning": "Mouth",
+            "pos": "noun",
+            "example": "口を開けてください。"
+          },
+          {
+            "kanji": "歯",
+            "kana": "は",
+            "romaji": "ha",
+            "meaning": "Tooth, teeth",
+            "pos": "noun",
+            "example": "歯を磨きます。"
+          },
+          {
+            "kanji": "首",
+            "kana": "くび",
+            "romaji": "kubi",
+            "meaning": "Neck",
+            "pos": "noun",
+            "example": "首が長いです。"
+          },
+          {
+            "kanji": "手",
+            "kana": "て",
+            "romaji": "te",
+            "meaning": "Hand",
+            "pos": "noun",
+            "example": "手を洗います。"
+          },
+          {
+            "kanji": "指",
+            "kana": "ゆび",
+            "romaji": "yubi",
+            "meaning": "Finger",
+            "pos": "noun",
+            "example": "指が細いです。"
+          },
+          {
+            "kanji": "足",
+            "kana": "あし",
+            "romaji": "ashi",
+            "meaning": "Foot, leg",
+            "pos": "noun",
+            "example": "足が速いです。"
+          },
+          {
+            "kanji": "背中",
+            "kana": "せなか",
+            "romaji": "senaka",
+            "meaning": "Back (body)",
+            "pos": "noun",
+            "example": "背中が痛いです。"
+          }
+        ]
+      },
+      {
+        "title": "Transport & Getting Around",
+        "sort_order": 12,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "電車",
+            "kana": "でんしゃ",
+            "romaji": "densha",
+            "meaning": "Train",
+            "pos": "noun",
+            "example": "電車で行きます。"
+          },
+          {
+            "kanji": "バス",
+            "kana": "バス",
+            "romaji": "basu",
+            "meaning": "Bus",
+            "pos": "noun",
+            "example": "バスに乗ります。"
+          },
+          {
+            "kanji": "タクシー",
+            "kana": "タクシー",
+            "romaji": "takushii",
+            "meaning": "Taxi",
+            "pos": "noun",
+            "example": "タクシーを呼びます。"
+          },
+          {
+            "kanji": "自転車",
+            "kana": "じてんしゃ",
+            "romaji": "jitensha",
+            "meaning": "Bicycle",
+            "pos": "noun",
+            "example": "自転車で学校へ行きます。"
+          },
+          {
+            "kanji": "飛行機",
+            "kana": "ひこうき",
+            "romaji": "hikouki",
+            "meaning": "Airplane",
+            "pos": "noun",
+            "example": "飛行機で日本へ行きます。"
+          },
+          {
+            "kanji": "船",
+            "kana": "ふね",
+            "romaji": "fune",
+            "meaning": "Boat, ship",
+            "pos": "noun",
+            "example": "船で島へ行きます。"
+          },
+          {
+            "kanji": "道",
+            "kana": "みち",
+            "romaji": "michi",
+            "meaning": "Road, way, path",
+            "pos": "noun",
+            "example": "この道をまっすぐ行きます。"
+          },
+          {
+            "kanji": "地図",
+            "kana": "ちず",
+            "romaji": "chizu",
+            "meaning": "Map",
+            "pos": "noun",
+            "example": "地図を見ます。"
+          },
+          {
+            "kanji": "右",
+            "kana": "みぎ",
+            "romaji": "migi",
+            "meaning": "Right (direction)",
+            "pos": "noun",
+            "example": "右に曲がってください。"
+          },
+          {
+            "kanji": "左",
+            "kana": "ひだり",
+            "romaji": "hidari",
+            "meaning": "Left (direction)",
+            "pos": "noun",
+            "example": "左に曲がってください。"
+          },
+          {
+            "kanji": "近い",
+            "kana": "ちかい",
+            "romaji": "chikai",
+            "meaning": "Near, close",
+            "pos": "i-adj",
+            "example": "駅は近いです。"
+          },
+          {
+            "kanji": "遠い",
+            "kana": "とおい",
+            "romaji": "tooi",
+            "meaning": "Far",
+            "pos": "i-adj",
+            "example": "学校は遠いです。"
+          }
+        ]
+      },
+      {
+        "title": "School & Study",
+        "sort_order": 13,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "勉強",
+            "kana": "べんきょう",
+            "romaji": "benkyou",
+            "meaning": "Study",
+            "pos": "noun/verb",
+            "example": "毎日勉強します。"
+          },
+          {
+            "kanji": "授業",
+            "kana": "じゅぎょう",
+            "romaji": "jugyou",
+            "meaning": "Class, lesson",
+            "pos": "noun",
+            "example": "授業が始まります。"
+          },
+          {
+            "kanji": "宿題",
+            "kana": "しゅくだい",
+            "romaji": "shukudai",
+            "meaning": "Homework",
+            "pos": "noun",
+            "example": "宿題をします。"
+          },
+          {
+            "kanji": "試験",
+            "kana": "しけん",
+            "romaji": "shiken",
+            "meaning": "Exam, test",
+            "pos": "noun",
+            "example": "試験が難しかったです。"
+          },
+          {
+            "kanji": "答え",
+            "kana": "こたえ",
+            "romaji": "kotae",
+            "meaning": "Answer",
+            "pos": "noun",
+            "example": "答えを書きます。"
+          },
+          {
+            "kanji": "質問",
+            "kana": "しつもん",
+            "romaji": "shitsumon",
+            "meaning": "Question",
+            "pos": "noun",
+            "example": "質問があります。"
+          },
+          {
+            "kanji": "教室",
+            "kana": "きょうしつ",
+            "romaji": "kyoushitsu",
+            "meaning": "Classroom",
+            "pos": "noun",
+            "example": "教室に入ります。"
+          },
+          {
+            "kanji": "机",
+            "kana": "つくえ",
+            "romaji": "tsukue",
+            "meaning": "Desk",
+            "pos": "noun",
+            "example": "机の上に本があります。"
+          },
+          {
+            "kanji": "椅子",
+            "kana": "いす",
+            "romaji": "isu",
+            "meaning": "Chair",
+            "pos": "noun",
+            "example": "椅子に座ります。"
+          },
+          {
+            "kanji": "鉛筆",
+            "kana": "えんぴつ",
+            "romaji": "enpitsu",
+            "meaning": "Pencil",
+            "pos": "noun",
+            "example": "鉛筆で書きます。"
+          },
+          {
+            "kanji": "消しゴム",
+            "kana": "けしゴム",
+            "romaji": "keshigomu",
+            "meaning": "Eraser",
+            "pos": "noun",
+            "example": "消しゴムを使います。"
+          },
+          {
+            "kanji": "辞書",
+            "kana": "じしょ",
+            "romaji": "jisho",
+            "meaning": "Dictionary",
+            "pos": "noun",
+            "example": "辞書で調べます。"
+          }
+        ]
+      },
+      {
+        "title": "Shopping & Money",
+        "sort_order": 14,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "買い物",
+            "kana": "かいもの",
+            "romaji": "kaimono",
+            "meaning": "Shopping",
+            "pos": "noun",
+            "example": "買い物に行きます。"
+          },
+          {
+            "kanji": "値段",
+            "kana": "ねだん",
+            "romaji": "nedan",
+            "meaning": "Price",
+            "pos": "noun",
+            "example": "値段はいくらですか？"
+          },
+          {
+            "kanji": "円",
+            "kana": "えん",
+            "romaji": "en",
+            "meaning": "Yen (currency)",
+            "pos": "noun",
+            "example": "百円です。"
+          },
+          {
+            "kanji": "財布",
+            "kana": "さいふ",
+            "romaji": "saifu",
+            "meaning": "Wallet, purse",
+            "pos": "noun",
+            "example": "財布を忘れました。"
+          },
+          {
+            "kanji": "レシート",
+            "kana": "レシート",
+            "romaji": "reshiito",
+            "meaning": "Receipt",
+            "pos": "noun",
+            "example": "レシートをください。"
+          },
+          {
+            "kanji": "袋",
+            "kana": "ふくろ",
+            "romaji": "fukuro",
+            "meaning": "Bag, sack",
+            "pos": "noun",
+            "example": "袋に入れてください。"
+          },
+          {
+            "kanji": "売り場",
+            "kana": "うりば",
+            "romaji": "uriba",
+            "meaning": "Sales floor, counter",
+            "pos": "noun",
+            "example": "売り場はどこですか？"
+          },
+          {
+            "kanji": "試着",
+            "kana": "しちゃく",
+            "romaji": "shichaku",
+            "meaning": "Trying on clothes",
+            "pos": "noun",
+            "example": "試着してもいいですか？"
+          },
+          {
+            "kanji": "大きい",
+            "kana": "おおきい",
+            "romaji": "ookii",
+            "meaning": "Large (size)",
+            "pos": "i-adj",
+            "example": "もっと大きいサイズはありますか？"
+          },
+          {
+            "kanji": "小さい",
+            "kana": "ちいさい",
+            "romaji": "chiisai",
+            "meaning": "Small (size)",
+            "pos": "i-adj",
+            "example": "小さいサイズをください。"
+          }
+        ]
+      },
+      {
+        "title": "Health & Feelings",
+        "sort_order": 15,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "気分",
+            "kana": "きぶん",
+            "romaji": "kibun",
+            "meaning": "Feeling, mood",
+            "pos": "noun",
+            "example": "気分はどうですか？"
+          },
+          {
+            "kanji": "病気",
+            "kana": "びょうき",
+            "romaji": "byouki",
+            "meaning": "Illness, sickness",
+            "pos": "noun",
+            "example": "病気で学校を休みました。"
+          },
+          {
+            "kanji": "熱",
+            "kana": "ねつ",
+            "romaji": "netsu",
+            "meaning": "Fever",
+            "pos": "noun",
+            "example": "熱が出ました。"
+          },
+          {
+            "kanji": "痛い",
+            "kana": "いたい",
+            "romaji": "itai",
+            "meaning": "Painful, it hurts",
+            "pos": "i-adj",
+            "example": "頭が痛いです。"
+          },
+          {
+            "kanji": "疲れる",
+            "kana": "つかれる",
+            "romaji": "tsukareru",
+            "meaning": "To get tired",
+            "pos": "verb",
+            "example": "仕事で疲れました。"
+          },
+          {
+            "kanji": "休む",
+            "kana": "やすむ",
+            "romaji": "yasumu",
+            "meaning": "To rest, take a break",
+            "pos": "verb",
+            "example": "家で休みます。"
+          },
+          {
+            "kanji": "嬉しい",
+            "kana": "うれしい",
+            "romaji": "ureshii",
+            "meaning": "Happy, glad",
+            "pos": "i-adj",
+            "example": "プレゼントをもらって嬉しいです。"
+          },
+          {
+            "kanji": "悲しい",
+            "kana": "かなしい",
+            "romaji": "kanashii",
+            "meaning": "Sad",
+            "pos": "i-adj",
+            "example": "悲しい映画を見ました。"
+          },
+          {
+            "kanji": "怖い",
+            "kana": "こわい",
+            "romaji": "kowai",
+            "meaning": "Scary, frightening",
+            "pos": "i-adj",
+            "example": "怖い映画は苦手です。"
+          },
+          {
+            "kanji": "眠い",
+            "kana": "ねむい",
+            "romaji": "nemui",
+            "meaning": "Sleepy",
+            "pos": "i-adj",
+            "example": "眠いです。早く寝ます。"
+          },
+          {
+            "kanji": "元気",
+            "kana": "げんき",
+            "romaji": "genki",
+            "meaning": "Fine, healthy, energetic",
+            "pos": "na-adj",
+            "example": "元気ですか？はい、元気です。"
+          },
+          {
+            "kanji": "大丈夫",
+            "kana": "だいじょうぶ",
+            "romaji": "daijoubu",
+            "meaning": "OK, fine, no problem",
+            "pos": "na-adj",
+            "example": "大丈夫ですか？"
+          }
+        ]
+      },
+      {
+        "title": "House & Furniture",
+        "sort_order": 16,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "家",
+            "kana": "いえ",
+            "romaji": "ie",
+            "meaning": "House, home",
+            "pos": "noun",
+            "example": "家に帰ります。"
+          },
+          {
+            "kanji": "玄関",
+            "kana": "げんかん",
+            "romaji": "genkan",
+            "meaning": "Entrance, front door",
+            "pos": "noun",
+            "example": "玄関で靴を脱ぎます。"
+          },
+          {
+            "kanji": "台所",
+            "kana": "だいどころ",
+            "romaji": "daidokoro",
+            "meaning": "Kitchen",
+            "pos": "noun",
+            "example": "台所で料理します。"
+          },
+          {
+            "kanji": "風呂",
+            "kana": "ふろ",
+            "romaji": "furo",
+            "meaning": "Bath, bathtub",
+            "pos": "noun",
+            "example": "お風呂に入ります。"
+          },
+          {
+            "kanji": "トイレ",
+            "kana": "トイレ",
+            "romaji": "toire",
+            "meaning": "Toilet, restroom",
+            "pos": "noun",
+            "example": "トイレはどこですか？"
+          },
+          {
+            "kanji": "窓",
+            "kana": "まど",
+            "romaji": "mado",
+            "meaning": "Window",
+            "pos": "noun",
+            "example": "窓を開けます。"
+          },
+          {
+            "kanji": "扉",
+            "kana": "とびら",
+            "romaji": "tobira",
+            "meaning": "Door",
+            "pos": "noun",
+            "example": "扉を閉めます。"
+          },
+          {
+            "kanji": "机",
+            "kana": "つくえ",
+            "romaji": "tsukue",
+            "meaning": "Desk",
+            "pos": "noun",
+            "example": "机で勉強します。"
+          },
+          {
+            "kanji": "椅子",
+            "kana": "いす",
+            "romaji": "isu",
+            "meaning": "Chair",
+            "pos": "noun",
+            "example": "椅子に座ります。"
+          },
+          {
+            "kanji": "床",
+            "kana": "ゆか",
+            "romaji": "yuka",
+            "meaning": "Floor",
+            "pos": "noun",
+            "example": "床を掃除します。"
+          },
+          {
+            "kanji": "天井",
+            "kana": "てんじょう",
+            "romaji": "tenjou",
+            "meaning": "Ceiling",
+            "pos": "noun",
+            "example": "天井が高いです。"
+          },
+          {
+            "kanji": "壁",
+            "kana": "かべ",
+            "romaji": "kabe",
+            "meaning": "Wall",
+            "pos": "noun",
+            "example": "壁に絵を飾ります。"
+          }
+        ]
+      },
+      {
+        "title": "Food: Meals & Restaurants",
+        "sort_order": 17,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "朝ご飯",
+            "kana": "あさごはん",
+            "romaji": "asagohan",
+            "meaning": "Breakfast",
+            "pos": "noun",
+            "example": "朝ご飯を食べます。"
+          },
+          {
+            "kanji": "昼ご飯",
+            "kana": "ひるごはん",
+            "romaji": "hirugohan",
+            "meaning": "Lunch",
+            "pos": "noun",
+            "example": "昼ご飯は何ですか？"
+          },
+          {
+            "kanji": "晩ご飯",
+            "kana": "ばんごはん",
+            "romaji": "bangohan",
+            "meaning": "Dinner",
+            "pos": "noun",
+            "example": "晩ご飯を作ります。"
+          },
+          {
+            "kanji": "料理",
+            "kana": "りょうり",
+            "romaji": "ryouri",
+            "meaning": "Cooking, cuisine",
+            "pos": "noun",
+            "example": "日本料理が好きです。"
+          },
+          {
+            "kanji": "飲み物",
+            "kana": "のみもの",
+            "romaji": "nomimono",
+            "meaning": "Drink, beverage",
+            "pos": "noun",
+            "example": "飲み物は何にしますか？"
+          },
+          {
+            "kanji": "食べ物",
+            "kana": "たべもの",
+            "romaji": "tabemono",
+            "meaning": "Food",
+            "pos": "noun",
+            "example": "好きな食べ物は何ですか？"
+          },
+          {
+            "kanji": "お腹",
+            "kana": "おなか",
+            "romaji": "onaka",
+            "meaning": "Stomach, belly",
+            "pos": "noun",
+            "example": "お腹が空きました。"
+          },
+          {
+            "kanji": "味",
+            "kana": "あじ",
+            "romaji": "aji",
+            "meaning": "Taste, flavor",
+            "pos": "noun",
+            "example": "この味は好きです。"
+          },
+          {
+            "kanji": "辛い",
+            "kana": "からい",
+            "romaji": "karai",
+            "meaning": "Spicy, hot",
+            "pos": "i-adj",
+            "example": "このカレーは辛いです。"
+          },
+          {
+            "kanji": "甘い",
+            "kana": "あまい",
+            "romaji": "amai",
+            "meaning": "Sweet",
+            "pos": "i-adj",
+            "example": "このケーキは甘いです。"
+          },
+          {
+            "kanji": "美味しい",
+            "kana": "おいしい",
+            "romaji": "oishii",
+            "meaning": "Delicious, tasty",
+            "pos": "i-adj",
+            "example": "このラーメンはおいしいです。"
+          },
+          {
+            "kanji": "まずい",
+            "kana": "まずい",
+            "romaji": "mazui",
+            "meaning": "Bad-tasting",
+            "pos": "i-adj",
+            "example": "まずくて食べられません。"
+          }
+        ]
+      },
+      {
+        "title": "Verbs: Daily Life",
+        "sort_order": 18,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "起きる",
+            "kana": "おきる",
+            "romaji": "okiru",
+            "meaning": "To wake up",
+            "pos": "verb",
+            "example": "毎朝六時に起きます。"
+          },
+          {
+            "kanji": "寝る",
+            "kana": "ねる",
+            "romaji": "neru",
+            "meaning": "To sleep, go to bed",
+            "pos": "verb",
+            "example": "十一時に寝ます。"
+          },
+          {
+            "kanji": "着る",
+            "kana": "きる",
+            "romaji": "kiru",
+            "meaning": "To wear (clothes)",
+            "pos": "verb",
+            "example": "コートを着ます。"
+          },
+          {
+            "kanji": "脱ぐ",
+            "kana": "ぬぐ",
+            "romaji": "nugu",
+            "meaning": "To take off (clothes)",
+            "pos": "verb",
+            "example": "靴を脱ぎます。"
+          },
+          {
+            "kanji": "洗う",
+            "kana": "あらう",
+            "romaji": "arau",
+            "meaning": "To wash",
+            "pos": "verb",
+            "example": "手を洗います。"
+          },
+          {
+            "kanji": "掃除する",
+            "kana": "そうじする",
+            "romaji": "souji suru",
+            "meaning": "To clean, tidy up",
+            "pos": "verb",
+            "example": "部屋を掃除します。"
+          },
+          {
+            "kanji": "開ける",
+            "kana": "あける",
+            "romaji": "akeru",
+            "meaning": "To open",
+            "pos": "verb",
+            "example": "窓を開けます。"
+          },
+          {
+            "kanji": "閉める",
+            "kana": "しめる",
+            "romaji": "shimeru",
+            "meaning": "To close, shut",
+            "pos": "verb",
+            "example": "ドアを閉めます。"
+          },
+          {
+            "kanji": "入る",
+            "kana": "はいる",
+            "romaji": "hairu",
+            "meaning": "To enter, go in",
+            "pos": "verb",
+            "example": "部屋に入ります。"
+          },
+          {
+            "kanji": "出る",
+            "kana": "でる",
+            "romaji": "deru",
+            "meaning": "To exit, come out",
+            "pos": "verb",
+            "example": "家を出ます。"
+          },
+          {
+            "kanji": "持つ",
+            "kana": "もつ",
+            "romaji": "motsu",
+            "meaning": "To hold, carry",
+            "pos": "verb",
+            "example": "荷物を持ちます。"
+          },
+          {
+            "kanji": "置く",
+            "kana": "おく",
+            "romaji": "oku",
+            "meaning": "To put, place",
+            "pos": "verb",
+            "example": "机の上に置きます。"
+          }
+        ]
+      },
+      {
+        "title": "Expressions & Particles in Use",
+        "sort_order": 19,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "もちろん",
+            "kana": "もちろん",
+            "romaji": "mochiron",
+            "meaning": "Of course",
+            "pos": "adv",
+            "example": "もちろん行きます。"
+          },
+          {
+            "kanji": "大体",
+            "kana": "だいたい",
+            "romaji": "daitai",
+            "meaning": "Mostly, approximately",
+            "pos": "adv",
+            "example": "大体わかります。"
+          },
+          {
+            "kanji": "一緒に",
+            "kana": "いっしょに",
+            "romaji": "issho ni",
+            "meaning": "Together",
+            "pos": "adv",
+            "example": "一緒に行きましょう。"
+          },
+          {
+            "kanji": "一人で",
+            "kana": "ひとりで",
+            "romaji": "hitori de",
+            "meaning": "Alone, by oneself",
+            "pos": "adv",
+            "example": "一人で勉強します。"
+          },
+          {
+            "kanji": "まだ",
+            "kana": "まだ",
+            "romaji": "mada",
+            "meaning": "Still, not yet",
+            "pos": "adv",
+            "example": "まだ食べていません。"
+          },
+          {
+            "kanji": "もう",
+            "kana": "もう",
+            "romaji": "mou",
+            "meaning": "Already, anymore",
+            "pos": "adv",
+            "example": "もう食べました。"
+          },
+          {
+            "kanji": "また",
+            "kana": "また",
+            "romaji": "mata",
+            "meaning": "Again, also",
+            "pos": "adv",
+            "example": "また来てください。"
+          },
+          {
+            "kanji": "ちょっと",
+            "kana": "ちょっと",
+            "romaji": "chotto",
+            "meaning": "A little, just a moment",
+            "pos": "adv",
+            "example": "ちょっと待ってください。"
+          },
+          {
+            "kanji": "とても",
+            "kana": "とても",
+            "romaji": "totemo",
+            "meaning": "Very, extremely",
+            "pos": "adv",
+            "example": "とても嬉しいです。"
+          },
+          {
+            "kanji": "あまり",
+            "kana": "あまり",
+            "romaji": "amari",
+            "meaning": "Not very (+ negative)",
+            "pos": "adv",
+            "example": "あまり好きではありません。"
+          },
+          {
+            "kanji": "全然",
+            "kana": "ぜんぜん",
+            "romaji": "zenzen",
+            "meaning": "Not at all (+ negative)",
+            "pos": "adv",
+            "example": "全然わかりません。"
+          },
+          {
+            "kanji": "本当に",
+            "kana": "ほんとうに",
+            "romaji": "hontou ni",
+            "meaning": "Really, truly",
+            "pos": "adv",
+            "example": "本当にありがとうございます。"
+          }
+        ]
+      },
+      {
+        "title": "Counter Words",
+        "sort_order": 20,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "一つ",
+            "kana": "ひとつ",
+            "romaji": "hitotsu",
+            "meaning": "One (general counter)",
+            "pos": "noun",
+            "example": "りんごを一つください。"
+          },
+          {
+            "kanji": "二つ",
+            "kana": "ふたつ",
+            "romaji": "futatsu",
+            "meaning": "Two (general counter)",
+            "pos": "noun",
+            "example": "ケーキを二つ食べました。"
+          },
+          {
+            "kanji": "三つ",
+            "kana": "みっつ",
+            "romaji": "mittsu",
+            "meaning": "Three (general counter)",
+            "pos": "noun",
+            "example": "みかんを三つ買いました。"
+          },
+          {
+            "kanji": "一本",
+            "kana": "いっぽん",
+            "romaji": "ippon",
+            "meaning": "One (long thin things)",
+            "pos": "noun",
+            "example": "ペンを一本ください。"
+          },
+          {
+            "kanji": "一枚",
+            "kana": "いちまい",
+            "romaji": "ichimai",
+            "meaning": "One (flat things)",
+            "pos": "noun",
+            "example": "紙を一枚ください。"
+          },
+          {
+            "kanji": "一冊",
+            "kana": "いっさつ",
+            "romaji": "issatsu",
+            "meaning": "One (bound books)",
+            "pos": "noun",
+            "example": "本を一冊借ります。"
+          },
+          {
+            "kanji": "一杯",
+            "kana": "いっぱい",
+            "romaji": "ippai",
+            "meaning": "One cup/glass",
+            "pos": "noun",
+            "example": "コーヒーを一杯ください。"
+          },
+          {
+            "kanji": "一台",
+            "kana": "いちだい",
+            "romaji": "ichidai",
+            "meaning": "One (machines/vehicles)",
+            "pos": "noun",
+            "example": "車が一台あります。"
+          },
+          {
+            "kanji": "一人",
+            "kana": "ひとり",
+            "romaji": "hitori",
+            "meaning": "One person",
+            "pos": "noun",
+            "example": "一人で来ました。"
+          },
+          {
+            "kanji": "二人",
+            "kana": "ふたり",
+            "romaji": "futari",
+            "meaning": "Two people",
+            "pos": "noun",
+            "example": "二人で行きます。"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "section": "JLPT N4 Vocabulary (Kotoba)",
+    "sort_order": 8,
+    "modules": [
+      {
+        "title": "N4: People & Society",
+        "sort_order": 1,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "社長",
+            "kana": "しゃちょう",
+            "romaji": "shachou",
+            "meaning": "Company president, CEO",
+            "pos": "noun",
+            "example": "社長に会いました。"
+          },
+          {
+            "kanji": "部長",
+            "kana": "ぶちょう",
+            "romaji": "buchou",
+            "meaning": "Department manager",
+            "pos": "noun",
+            "example": "部長に報告します。"
+          },
+          {
+            "kanji": "同僚",
+            "kana": "どうりょう",
+            "romaji": "douryou",
+            "meaning": "Colleague, coworker",
+            "pos": "noun",
+            "example": "同僚と昼ご飯を食べます。"
+          },
+          {
+            "kanji": "客",
+            "kana": "きゃく",
+            "romaji": "kyaku",
+            "meaning": "Guest, customer, visitor",
+            "pos": "noun",
+            "example": "お客さんが来ました。"
+          },
+          {
+            "kanji": "市民",
+            "kana": "しみん",
+            "romaji": "shimin",
+            "meaning": "Citizen",
+            "pos": "noun",
+            "example": "市民のために働きます。"
+          },
+          {
+            "kanji": "子供",
+            "kana": "こども",
+            "romaji": "kodomo",
+            "meaning": "Child, children",
+            "pos": "noun",
+            "example": "子供が公園で遊んでいます。"
+          },
+          {
+            "kanji": "若者",
+            "kana": "わかもの",
+            "romaji": "wakamono",
+            "meaning": "Young person, youth",
+            "pos": "noun",
+            "example": "若者に人気です。"
+          },
+          {
+            "kanji": "老人",
+            "kana": "ろうじん",
+            "romaji": "roujin",
+            "meaning": "Elderly person",
+            "pos": "noun",
+            "example": "老人を助けます。"
+          },
+          {
+            "kanji": "夫",
+            "kana": "おっと",
+            "romaji": "otto",
+            "meaning": "Husband (own)",
+            "pos": "noun",
+            "example": "夫は料理が好きです。"
+          },
+          {
+            "kanji": "妻",
+            "kana": "つま",
+            "romaji": "tsuma",
+            "meaning": "Wife (own)",
+            "pos": "noun",
+            "example": "妻と旅行します。"
+          },
+          {
+            "kanji": "親",
+            "kana": "おや",
+            "romaji": "oya",
+            "meaning": "Parent(s)",
+            "pos": "noun",
+            "example": "親に電話します。"
+          },
+          {
+            "kanji": "祖父",
+            "kana": "そふ",
+            "romaji": "sofu",
+            "meaning": "Grandfather (own)",
+            "pos": "noun",
+            "example": "祖父は元気です。"
+          },
+          {
+            "kanji": "祖母",
+            "kana": "そぼ",
+            "romaji": "sobo",
+            "meaning": "Grandmother (own)",
+            "pos": "noun",
+            "example": "祖母の料理が好きです。"
+          }
+        ]
+      },
+      {
+        "title": "N4: City & Infrastructure",
+        "sort_order": 2,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "交差点",
+            "kana": "こうさてん",
+            "romaji": "kousaten",
+            "meaning": "Intersection, crossroads",
+            "pos": "noun",
+            "example": "交差点を左に曲がります。"
+          },
+          {
+            "kanji": "信号",
+            "kana": "しんごう",
+            "romaji": "shingou",
+            "meaning": "Traffic light, signal",
+            "pos": "noun",
+            "example": "信号が赤になりました。"
+          },
+          {
+            "kanji": "橋",
+            "kana": "はし",
+            "romaji": "hashi",
+            "meaning": "Bridge",
+            "pos": "noun",
+            "example": "橋を渡ります。"
+          },
+          {
+            "kanji": "空港",
+            "kana": "くうこう",
+            "romaji": "kuukou",
+            "meaning": "Airport",
+            "pos": "noun",
+            "example": "空港まで送ります。"
+          },
+          {
+            "kanji": "港",
+            "kana": "みなと",
+            "romaji": "minato",
+            "meaning": "Port, harbor",
+            "pos": "noun",
+            "example": "港から船が出ます。"
+          },
+          {
+            "kanji": "郵便局",
+            "kana": "ゆうびんきょく",
+            "romaji": "yuubinkyoku",
+            "meaning": "Post office",
+            "pos": "noun",
+            "example": "郵便局で荷物を送ります。"
+          },
+          {
+            "kanji": "市役所",
+            "kana": "しやくしょ",
+            "romaji": "shiyakusho",
+            "meaning": "City hall",
+            "pos": "noun",
+            "example": "市役所で手続きをします。"
+          },
+          {
+            "kanji": "警察",
+            "kana": "けいさつ",
+            "romaji": "keisatsu",
+            "meaning": "Police",
+            "pos": "noun",
+            "example": "警察に連絡します。"
+          },
+          {
+            "kanji": "消防署",
+            "kana": "しょうぼうしょ",
+            "romaji": "shoubousho",
+            "meaning": "Fire station",
+            "pos": "noun",
+            "example": "消防署に電話します。"
+          },
+          {
+            "kanji": "工場",
+            "kana": "こうじょう",
+            "romaji": "koujou",
+            "meaning": "Factory",
+            "pos": "noun",
+            "example": "工場で働きます。"
+          },
+          {
+            "kanji": "駐車場",
+            "kana": "ちゅうしゃじょう",
+            "romaji": "chuushajou",
+            "meaning": "Parking lot",
+            "pos": "noun",
+            "example": "駐車場に車を止めます。"
+          },
+          {
+            "kanji": "地下鉄",
+            "kana": "ちかてつ",
+            "romaji": "chikatetsu",
+            "meaning": "Subway, underground rail",
+            "pos": "noun",
+            "example": "地下鉄で行きます。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Nature & Environment",
+        "sort_order": 3,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "森",
+            "kana": "もり",
+            "romaji": "mori",
+            "meaning": "Forest, woods",
+            "pos": "noun",
+            "example": "森を散歩します。"
+          },
+          {
+            "kanji": "川",
+            "kana": "かわ",
+            "romaji": "kawa",
+            "meaning": "River",
+            "pos": "noun",
+            "example": "川で魚を釣ります。"
+          },
+          {
+            "kanji": "池",
+            "kana": "いけ",
+            "romaji": "ike",
+            "meaning": "Pond",
+            "pos": "noun",
+            "example": "池に魚がいます。"
+          },
+          {
+            "kanji": "山",
+            "kana": "やま",
+            "romaji": "yama",
+            "meaning": "Mountain",
+            "pos": "noun",
+            "example": "山に登ります。"
+          },
+          {
+            "kanji": "島",
+            "kana": "しま",
+            "romaji": "shima",
+            "meaning": "Island",
+            "pos": "noun",
+            "example": "島へ行きたいです。"
+          },
+          {
+            "kanji": "砂",
+            "kana": "すな",
+            "romaji": "suna",
+            "meaning": "Sand",
+            "pos": "noun",
+            "example": "砂浜を歩きます。"
+          },
+          {
+            "kanji": "星",
+            "kana": "ほし",
+            "romaji": "hoshi",
+            "meaning": "Star",
+            "pos": "noun",
+            "example": "星がきれいです。"
+          },
+          {
+            "kanji": "月",
+            "kana": "つき",
+            "romaji": "tsuki",
+            "meaning": "Moon",
+            "pos": "noun",
+            "example": "月が明るいです。"
+          },
+          {
+            "kanji": "季節",
+            "kana": "きせつ",
+            "romaji": "kisetsu",
+            "meaning": "Season",
+            "pos": "noun",
+            "example": "好きな季節は春です。"
+          },
+          {
+            "kanji": "春",
+            "kana": "はる",
+            "romaji": "haru",
+            "meaning": "Spring",
+            "pos": "noun",
+            "example": "春は桜がきれいです。"
+          },
+          {
+            "kanji": "夏",
+            "kana": "なつ",
+            "romaji": "natsu",
+            "meaning": "Summer",
+            "pos": "noun",
+            "example": "夏は暑いです。"
+          },
+          {
+            "kanji": "秋",
+            "kana": "あき",
+            "romaji": "aki",
+            "meaning": "Autumn, fall",
+            "pos": "noun",
+            "example": "秋は紅葉が美しいです。"
+          },
+          {
+            "kanji": "冬",
+            "kana": "ふゆ",
+            "romaji": "fuyu",
+            "meaning": "Winter",
+            "pos": "noun",
+            "example": "冬はスキーが楽しいです。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Work & Business",
+        "sort_order": 4,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "仕事",
+            "kana": "しごと",
+            "romaji": "shigoto",
+            "meaning": "Work, job",
+            "pos": "noun",
+            "example": "仕事が終わりました。"
+          },
+          {
+            "kanji": "会社",
+            "kana": "かいしゃ",
+            "romaji": "kaisha",
+            "meaning": "Company, firm",
+            "pos": "noun",
+            "example": "会社に行きます。"
+          },
+          {
+            "kanji": "給料",
+            "kana": "きゅうりょう",
+            "romaji": "kyuuryou",
+            "meaning": "Salary, wages",
+            "pos": "noun",
+            "example": "給料が上がりました。"
+          },
+          {
+            "kanji": "残業",
+            "kana": "ざんぎょう",
+            "romaji": "zangyou",
+            "meaning": "Overtime work",
+            "pos": "noun",
+            "example": "今日も残業です。"
+          },
+          {
+            "kanji": "休暇",
+            "kana": "きゅうか",
+            "romaji": "kyuuka",
+            "meaning": "Holiday, day off",
+            "pos": "noun",
+            "example": "来週は休暇をとります。"
+          },
+          {
+            "kanji": "会議",
+            "kana": "かいぎ",
+            "romaji": "kaigi",
+            "meaning": "Meeting, conference",
+            "pos": "noun",
+            "example": "会議が三時間ありました。"
+          },
+          {
+            "kanji": "書類",
+            "kana": "しょるい",
+            "romaji": "shorui",
+            "meaning": "Documents, paperwork",
+            "pos": "noun",
+            "example": "書類を提出します。"
+          },
+          {
+            "kanji": "契約",
+            "kana": "けいやく",
+            "romaji": "keiyaku",
+            "meaning": "Contract, agreement",
+            "pos": "noun",
+            "example": "契約を結びます。"
+          },
+          {
+            "kanji": "連絡",
+            "kana": "れんらく",
+            "romaji": "renraku",
+            "meaning": "Contact, communication",
+            "pos": "noun",
+            "example": "後で連絡します。"
+          },
+          {
+            "kanji": "準備",
+            "kana": "じゅんび",
+            "romaji": "junbi",
+            "meaning": "Preparation",
+            "pos": "noun",
+            "example": "準備ができました。"
+          },
+          {
+            "kanji": "予定",
+            "kana": "よてい",
+            "romaji": "yotei",
+            "meaning": "Schedule, plan",
+            "pos": "noun",
+            "example": "明日の予定を確認します。"
+          },
+          {
+            "kanji": "報告",
+            "kana": "ほうこく",
+            "romaji": "houkoku",
+            "meaning": "Report",
+            "pos": "noun",
+            "example": "上司に報告します。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Verbs — Change & Motion",
+        "sort_order": 5,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "変わる",
+            "kana": "かわる",
+            "romaji": "kawaru",
+            "meaning": "To change (intrans.)",
+            "pos": "verb",
+            "example": "天気が変わりました。"
+          },
+          {
+            "kanji": "変える",
+            "kana": "かえる",
+            "romaji": "kaeru",
+            "meaning": "To change (trans.)",
+            "pos": "verb",
+            "example": "計画を変えます。"
+          },
+          {
+            "kanji": "増える",
+            "kana": "ふえる",
+            "romaji": "fueru",
+            "meaning": "To increase (intrans.)",
+            "pos": "verb",
+            "example": "人口が増えています。"
+          },
+          {
+            "kanji": "減る",
+            "kana": "へる",
+            "romaji": "heru",
+            "meaning": "To decrease (intrans.)",
+            "pos": "verb",
+            "example": "体重が減りました。"
+          },
+          {
+            "kanji": "続く",
+            "kana": "つづく",
+            "romaji": "tsuzuku",
+            "meaning": "To continue (intrans.)",
+            "pos": "verb",
+            "example": "雨が続いています。"
+          },
+          {
+            "kanji": "続ける",
+            "kana": "つづける",
+            "romaji": "tsuzukeru",
+            "meaning": "To continue (trans.)",
+            "pos": "verb",
+            "example": "練習を続けます。"
+          },
+          {
+            "kanji": "始まる",
+            "kana": "はじまる",
+            "romaji": "hajimaru",
+            "meaning": "To begin (intrans.)",
+            "pos": "verb",
+            "example": "授業が始まります。"
+          },
+          {
+            "kanji": "始める",
+            "kana": "はじめる",
+            "romaji": "hajimeru",
+            "meaning": "To begin (trans.)",
+            "pos": "verb",
+            "example": "仕事を始めます。"
+          },
+          {
+            "kanji": "終わる",
+            "kana": "おわる",
+            "romaji": "owaru",
+            "meaning": "To end (intrans.)",
+            "pos": "verb",
+            "example": "会議が終わりました。"
+          },
+          {
+            "kanji": "動く",
+            "kana": "うごく",
+            "romaji": "ugoku",
+            "meaning": "To move (intrans.)",
+            "pos": "verb",
+            "example": "電車が動き始めました。"
+          },
+          {
+            "kanji": "止まる",
+            "kana": "とまる",
+            "romaji": "tomaru",
+            "meaning": "To stop (intrans.)",
+            "pos": "verb",
+            "example": "バスが止まりました。"
+          },
+          {
+            "kanji": "渡る",
+            "kana": "わたる",
+            "romaji": "wataru",
+            "meaning": "To cross (a road/bridge)",
+            "pos": "verb",
+            "example": "橋を渡ります。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Verbs — Communication & Thinking",
+        "sort_order": 6,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "伝える",
+            "kana": "つたえる",
+            "romaji": "tsutaeru",
+            "meaning": "To convey, tell, pass on",
+            "pos": "verb",
+            "example": "メッセージを伝えます。"
+          },
+          {
+            "kanji": "説明する",
+            "kana": "せつめいする",
+            "romaji": "setsumei suru",
+            "meaning": "To explain",
+            "pos": "verb",
+            "example": "使い方を説明します。"
+          },
+          {
+            "kanji": "相談する",
+            "kana": "そうだんする",
+            "romaji": "soudan suru",
+            "meaning": "To consult, discuss",
+            "pos": "verb",
+            "example": "先生に相談します。"
+          },
+          {
+            "kanji": "頼む",
+            "kana": "たのむ",
+            "romaji": "tanomu",
+            "meaning": "To ask, request, depend",
+            "pos": "verb",
+            "example": "友達に頼みます。"
+          },
+          {
+            "kanji": "決める",
+            "kana": "きめる",
+            "romaji": "kimeru",
+            "meaning": "To decide",
+            "pos": "verb",
+            "example": "場所を決めます。"
+          },
+          {
+            "kanji": "考える",
+            "kana": "かんがえる",
+            "romaji": "kangaeru",
+            "meaning": "To think, consider",
+            "pos": "verb",
+            "example": "よく考えてください。"
+          },
+          {
+            "kanji": "思う",
+            "kana": "おもう",
+            "romaji": "omou",
+            "meaning": "To think, feel, suppose",
+            "pos": "verb",
+            "example": "面白いと思います。"
+          },
+          {
+            "kanji": "気づく",
+            "kana": "きづく",
+            "romaji": "kiduku",
+            "meaning": "To notice, realize",
+            "pos": "verb",
+            "example": "間違いに気づきました。"
+          },
+          {
+            "kanji": "覚える",
+            "kana": "おぼえる",
+            "romaji": "oboeru",
+            "meaning": "To memorize, remember",
+            "pos": "verb",
+            "example": "単語を覚えます。"
+          },
+          {
+            "kanji": "忘れる",
+            "kana": "わすれる",
+            "romaji": "wasureru",
+            "meaning": "To forget",
+            "pos": "verb",
+            "example": "名前を忘れました。"
+          },
+          {
+            "kanji": "調べる",
+            "kana": "しらべる",
+            "romaji": "shiraberu",
+            "meaning": "To investigate, look up",
+            "pos": "verb",
+            "example": "辞書で調べます。"
+          },
+          {
+            "kanji": "比べる",
+            "kana": "くらべる",
+            "romaji": "kuraberu",
+            "meaning": "To compare",
+            "pos": "verb",
+            "example": "値段を比べます。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Adjectives — Appearance & Character",
+        "sort_order": 7,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "嬉しい",
+            "kana": "うれしい",
+            "romaji": "ureshii",
+            "meaning": "Happy, glad",
+            "pos": "i-adj",
+            "example": "合格して嬉しいです。"
+          },
+          {
+            "kanji": "悲しい",
+            "kana": "かなしい",
+            "romaji": "kanashii",
+            "meaning": "Sad",
+            "pos": "i-adj",
+            "example": "別れが悲しいです。"
+          },
+          {
+            "kanji": "恥ずかしい",
+            "kana": "はずかしい",
+            "romaji": "hazukashii",
+            "meaning": "Embarrassed, shy",
+            "pos": "i-adj",
+            "example": "人前で話すのが恥ずかしいです。"
+          },
+          {
+            "kanji": "寂しい",
+            "kana": "さびしい",
+            "romaji": "sabishii",
+            "meaning": "Lonely",
+            "pos": "i-adj",
+            "example": "一人は寂しいです。"
+          },
+          {
+            "kanji": "怖い",
+            "kana": "こわい",
+            "romaji": "kowai",
+            "meaning": "Scary, frightening",
+            "pos": "i-adj",
+            "example": "怖い夢を見ました。"
+          },
+          {
+            "kanji": "珍しい",
+            "kana": "めずらしい",
+            "romaji": "mezurashii",
+            "meaning": "Rare, unusual",
+            "pos": "i-adj",
+            "example": "珍しい食べ物です。"
+          },
+          {
+            "kanji": "正しい",
+            "kana": "ただしい",
+            "romaji": "tadashii",
+            "meaning": "Correct, right",
+            "pos": "i-adj",
+            "example": "正しい答えです。"
+          },
+          {
+            "kanji": "厳しい",
+            "kana": "きびしい",
+            "romaji": "kibishii",
+            "meaning": "Strict, severe",
+            "pos": "i-adj",
+            "example": "先生は厳しいです。"
+          },
+          {
+            "kanji": "優しい",
+            "kana": "やさしい",
+            "romaji": "yasashii",
+            "meaning": "Kind, gentle",
+            "pos": "i-adj",
+            "example": "優しい人が好きです。"
+          },
+          {
+            "kanji": "賢い",
+            "kana": "かしこい",
+            "romaji": "kashikoi",
+            "meaning": "Smart, clever, wise",
+            "pos": "i-adj",
+            "example": "彼女は賢いです。"
+          },
+          {
+            "kanji": "重い",
+            "kana": "おもい",
+            "romaji": "omoi",
+            "meaning": "Heavy",
+            "pos": "i-adj",
+            "example": "荷物が重いです。"
+          },
+          {
+            "kanji": "軽い",
+            "kana": "かるい",
+            "romaji": "karui",
+            "meaning": "Light (weight)",
+            "pos": "i-adj",
+            "example": "このバッグは軽いです。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Na-adjectives & Nouns for State",
+        "sort_order": 8,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "複雑",
+            "kana": "ふくざつ",
+            "romaji": "fukuzatsu",
+            "meaning": "Complicated, complex",
+            "pos": "na-adj",
+            "example": "問題が複雑です。"
+          },
+          {
+            "kanji": "単純",
+            "kana": "たんじゅん",
+            "romaji": "tanjun",
+            "meaning": "Simple, straightforward",
+            "pos": "na-adj",
+            "example": "単純なミスです。"
+          },
+          {
+            "kanji": "丁寧",
+            "kana": "ていねい",
+            "romaji": "teinei",
+            "meaning": "Polite, careful",
+            "pos": "na-adj",
+            "example": "丁寧な言葉を使います。"
+          },
+          {
+            "kanji": "失礼",
+            "kana": "しつれい",
+            "romaji": "shitsurei",
+            "meaning": "Rude, discourteous",
+            "pos": "na-adj",
+            "example": "失礼なことを言いました。"
+          },
+          {
+            "kanji": "自由",
+            "kana": "じゆう",
+            "romaji": "jiyuu",
+            "meaning": "Free, freedom",
+            "pos": "na-adj",
+            "example": "自由な時間が好きです。"
+          },
+          {
+            "kanji": "安全",
+            "kana": "あんぜん",
+            "romaji": "anzen",
+            "meaning": "Safe, safety",
+            "pos": "na-adj",
+            "example": "安全な道を選びます。"
+          },
+          {
+            "kanji": "危険",
+            "kana": "きけん",
+            "romaji": "kiken",
+            "meaning": "Dangerous, hazardous",
+            "pos": "na-adj",
+            "example": "危険な場所です。"
+          },
+          {
+            "kanji": "必要",
+            "kana": "ひつよう",
+            "romaji": "hitsuyou",
+            "meaning": "Necessary, needed",
+            "pos": "na-adj",
+            "example": "練習が必要です。"
+          },
+          {
+            "kanji": "十分",
+            "kana": "じゅうぶん",
+            "romaji": "juubun",
+            "meaning": "Enough, sufficient",
+            "pos": "na-adj",
+            "example": "時間が十分あります。"
+          },
+          {
+            "kanji": "正確",
+            "kana": "せいかく",
+            "romaji": "seikaku",
+            "meaning": "Accurate, precise",
+            "pos": "na-adj",
+            "example": "正確な情報が必要です。"
+          },
+          {
+            "kanji": "特別",
+            "kana": "とくべつ",
+            "romaji": "tokubetsu",
+            "meaning": "Special",
+            "pos": "na-adj",
+            "example": "今日は特別な日です。"
+          },
+          {
+            "kanji": "一般",
+            "kana": "いっぱん",
+            "romaji": "ippan",
+            "meaning": "General, ordinary",
+            "pos": "na-adj",
+            "example": "一般的な方法です。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Advanced Verbs — Giving & Receiving",
+        "sort_order": 9,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "あげる",
+            "kana": "あげる",
+            "romaji": "ageru",
+            "meaning": "To give (to others)",
+            "pos": "verb",
+            "example": "友達にプレゼントをあげます。"
+          },
+          {
+            "kanji": "くれる",
+            "kana": "くれる",
+            "romaji": "kureru",
+            "meaning": "To give (to me/us)",
+            "pos": "verb",
+            "example": "友達が本をくれました。"
+          },
+          {
+            "kanji": "もらう",
+            "kana": "もらう",
+            "romaji": "morau",
+            "meaning": "To receive",
+            "pos": "verb",
+            "example": "お菓子をもらいました。"
+          },
+          {
+            "kanji": "貸す",
+            "kana": "かす",
+            "romaji": "kasu",
+            "meaning": "To lend",
+            "pos": "verb",
+            "example": "本を貸してください。"
+          },
+          {
+            "kanji": "借りる",
+            "kana": "かりる",
+            "romaji": "kariru",
+            "meaning": "To borrow",
+            "pos": "verb",
+            "example": "図書館で本を借ります。"
+          },
+          {
+            "kanji": "返す",
+            "kana": "かえす",
+            "romaji": "kaesu",
+            "meaning": "To return (something)",
+            "pos": "verb",
+            "example": "本を返します。"
+          },
+          {
+            "kanji": "送る",
+            "kana": "おくる",
+            "romaji": "okuru",
+            "meaning": "To send",
+            "pos": "verb",
+            "example": "メールを送ります。"
+          },
+          {
+            "kanji": "受け取る",
+            "kana": "うけとる",
+            "romaji": "uketoru",
+            "meaning": "To receive, accept",
+            "pos": "verb",
+            "example": "荷物を受け取ります。"
+          },
+          {
+            "kanji": "招待する",
+            "kana": "しょうたいする",
+            "romaji": "shoutai suru",
+            "meaning": "To invite",
+            "pos": "verb",
+            "example": "パーティーに招待します。"
+          },
+          {
+            "kanji": "断る",
+            "kana": "ことわる",
+            "romaji": "kotowaru",
+            "meaning": "To refuse, decline",
+            "pos": "verb",
+            "example": "丁寧に断ります。"
+          },
+          {
+            "kanji": "許す",
+            "kana": "ゆるす",
+            "romaji": "yurusu",
+            "meaning": "To forgive, permit",
+            "pos": "verb",
+            "example": "間違いを許してください。"
+          },
+          {
+            "kanji": "褒める",
+            "kana": "ほめる",
+            "romaji": "homeru",
+            "meaning": "To praise, compliment",
+            "pos": "verb",
+            "example": "先生に褒められました。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Abstract Nouns & Concepts",
+        "sort_order": 10,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "意見",
+            "kana": "いけん",
+            "romaji": "iken",
+            "meaning": "Opinion, view",
+            "pos": "noun",
+            "example": "意見を聞かせてください。"
+          },
+          {
+            "kanji": "理由",
+            "kana": "りゆう",
+            "romaji": "riyuu",
+            "meaning": "Reason, cause",
+            "pos": "noun",
+            "example": "理由を説明します。"
+          },
+          {
+            "kanji": "目的",
+            "kana": "もくてき",
+            "romaji": "mokuteki",
+            "meaning": "Purpose, goal, objective",
+            "pos": "noun",
+            "example": "旅行の目的は何ですか？"
+          },
+          {
+            "kanji": "方法",
+            "kana": "ほうほう",
+            "romaji": "houhou",
+            "meaning": "Method, way",
+            "pos": "noun",
+            "example": "他の方法を試します。"
+          },
+          {
+            "kanji": "問題",
+            "kana": "もんだい",
+            "romaji": "mondai",
+            "meaning": "Problem, issue",
+            "pos": "noun",
+            "example": "問題を解決します。"
+          },
+          {
+            "kanji": "結果",
+            "kana": "けっか",
+            "romaji": "kekka",
+            "meaning": "Result, outcome",
+            "pos": "noun",
+            "example": "試験の結果が出ました。"
+          },
+          {
+            "kanji": "原因",
+            "kana": "げんいん",
+            "romaji": "genin",
+            "meaning": "Cause, origin",
+            "pos": "noun",
+            "example": "事故の原因を調べます。"
+          },
+          {
+            "kanji": "影響",
+            "kana": "えいきょう",
+            "romaji": "eikyou",
+            "meaning": "Influence, effect",
+            "pos": "noun",
+            "example": "天気が影響します。"
+          },
+          {
+            "kanji": "経験",
+            "kana": "けいけん",
+            "romaji": "keiken",
+            "meaning": "Experience",
+            "pos": "noun",
+            "example": "経験が大切です。"
+          },
+          {
+            "kanji": "習慣",
+            "kana": "しゅうかん",
+            "romaji": "shuukan",
+            "meaning": "Habit, custom",
+            "pos": "noun",
+            "example": "良い習慣をつけます。"
+          },
+          {
+            "kanji": "文化",
+            "kana": "ぶんか",
+            "romaji": "bunka",
+            "meaning": "Culture",
+            "pos": "noun",
+            "example": "日本の文化に興味があります。"
+          },
+          {
+            "kanji": "社会",
+            "kana": "しゃかい",
+            "romaji": "shakai",
+            "meaning": "Society",
+            "pos": "noun",
+            "example": "社会のために働きます。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Conjunctions & Discourse Markers",
+        "sort_order": 11,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "しかし",
+            "kana": "しかし",
+            "romaji": "shikashi",
+            "meaning": "However, but",
+            "pos": "conj",
+            "example": "頑張りました。しかし、失敗しました。"
+          },
+          {
+            "kanji": "だから",
+            "kana": "だから",
+            "romaji": "dakara",
+            "meaning": "Therefore, so",
+            "pos": "conj",
+            "example": "雨だから、傘を持ちます。"
+          },
+          {
+            "kanji": "そして",
+            "kana": "そして",
+            "romaji": "soshite",
+            "meaning": "And then, and",
+            "pos": "conj",
+            "example": "食べました。そして、寝ました。"
+          },
+          {
+            "kanji": "それから",
+            "kana": "それから",
+            "romaji": "sorekara",
+            "meaning": "After that, and then",
+            "pos": "conj",
+            "example": "駅に着きました。それから電話しました。"
+          },
+          {
+            "kanji": "でも",
+            "kana": "でも",
+            "romaji": "demo",
+            "meaning": "But, however",
+            "pos": "conj",
+            "example": "行きたい。でも、時間がありません。"
+          },
+          {
+            "kanji": "または",
+            "kana": "または",
+            "romaji": "matawa",
+            "meaning": "Or, either...or",
+            "pos": "conj",
+            "example": "電車またはバスで来てください。"
+          },
+          {
+            "kanji": "もし",
+            "kana": "もし",
+            "romaji": "moshi",
+            "meaning": "If (hypothetical)",
+            "pos": "conj",
+            "example": "もし雨が降ったら、中止します。"
+          },
+          {
+            "kanji": "ところで",
+            "kana": "ところで",
+            "romaji": "tokorode",
+            "meaning": "By the way",
+            "pos": "conj",
+            "example": "ところで、昨日どこへ行きましたか？"
+          },
+          {
+            "kanji": "さらに",
+            "kana": "さらに",
+            "romaji": "sarani",
+            "meaning": "Furthermore, moreover",
+            "pos": "adv",
+            "example": "さらに詳しく説明します。"
+          },
+          {
+            "kanji": "つまり",
+            "kana": "つまり",
+            "romaji": "tsumari",
+            "meaning": "In other words, that is",
+            "pos": "adv",
+            "example": "つまり、無理ということです。"
+          },
+          {
+            "kanji": "やはり",
+            "kana": "やはり",
+            "romaji": "yahari",
+            "meaning": "As expected, after all",
+            "pos": "adv",
+            "example": "やはり日本語は難しいです。"
+          },
+          {
+            "kanji": "たとえば",
+            "kana": "たとえば",
+            "romaji": "tatoeba",
+            "meaning": "For example",
+            "pos": "adv",
+            "example": "たとえば、りんごやみかんです。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Health & Medical",
+        "sort_order": 12,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "体",
+            "kana": "からだ",
+            "romaji": "karada",
+            "meaning": "Body",
+            "pos": "noun",
+            "example": "体に気をつけてください。"
+          },
+          {
+            "kanji": "健康",
+            "kana": "けんこう",
+            "romaji": "kenkou",
+            "meaning": "Health",
+            "pos": "noun",
+            "example": "健康のために運動します。"
+          },
+          {
+            "kanji": "薬",
+            "kana": "くすり",
+            "romaji": "kusuri",
+            "meaning": "Medicine, drug",
+            "pos": "noun",
+            "example": "薬を飲みます。"
+          },
+          {
+            "kanji": "注射",
+            "kana": "ちゅうしゃ",
+            "romaji": "chuusha",
+            "meaning": "Injection, shot",
+            "pos": "noun",
+            "example": "注射が怖いです。"
+          },
+          {
+            "kanji": "手術",
+            "kana": "しゅじゅつ",
+            "romaji": "shujutsu",
+            "meaning": "Surgery, operation",
+            "pos": "noun",
+            "example": "手術は成功しました。"
+          },
+          {
+            "kanji": "症状",
+            "kana": "しょうじょう",
+            "romaji": "shoujou",
+            "meaning": "Symptom",
+            "pos": "noun",
+            "example": "症状を説明します。"
+          },
+          {
+            "kanji": "アレルギー",
+            "kana": "アレルギー",
+            "romaji": "arerugii",
+            "meaning": "Allergy",
+            "pos": "noun",
+            "example": "花粉アレルギーがあります。"
+          },
+          {
+            "kanji": "運動",
+            "kana": "うんどう",
+            "romaji": "undou",
+            "meaning": "Exercise, movement",
+            "pos": "noun",
+            "example": "毎日運動します。"
+          },
+          {
+            "kanji": "食事",
+            "kana": "しょくじ",
+            "romaji": "shokuji",
+            "meaning": "Meal, diet",
+            "pos": "noun",
+            "example": "食事に気をつけます。"
+          },
+          {
+            "kanji": "睡眠",
+            "kana": "すいみん",
+            "romaji": "suimin",
+            "meaning": "Sleep",
+            "pos": "noun",
+            "example": "睡眠が大切です。"
+          },
+          {
+            "kanji": "治る",
+            "kana": "なおる",
+            "romaji": "naoru",
+            "meaning": "To recover, heal (intrans.)",
+            "pos": "verb",
+            "example": "風邪が治りました。"
+          },
+          {
+            "kanji": "治す",
+            "kana": "なおす",
+            "romaji": "naosu",
+            "meaning": "To cure, fix (trans.)",
+            "pos": "verb",
+            "example": "病気を治します。"
+          }
+        ]
+      },
+      {
+        "title": "N4: Hobbies & Leisure",
+        "sort_order": 13,
+        "pass_threshold": 90,
+        "items": [
+          {
+            "kanji": "趣味",
+            "kana": "しゅみ",
+            "romaji": "shumi",
+            "meaning": "Hobby, interest",
+            "pos": "noun",
+            "example": "趣味は読書です。"
+          },
+          {
+            "kanji": "旅行",
+            "kana": "りょこう",
+            "romaji": "ryokou",
+            "meaning": "Travel, trip",
+            "pos": "noun",
+            "example": "旅行が好きです。"
+          },
+          {
+            "kanji": "映画",
+            "kana": "えいが",
+            "romaji": "eiga",
+            "meaning": "Movie, film",
+            "pos": "noun",
+            "example": "映画を見に行きます。"
+          },
+          {
+            "kanji": "音楽",
+            "kana": "おんがく",
+            "romaji": "ongaku",
+            "meaning": "Music",
+            "pos": "noun",
+            "example": "音楽を聞くのが好きです。"
+          },
+          {
+            "kanji": "絵",
+            "kana": "え",
+            "romaji": "e",
+            "meaning": "Picture, painting, drawing",
+            "pos": "noun",
+            "example": "絵を描きます。"
+          },
+          {
+            "kanji": "スポーツ",
+            "kana": "スポーツ",
+            "romaji": "supootsu",
+            "meaning": "Sport",
+            "pos": "noun",
+            "example": "スポーツが好きです。"
+          },
+          {
+            "kanji": "試合",
+            "kana": "しあい",
+            "romaji": "shiai",
+            "meaning": "Match, game, contest",
+            "pos": "noun",
+            "example": "試合に勝ちました。"
+          },
+          {
+            "kanji": "練習",
+            "kana": "れんしゅう",
+            "romaji": "renshuu",
+            "meaning": "Practice, drill",
+            "pos": "noun",
+            "example": "毎日練習します。"
+          },
+          {
+            "kanji": "上手",
+            "kana": "じょうず",
+            "romaji": "jouzu",
+            "meaning": "Skillful, good at",
+            "pos": "na-adj",
+            "example": "ピアノが上手ですね。"
+          },
+          {
+            "kanji": "下手",
+            "kana": "へた",
+            "romaji": "heta",
+            "meaning": "Unskillful, bad at",
+            "pos": "na-adj",
+            "example": "料理が下手です。"
+          },
+          {
+            "kanji": "得意",
+            "kana": "とくい",
+            "romaji": "tokui",
+            "meaning": "Strong point, good at",
+            "pos": "na-adj",
+            "example": "数学が得意です。"
+          },
+          {
+            "kanji": "苦手",
+            "kana": "にがて",
+            "romaji": "nigate",
+            "meaning": "Weak point, bad at",
+            "pos": "na-adj",
+            "example": "英語が苦手です。"
+          }
+        ]
+      }
+    ]
+  }
+]

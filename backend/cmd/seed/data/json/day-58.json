@@ -1,0 +1,337 @@
+[
+  {
+    "kanji": "方法",
+    "reading": "ほうほう",
+    "meaning": "cara, metode"
+  },
+  {
+    "kanji": "法則",
+    "reading": "ほうそく",
+    "meaning": "hukum alam (fisika)"
+  },
+  {
+    "kanji": "勉強法",
+    "reading": "べんきょうほう",
+    "meaning": "cara belajar"
+  },
+  {
+    "kanji": "解決法",
+    "reading": "かいけつほう",
+    "meaning": "cara mengatasi, cara menyelesaikan"
+  },
+  {
+    "kanji": "訪問",
+    "reading": "ほうもん",
+    "meaning": "kunjungan"
+  },
+  {
+    "kanji": "訪ねる",
+    "reading": "たずねる",
+    "meaning": "mengunjungi"
+  },
+  {
+    "kanji": "報告",
+    "reading": "ほうこく",
+    "meaning": "laporan"
+  },
+  {
+    "kanji": "情報",
+    "reading": "じょうほう",
+    "meaning": "informasi"
+  },
+  {
+    "kanji": "忙しい",
+    "reading": "いそがしい",
+    "meaning": "sibuk"
+  },
+  {
+    "kanji": "忘れる",
+    "reading": "わすれる",
+    "meaning": "lupa"
+  },
+  {
+    "kanji": "予防",
+    "reading": "よぼう",
+    "meaning": "pencegahan"
+  },
+  {
+    "kanji": "防ぐ",
+    "reading": "ふせぐ",
+    "meaning": "mencegah"
+  },
+  {
+    "kanji": "希望",
+    "reading": "きぼう",
+    "meaning": "harapan"
+  },
+  {
+    "kanji": "望む",
+    "reading": "のぞむ",
+    "meaning": "berharap"
+  },
+  {
+    "kanji": "貿易",
+    "reading": "ぼうえき",
+    "meaning": "perdagangan internasional"
+  },
+  {
+    "kanji": "枚数",
+    "reading": "まいすう",
+    "meaning": "jumlah lembar"
+  },
+  {
+    "kanji": "１０枚",
+    "reading": "じゅうまい",
+    "meaning": "sepuluh lembar"
+  },
+  {
+    "kanji": "月末",
+    "reading": "げつまつ",
+    "meaning": "akhir bulan"
+  },
+  {
+    "kanji": "年末",
+    "reading": "ねんまつ",
+    "meaning": "akhir tahun"
+  },
+  {
+    "kanji": "週末",
+    "reading": "しゅうまつ",
+    "meaning": "akhir pekan"
+  },
+  {
+    "kanji": "満員",
+    "reading": "まんいん",
+    "meaning": "penuh (dengan penumpang)"
+  },
+  {
+    "kanji": "満足",
+    "reading": "まんぞく",
+    "meaning": "puas"
+  },
+  {
+    "kanji": "不満",
+    "reading": "ふまん",
+    "meaning": "ketidakpuasan"
+  },
+  {
+    "kanji": "未満",
+    "reading": "みまん",
+    "meaning": "kurang dari"
+  },
+  {
+    "kanji": "未定",
+    "reading": "みてい",
+    "meaning": "belum ditentukan"
+  },
+  {
+    "kanji": "睡眠",
+    "reading": "すいみん",
+    "meaning": "tidur (kata benda)"
+  },
+  {
+    "kanji": "眠る",
+    "reading": "ねむる",
+    "meaning": "tidur"
+  },
+  {
+    "kanji": "眠い",
+    "reading": "ねむい",
+    "meaning": "mengantuk"
+  },
+  {
+    "kanji": "事務",
+    "reading": "じむ",
+    "meaning": "administrasi"
+  },
+  {
+    "kanji": "事務所",
+    "reading": "じむしょ",
+    "meaning": "ruang kantor"
+  },
+  {
+    "kanji": "務める",
+    "reading": "つとめる",
+    "meaning": "bertugas sebagai, bekerja sebagai"
+  },
+  {
+    "kanji": "無駄",
+    "reading": "むだ",
+    "meaning": "sia-sia, tidak ada gunanya"
+  },
+  {
+    "kanji": "無料",
+    "reading": "むりょう",
+    "meaning": "gratis"
+  },
+  {
+    "kanji": "無い",
+    "reading": "ない",
+    "meaning": "tidak ada"
+  },
+  {
+    "kanji": "無理",
+    "reading": "むり",
+    "meaning": "tidak mungkin"
+  },
+  {
+    "kanji": "無理をする",
+    "reading": "むりをする",
+    "meaning": "memaksakan diri"
+  },
+  {
+    "kanji": "鳴らす",
+    "reading": "ならす",
+    "meaning": "membunyikan"
+  },
+  {
+    "kanji": "鳴く",
+    "reading": "なく",
+    "meaning": "berkicau, bersuara (binatang)"
+  },
+  {
+    "kanji": "鳴る",
+    "reading": "なる",
+    "meaning": "berbunyi"
+  },
+  {
+    "kanji": "面接",
+    "reading": "めんせつ",
+    "meaning": "interview, wawancara"
+  },
+  {
+    "kanji": "表面",
+    "reading": "ひょうめん",
+    "meaning": "permukaan"
+  },
+  {
+    "kanji": "正面",
+    "reading": "しょうめん",
+    "meaning": "depan"
+  },
+  {
+    "kanji": "反面",
+    "reading": "はんめん",
+    "meaning": "sisi lain"
+  },
+  {
+    "kanji": "毛",
+    "reading": "け",
+    "meaning": "bulu, rambut"
+  },
+  {
+    "kanji": "髪の毛",
+    "reading": "かみのけ",
+    "meaning": "rambut kepala"
+  },
+  {
+    "kanji": "役所",
+    "reading": "やくしょ",
+    "meaning": "kantor (kota)"
+  },
+  {
+    "kanji": "市役所",
+    "reading": "しやくしょ",
+    "meaning": "kantor kota"
+  },
+  {
+    "kanji": "役に立つ",
+    "reading": "やくにたつ",
+    "meaning": "berguna"
+  },
+  {
+    "kanji": "契約",
+    "reading": "けいやく",
+    "meaning": "kontrak"
+  },
+  {
+    "kanji": "約束",
+    "reading": "やくそく",
+    "meaning": "janji"
+  },
+  {
+    "kanji": "予約",
+    "reading": "よやく",
+    "meaning": "booking, reservasi"
+  },
+  {
+    "kanji": "自由",
+    "reading": "じゆう",
+    "meaning": "bebas"
+  },
+  {
+    "kanji": "石油",
+    "reading": "せきゆ",
+    "meaning": "minyak bumi"
+  },
+  {
+    "kanji": "油",
+    "reading": "あぶら",
+    "meaning": "minyak"
+  },
+  {
+    "kanji": "輸入",
+    "reading": "ゆにゅう",
+    "meaning": "impor"
+  },
+  {
+    "kanji": "輸出",
+    "reading": "ゆしゅつ",
+    "meaning": "ekspor"
+  },
+  {
+    "kanji": "郵送する",
+    "reading": "ゆうそうする",
+    "meaning": "mengirim via kantor pos"
+  },
+  {
+    "kanji": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meaning": "kantor pos"
+  },
+  {
+    "kanji": "遊ぶ",
+    "reading": "あそぶ",
+    "meaning": "bermain"
+  },
+  {
+    "kanji": "俳優",
+    "reading": "はいゆう",
+    "meaning": "aktor"
+  },
+  {
+    "kanji": "優勝",
+    "reading": "ゆうしょう",
+    "meaning": "menang, juara utama"
+  },
+  {
+    "kanji": "優しい",
+    "reading": "やさしい",
+    "meaning": "baik hati"
+  },
+  {
+    "kanji": "天気予報",
+    "reading": "てんきよほう",
+    "meaning": "ramalan cuaca"
+  },
+  {
+    "kanji": "予防する",
+    "reading": "よぼうする",
+    "meaning": "mencegah"
+  },
+  {
+    "kanji": "予定",
+    "reading": "よてい",
+    "meaning": "rencana"
+  },
+  {
+    "kanji": "預ける",
+    "reading": "あずける",
+    "meaning": "menitipkan"
+  },
+  {
+    "kanji": "預かる",
+    "reading": "あずかる",
+    "meaning": "menjaga titipan"
+  }
+]

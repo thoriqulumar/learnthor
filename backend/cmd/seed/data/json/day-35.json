@@ -1,0 +1,227 @@
+[
+  {
+    "kanji": "吐き気",
+    "hiragana": "はきけ",
+    "meaning": "mual, ingin muntah"
+  },
+  {
+    "kanji": "めまい",
+    "hiragana": "めまい",
+    "meaning": "pusing"
+  },
+  {
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "meaning": "flu, masuk angin"
+  },
+  {
+    "kanji": "怪我",
+    "hiragana": "けが",
+    "meaning": "cedera"
+  },
+  {
+    "kanji": "傷",
+    "hiragana": "きず",
+    "meaning": "luka gores"
+  },
+  {
+    "kanji": "火傷",
+    "hiragana": "やけど",
+    "meaning": "luka bakar"
+  },
+  {
+    "kanji": "骨折",
+    "hiragana": "こっせつ",
+    "meaning": "patah tulang"
+  },
+  {
+    "kanji": "がん",
+    "hiragana": "がん",
+    "meaning": "kanker"
+  },
+  {
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "meaning": "demam, panas"
+  },
+  {
+    "kanji": "花粉症",
+    "hiragana": "かふんしょう",
+    "meaning": "alergi serbuk sari"
+  },
+  {
+    "kanji": "くしゃみ",
+    "hiragana": "くしゃみ",
+    "meaning": "bersin"
+  },
+  {
+    "kanji": "咳",
+    "hiragana": "せき",
+    "meaning": "batuk"
+  },
+  {
+    "kanji": "腰痛",
+    "hiragana": "ようつう",
+    "meaning": "sakit pinggang"
+  },
+  {
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "meaning": "sakit perut"
+  },
+  {
+    "kanji": "頭痛",
+    "hiragana": "ずつう",
+    "meaning": "sakit kepala"
+  },
+  {
+    "kanji": "筋肉",
+    "hiragana": "きんにく",
+    "meaning": "otot"
+  },
+  {
+    "kanji": "骨",
+    "hiragana": "ほね",
+    "meaning": "tulang"
+  },
+  {
+    "kanji": "鼻水",
+    "hiragana": "はなみず",
+    "meaning": "ingus"
+  },
+  {
+    "kanji": "車酔い",
+    "hiragana": "くるまよい",
+    "meaning": "mabuk kendaraan"
+  },
+  {
+    "kanji": "船酔い",
+    "hiragana": "ふなよい",
+    "meaning": "mabuk laut"
+  },
+  {
+    "kanji": "二日酔い",
+    "hiragana": "ふつかよい",
+    "meaning": "hangover"
+  },
+  {
+    "kanji": "虫歯",
+    "hiragana": "むしば",
+    "meaning": "gigi berlubang"
+  },
+  {
+    "kanji": "目薬",
+    "hiragana": "めぐすり",
+    "meaning": "obat mata"
+  },
+  {
+    "kanji": "注射",
+    "hiragana": "ちゅうしゃ",
+    "meaning": "suntikan"
+  },
+  {
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "meaning": "obat"
+  },
+  {
+    "kanji": "薬局",
+    "hiragana": "やっきょく",
+    "meaning": "apotek"
+  },
+  {
+    "kanji": "ドラッグストア",
+    "hiragana": "ドラッグストア",
+    "meaning": "toko obat"
+  },
+  {
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "meaning": "rumah sakit"
+  },
+  {
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "meaning": "sakit, penyakit"
+  },
+  {
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "meaning": "dokter"
+  },
+  {
+    "kanji": "医師",
+    "hiragana": "いし",
+    "meaning": "dokter (profesi)"
+  },
+  {
+    "kanji": "看護師",
+    "hiragana": "かんごし",
+    "meaning": "perawat"
+  },
+  {
+    "kanji": "医学",
+    "hiragana": "いがく",
+    "meaning": "ilmu kedokteran"
+  },
+  {
+    "kanji": "歯医者",
+    "hiragana": "はいしゃ",
+    "meaning": "dokter gigi"
+  },
+  {
+    "kanji": "お見舞い",
+    "hiragana": "おみまい",
+    "meaning": "menjenguk"
+  },
+  {
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "meaning": "kondisi"
+  },
+  {
+    "kanji": "体調",
+    "hiragana": "たいちょう",
+    "meaning": "kondisi badan"
+  },
+  {
+    "kanji": "体温",
+    "hiragana": "たいおん",
+    "meaning": "suhu badan"
+  },
+  {
+    "kanji": "体温計",
+    "hiragana": "たいおんけい",
+    "meaning": "termometer"
+  },
+  {
+    "kanji": "体重計",
+    "hiragana": "たいじゅうけい",
+    "meaning": "alat timbang badan"
+  },
+  {
+    "kanji": "ストレス",
+    "hiragana": "ストレス",
+    "meaning": "stres"
+  },
+  {
+    "kanji": "アレルギー",
+    "hiragana": "アレルギー",
+    "meaning": "alergi"
+  },
+  {
+    "kanji": "入院",
+    "hiragana": "にゅういん",
+    "meaning": "dirawat di rumah sakit"
+  },
+  {
+    "kanji": "退院",
+    "hiragana": "たいいん",
+    "meaning": "keluar dari rumah sakit"
+  },
+  {
+    "kanji": "心",
+    "hiragana": "こころ",
+    "meaning": "hati"
+  }
+]
